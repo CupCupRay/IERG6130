@@ -4,17 +4,17 @@ import numpy as np
 class Env(object):
     """docstring for env"""
 
-    def __init__(self, max_channel, total_package, attack_mode=0):
+    def __init__(self, max_channel, total_packet, attack_mode=0):
         super(Env, self).__init__()
         self.__MAX_Channel = max_channel
-        self.__Total_package = total_package
+        self.__Total_packet = total_packet
         self.__channels = np.zeros(self.__MAX_Channel)
 
         self.__current_state = 0  # Default current_state is 0
         self.__time = 0  # Reset time
         self.__attack_mode = attack_mode  # Set attacker's mode
         self.__attacked_channels = []
-        self.__sent_packages = 0
+        self.__sent_packets = 0
         self.__ACK_sent = [False]
 
     def reset(self, attack_mode=0):
@@ -23,7 +23,7 @@ class Env(object):
         # print("Current Time is ", self.__time)
         self.__attack_mode = attack_mode  # Set attacker's mode
         self.__attacked_channels = []
-        self.__sent_packages = 0
+        self.__sent_packets = 0
         self.__ACK_sent = [False]
 
     def step(self, action):
@@ -32,7 +32,7 @@ class Env(object):
             print("Error in action")
             return
 
-        if self.__sent_packages == self.__Total_package:
+        if self.__sent_packets == self.__Total_packet:
             print("Error! No more step if already Done!")
             return
 
@@ -42,20 +42,20 @@ class Env(object):
         # Opponent attack
         self.__opponent_attack(self.__attack_mode)
 
-        # Agent changes the channel and sends package
+        # Agent changes the channel and sends packet
         self.__current_state = action
         new_state = self.__current_state
-        self.__send_package(new_state)
+        self.__send_packet(new_state)
 
         # reward
         if self.__ACK_sent[self.__time - 1]:  # whether receive the ACK (sent from t - 1)
-            self.__sent_packages += 1
+            self.__sent_packets += 1
             reward = 1
         else:
             reward = 0
 
         # done
-        if self.__sent_packages == self.__Total_package:
+        if self.__sent_packets == self.__Total_packet:
             done = True
         else:
             done = False
@@ -81,8 +81,8 @@ class Env(object):
             else:
                 self.__channels[i] = 0
 
-    def __send_package(self, current_state):
-        if self.__channels[current_state] == 0:  # Successfully send package
+    def __send_packet(self, current_state):
+        if self.__channels[current_state] == 0:  # Successfully send packet
             self.__ACK_sent.append(True)
         else:  # The channel has been occupied
             self.__ACK_sent.append(False)
@@ -111,7 +111,7 @@ class Env(object):
 
 if __name__ == '__main__':
     MAX_channel = 100
-    Total_package = 1000
+    Total_packet = 1000
     Num_episode = 10
     Attack_mode = 0  # Can change the mode from 0 - 2
 
@@ -125,7 +125,7 @@ if __name__ == '__main__':
 
 
     # Main Loop
-    test_env = Env(MAX_channel, Total_package)
+    test_env = Env(MAX_channel, Total_packet)
     for mode in range(3):
         print("For attack mode = ", mode)
         for num in range(Num_episode):
