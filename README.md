@@ -92,7 +92,7 @@ Normal standard in wireless communication.
 
 The **Packet Send Ratio (PSR)** intuitively indicates the packets sending rate of the agent, assume the bandwidth is not a concern under normal circumstances, then the strategy of agent when to send the packet will determine the performance of the Packet Send Ratio (PSR).
 
-During the packets sending, the jamming attack will make the packets send by the agent (i.e., the packet is sent successfully) fail to receive by the receiver (i.e., not successfully received by receiver, if the agent doesn't receive the ACK signal from the receiver, the agent needs to resend the duplicate packet, which will cause the decrement of the **Packet Delivery Ratio (PDR)**.
+During the packets sending, the jamming attack will make the packets send by the agent (i.e., the packet is sent successfully) fail to receive by the receiver (i.e., not successfully received by receiver, if the agent doesn't receive the ACK signal from the receiver, the agent needs to resend the duplicate packet, which will cause the decrements of the **Packet Delivery Ratio (PDR)**.
 
-So one of the challenge of the agent is to find a trade-off of whether send packets or not. If the agent send too much packets in dangerous channel, which will make the **Packet Delivery Ratio (PDR)** very low, however, if the agent very cautious in sending the packets, the **Packet Send Ratio (PSR)** will be bad.
+Therefore, one of the challenge of the agent is to find a trade-off of whether send packets or not. If the agent send too much packets in dangerous channel, the **Packet Delivery Ratio (PDR)** will be low because many successfully sent packets are not well received by the receiver, however, if the agent is very cautious in sending the packets, the **Packet Send Ratio (PSR)** will be bad due to the low packets sending rate.
 
