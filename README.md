@@ -8,9 +8,13 @@ The agent (node 1) wants to send packets to the target (node 2) through a channe
 
 ![A simplified jamming attack model](framework_model.PNG)
 
-- States: different channels
+- States: different channels.
 
-- Actions: switch the channels
+- Actions: switch the channels, whether send the packet or not.
+
+- Reward: if the agent sent the packet and receive the ACK signal from receiver, reward = 1; if the agent sent the packet but no ACK signal received, reward = -1; otherwise, reward = 0.
+
+- Done: if all the packets are successfully sent by the agent and successfully received by the agent
 
   
 
@@ -31,8 +35,8 @@ The attacker's strategy
 ```python
 def (int) mode: # Attcker's strategy
     0: # No attack
-    1: # Randomly choose only ONE channel to attack
-    2: # Randomly choose only HALF channels to attack
+    1: # Continuously randomly choose only ONE channel to attack
+    2: # Continuously randomly choose HALF channels to attack
 ```
 
 Reset the environment
@@ -45,12 +49,8 @@ Interact with the environment
 
 ```python
 state, reward, done, info = env.step(action)
-```
-
-Output the time cost for sending all the packets
-
-```python
-print(env.time)
+# info = [PSR, PDR] which are the performance metrics, only available if done == True
+# info = None if done == False
 ```
 
 Directly test the environment
@@ -65,7 +65,7 @@ python Env.py
 
 ### Challenge
 
-- **Huge action space**, which is almost equivalent to the state space.
+- **Huge action space**, the agent need to decide not only which channel to go, but also when to send the packet.
 - **Dynamic environment**, the attacked channels may switch due to the attacker's strategy, meanwhile, the attacker's strategy may also change from time to from.
 - **Delayed reward**, the agent will receive the ACK signal from the target after sending another packet.
 
@@ -77,4 +77,22 @@ python Env.py
 
 ### Method
 
-Model-free based, policy based reinforcement learning (Details to be determined)
+**(Maybe)** Model-free based, policy based reinforcement learning (Details to be determined)
+
+
+
+***
+
+### Performance Metrics
+
+Normal standard in wireless communication.
+
+- **Packet Send Ratio (PSR)**: The ratio of packets that are successfully sent out by agent compared to the number of packets it intends or needs to send out.
+- **Packet Delivery Ratio (PDR)**: The ratio of packets that are successfully delivered to a destination compared to the number of packets that have been sent out by the sender, i.e., the ratio of packets that are successfully received by the receiver compared to the total packets successfully sent by the agent.
+
+The **Packet Send Ratio (PSR)** intuitively indicates the packets sending rate of the agent, assume the bandwidth is not a concern under normal circumstances, then the strategy of agent when to send the packet will determine the performance of the Packet Send Ratio (PSR).
+
+During the packets sending, the jamming attack will make the packets send by the agent (i.e., the packet is sent successfully) fail to receive by the receiver (i.e., not successfully received by receiver, if the agent doesn't receive the ACK signal from the receiver, the agent needs to resend the duplicate packet, which will cause the decrement of the **Packet Delivery Ratio (PDR)**.
+
+So one of the challenge of the agent is to find a trade-off of whether send packets or not. If the agent send too much packets in dangerous channel, which will make the **Packet Delivery Ratio (PDR)** very low, however, if the agent very cautious in sending the packets, the **Packet Send Ratio (PSR)** will be bad.
+
