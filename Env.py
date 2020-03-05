@@ -80,14 +80,11 @@ class Env(object):
         else:
             end = False
 
-        if end:
-            self.__PSR = np.round(self.__sent_packets / self.__time, 3)
-            # print("Totally send", self.__sent_packets, "packets. And cost time is", self.__time, ".")
-            self.__PDR = np.round(self.__received_ACK / self.__sent_packets, 3)
-            # print("Total", self.__received_ACK, "packets are received. And send", self.__sent_packets, "packets.")
-            return new_state, reward, end, [self.__PSR, self.__PDR]
-        else:
-            return new_state, reward, end, None
+        self.__PSR = np.round(self.__sent_packets / self.__time, 3)
+        # print("Totally send", self.__sent_packets, "packets. And cost time is", self.__time, ".")
+        self.__PDR = np.round(self.__received_ACK / max(1, self.__sent_packets), 3)
+        # print("Total", self.__received_ACK, "packets are received. And send", self.__sent_packets, "packets.")
+        return new_state, reward, end, [self.__PSR, self.__PDR]
 
     @property
     def act_dim(self):
@@ -224,7 +221,5 @@ if __name__ == '__main__':
                 agent.stay_policy()
                 state_new, new_reward, done, info = test_env.step(agent.act_c, agent.act_s)
                 if done:
-                    print("In Episode,", num, "The PSR is", info[0], ", the PDR is", info[1], ".")
                     break
-                if _ == Max_num_per_episode - 1:
-                    print("In Episode,", num, "The PDR is 0. YOU CANNOT EVEN SEND OUT PACKETS IN ALMOST INFINITY TIME")
+            print("In Episode,", num, "The PSR is", info[0], ", the PDR is", info[1], ".")
