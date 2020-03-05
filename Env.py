@@ -9,6 +9,7 @@ class Env(object):
         self.__Max_channel = max_channel
         self.__Total_packet = total_packet
         self.__channels = np.zeros(self.__Max_channel)
+        self.__seed = 0
 
         self.__current_state = 0  # Default current_state is 0
         self.__time = 0  # Reset time
@@ -23,6 +24,8 @@ class Env(object):
         self.__PDR = 0.0
 
     def reset(self, attack_mode=0):
+        self.__seed = np.random.randint(0, 100000)
+
         self.__current_state = 0  # Default current_state is 0
         self.__time = 0  # Reset time
         # print("Current Time is ", self.__time)
@@ -122,18 +125,54 @@ class Env(object):
             # No attack
             return
         elif mode == 1:
-            # Randomly choose only ONE channel to attack
-            self.__attacked_channels.clear()
-            self.__attacked_channels.append(np.random.choice(self.__Max_channel))
+            # Constant jammer, focus on several channels to continuously attack
+            if not self.__attacked_channels:
+                rd = np.random.choice(self.__Max_channel)
+                for also_attack in range(max(0, rd - 15), min(self.__Max_channel, rd + 15)):
+                    self.__attacked_channels.append(also_attack)
+                # print(self.__attacked_channels)
             self.__attack()
             return
         elif mode == 2:
-            # Randomly choose only HALF channels to attack
+            # Constant jammer, continuously randomly choose several channel to attack
             self.__attacked_channels.clear()
-            while len(self.__attacked_channels) < self.__Max_channel / 2:
+            while len(self.__attacked_channels) < self.__Max_channel / 4:
                 x = np.random.randint(0, self.__Max_channel)
                 if x not in self.__attacked_channels:
                     self.__attacked_channels.append(x)
+            self.__attack()
+            return
+        elif mode == 3:
+            # Random jammer, switch back and forth between sleep and active, when active it focus on several channels
+            # to attack
+            active_time = 10
+            sleep_time = 10
+            np.random.seed(self.__seed)
+            if self.__time % (active_time + sleep_time) < active_time: # when active
+                self.__attacked_channels.clear()
+                while len(self.__attacked_channels) < self.__Max_channel / 4:
+                    x = np.random.randint(0, self.__Max_channel)
+                    if x not in self.__attacked_channels:
+                        self.__attacked_channels.append(x)
+            else:
+                self.__attacked_channels.clear()
+            # print("In mode 3, the attacked channels are", self.__attacked_channels)
+            self.__attack()
+            return
+        elif mode == 4:
+            # Random jammer, switch back and forth between sleep and active, when active it will randomly choose
+            # servel channels to attack
+            active_time = 10
+            sleep_time = 10
+            if self.__time % (active_time + sleep_time) < active_time: # when active
+                self.__attacked_channels.clear()
+                while len(self.__attacked_channels) < self.__Max_channel / 4:
+                    x = np.random.randint(0, self.__Max_channel)
+                    if x not in self.__attacked_channels:
+                        self.__attacked_channels.append(x)
+            else:
+                self.__attacked_channels.clear()
+            # print("In mode 4, the attacked channels are", self.__attacked_channels)
             self.__attack()
             return
 
@@ -158,6 +197,10 @@ if __name__ == '__main__':
             self.__action_move_channel = np.random.choice(100)
             self.__action_send_packet = np.random.choice(2)
 
+        def stay_policy(self):
+            self.__action_move_channel = 0
+            self.__action_send_packet = 1
+
         @property
         def act_c(self):
             return self.__action_move_channel
@@ -171,15 +214,17 @@ if __name__ == '__main__':
     test_env = Env(Max_channel, Total_packet)
     agent = Agent()
 
-    for test_mode in range(3):
+    for test_mode in range(5):
         print("--------------------------------------------------------")
         print("For attack mode = ", test_mode)
         for num in range(Num_episode):
             test_env.reset(test_mode)
             done = False
             for _ in range(Max_num_per_episode):
-                agent.update_policy()
+                agent.stay_policy()
                 state_new, new_reward, done, info = test_env.step(agent.act_c, agent.act_s)
                 if done:
                     print("In Episode,", num, "The PSR is", info[0], ", the PDR is", info[1], ".")
                     break
+                if _ == Max_num_per_episode - 1:
+                    print("In Episode,", num, "The PDR is 0. YOU CANNOT EVEN SEND OUT PACKETS IN ALMOST INFINITY TIME")

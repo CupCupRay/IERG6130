@@ -35,8 +35,10 @@ The attacker's strategy
 ```python
 def (int) mode: # Attcker's strategy
     0: # No attack
-    1: # Continuously randomly choose only ONE channel to attack
-    2: # Continuously randomly choose HALF channels to attack
+    1: # Constant jammer, focus on several channels to continuously attack
+    2: # Constant jammer, continuously randomly choose several channel to attack
+    3: # Random jammer, switch back and forth between sleep and active, when active it focus on several channels to attack
+    4: # Random jammer, switch back and forth between sleep and active, when active it will randomly choose several channels to attack
 ```
 
 Reset the environment
