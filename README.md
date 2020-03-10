@@ -39,6 +39,7 @@ def (int) mode: # Attcker's strategy
     2: # Constant jammer, continuously randomly choose several channel to attack
     3: # Random jammer, switch back and forth between sleep and active, when active it focus on several channels to attack
     4: # Random jammer, switch back and forth between sleep and active, when active it will randomly choose several channels to attack
+    5: # Reactive jammer, which can passively listen and obtain the communication channel used by the agent, and attack
 ```
 
 Reset the environment
