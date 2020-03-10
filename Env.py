@@ -17,7 +17,8 @@ class Env(object):
         self.__attacked_channels = []
         self.__ACK_sent = [False]
         self.__last_round_send_packet = False
-        self.__attack_target = [] # Only for attacker mode = 3 
+        self.__last_round_send_channel = -1  # Only for attacker mode = 5
+        self.__attack_target = []  # Only for attacker mode = 3
 
         self.__sent_packets = 0
         self.__received_ACK = 0
@@ -34,7 +35,8 @@ class Env(object):
         self.__attacked_channels = []
         self.__ACK_sent = [False]
         self.__last_round_send_packet = False
-        self.__attack_target = [] # Only for attacker mode = 3 
+        self.__last_round_send_channel = -1  # Only for attacker mode = 5
+        self.__attack_target = []  # Only for attacker mode = 3
 
         self.__sent_packets = 0
         self.__received_ACK = 0
@@ -72,9 +74,11 @@ class Env(object):
         if action_send_packet == 1:
             self.__send_packet(new_state, True)
             self.__last_round_send_packet = True
+            self.__last_round_send_channel = new_state
         else:
             self.__send_packet(new_state, False)
             self.__last_round_send_packet = False
+            self.__last_round_send_channel = -1
 
         # done
         if self.__received_ACK == self.__Total_packet:
@@ -153,7 +157,7 @@ class Env(object):
                     if x not in self.__attack_target:
                         self.__attack_target.append(x)
 
-            if self.__time % (active_time + sleep_time) < active_time: # when active
+            if self.__time % (active_time + sleep_time) < active_time:  # when active
                 self.__attacked_channels.clear()
                 for i in range(len(self.__attack_target)):
                     self.__attacked_channels.append(self.__attack_target[i])
@@ -167,7 +171,7 @@ class Env(object):
             # servel channels to attack
             active_time = 10
             sleep_time = 10
-            if self.__time % (active_time + sleep_time) < active_time: # when active
+            if self.__time % (active_time + sleep_time) < active_time:  # when active
                 self.__attacked_channels.clear()
                 while len(self.__attacked_channels) < self.__Max_channel / 4:
                     x = np.random.randint(0, self.__Max_channel)
@@ -175,6 +179,17 @@ class Env(object):
                         self.__attacked_channels.append(x)
             else:
                 self.__attacked_channels.clear()
+            # print("In mode 4, the attacked channels are", self.__attacked_channels)
+            self.__attack()
+            return
+        elif mode == 5:
+            # Reactive jammer, which can passively listen and obtain the communication channel used by the agent,
+            # and attack
+            if self.__last_round_send_channel != -1:  # Sniff the channel that agent sent packet
+                self.__attacked_channels.clear()
+                for also_attack in range(max(0, self.__last_round_send_channel - 5),
+                                         min(self.__Max_channel, self.__last_round_send_channel + 5)):
+                    self.__attacked_channels.append(also_attack)
             # print("In mode 4, the attacked channels are", self.__attacked_channels)
             self.__attack()
             return
@@ -191,11 +206,11 @@ if __name__ == '__main__':
     class Agent(object):
         """docstring for Agent"""
 
-        def __init__(self, Max_channel):
+        def __init__(self, max_channel):
             super(Agent, self).__init__()
             self.__action_move_channel = 0
             self.__action_send_packet = 1
-            self.__Max_channel = Max_channel
+            self.__Max_channel = max_channel
 
         def random_policy(self):
             self.__action_move_channel = np.random.choice(self.__Max_channel)
@@ -218,14 +233,14 @@ if __name__ == '__main__':
     test_env = Env(Max_channel, Total_packet)
     agent = Agent(Max_channel)
 
-    for test_mode in range(5):
+    for test_mode in range(6):
         print("--------------------------------------------------------")
         print("For attack mode = ", test_mode)
         for num in range(Num_episode):
             test_env.reset(test_mode)
             done = False
             for _ in range(Max_num_per_episode):
-                agent.random_policy()
+                agent.stay_policy()
                 state_new, new_reward, done, info = test_env.step(agent.act_c, agent.act_s)
                 if done:
                     break
