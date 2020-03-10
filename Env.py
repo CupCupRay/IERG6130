@@ -17,6 +17,7 @@ class Env(object):
         self.__attacked_channels = []
         self.__ACK_sent = [False]
         self.__last_round_send_packet = False
+        self.__attack_target = [] # Only for attacker mode = 3 
 
         self.__sent_packets = 0
         self.__received_ACK = 0
@@ -33,6 +34,7 @@ class Env(object):
         self.__attacked_channels = []
         self.__ACK_sent = [False]
         self.__last_round_send_packet = False
+        self.__attack_target = [] # Only for attacker mode = 3 
 
         self.__sent_packets = 0
         self.__received_ACK = 0
@@ -144,13 +146,17 @@ class Env(object):
             # to attack
             active_time = 10
             sleep_time = 10
-            np.random.seed(self.__seed)
+            # np.random.seed(self.__seed)
+            if not self.__attack_target:
+                while len(self.__attack_target) < self.__Max_channel / 4:
+                    x = np.random.randint(0, self.__Max_channel)
+                    if x not in self.__attack_target:
+                        self.__attack_target.append(x)
+
             if self.__time % (active_time + sleep_time) < active_time: # when active
                 self.__attacked_channels.clear()
-                while len(self.__attacked_channels) < self.__Max_channel / 4:
-                    x = np.random.randint(0, self.__Max_channel)
-                    if x not in self.__attacked_channels:
-                        self.__attacked_channels.append(x)
+                for i in range(len(self.__attack_target)):
+                    self.__attacked_channels.append(self.__attack_target[i])
             else:
                 self.__attacked_channels.clear()
             # print("In mode 3, the attacked channels are", self.__attacked_channels)
@@ -185,14 +191,15 @@ if __name__ == '__main__':
     class Agent(object):
         """docstring for Agent"""
 
-        def __init__(self):
+        def __init__(self, Max_channel):
             super(Agent, self).__init__()
             self.__action_move_channel = 0
             self.__action_send_packet = 1
+            self.__Max_channel = Max_channel
 
-        def update_policy(self):
-            self.__action_move_channel = np.random.choice(100)
-            self.__action_send_packet = np.random.choice(2)
+        def random_policy(self):
+            self.__action_move_channel = np.random.choice(self.__Max_channel)
+            self.__action_send_packet = np.random.randint(2)
 
         def stay_policy(self):
             self.__action_move_channel = 0
@@ -209,7 +216,7 @@ if __name__ == '__main__':
 
     # Main Loop
     test_env = Env(Max_channel, Total_packet)
-    agent = Agent()
+    agent = Agent(Max_channel)
 
     for test_mode in range(5):
         print("--------------------------------------------------------")
@@ -218,8 +225,8 @@ if __name__ == '__main__':
             test_env.reset(test_mode)
             done = False
             for _ in range(Max_num_per_episode):
-                agent.stay_policy()
+                agent.random_policy()
                 state_new, new_reward, done, info = test_env.step(agent.act_c, agent.act_s)
                 if done:
                     break
-            print("In Episode,", num, "The PSR is", info[0], ", the PDR is", info[1], ".")
+            print("In Episode", num, ", The PSR is", info[0], ", the PDR is", info[1], ".")
