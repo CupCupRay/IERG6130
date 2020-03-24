@@ -1,19 +1,34 @@
 import numpy as np
 
+default_config = dict(
+    # Environment hyper-parameters
+    env_name="Jamming Attack",
+    max_iteration=10,
+    max_episode_length=100000,
+    evaluate_interval=100,
+    max_channel=100,
+    total_packet=1000,
+    # Training hyper-parameters
+    gamma=0.99,
+    eps=0.3,
+    seed=0,
+)
+
 
 class Env(object):
     """docstring for env"""
 
-    def __init__(self, max_channel, total_packet, attack_mode=0):
+    def __init__(self, config):
         super(Env, self).__init__()
-        self.__Max_channel = max_channel
-        self.__Total_packet = total_packet
+        self.__config = config
+
+        self.__Max_channel = config["max_channel"]
+        self.__Total_packet = config["total_packet"]
         self.__channels = np.zeros(self.__Max_channel)
-        self.__seed = 0
 
         self.__current_state = 0  # Default current_state is 0
         self.__time = 0  # Reset time
-        self.__attack_mode = attack_mode  # Set attacker's mode
+        self.__attack_mode = 0  # Set attacker's mode to be default mode
         self.__attacked_channels = []
         self.__ACK_sent = [False]
         self.__last_round_send_packet = False
@@ -26,8 +41,9 @@ class Env(object):
         self.__PDR = 0.0
 
     def reset(self, attack_mode=0):
-        self.__seed = np.random.randint(0, 100000)
-
+        print("--------------------------------------------------------")
+        print("Test", self.__config["env_name"], "with Attack Mode =", attack_mode)
+        
         self.__current_state = 0  # Default current_state is 0
         self.__time = 0  # Reset time
         # print("Current Time is ", self.__time)
@@ -196,21 +212,15 @@ class Env(object):
 
 
 if __name__ == '__main__':
-    Max_channel = 100
-    Total_packet = 1000
-    Num_episode = 10
-    Max_num_per_episode = 100000
-    Attack_mode = 0  # Can change the mode from 0 - 2
-
 
     class Agent(object):
         """docstring for Agent"""
 
-        def __init__(self, max_channel):
+        def __init__(self, config):
             super(Agent, self).__init__()
             self.__action_move_channel = 0
             self.__action_send_packet = 1
-            self.__Max_channel = max_channel
+            self.__Max_channel = config["max_channel"]
 
         def random_policy(self):
             self.__action_move_channel = np.random.choice(self.__Max_channel)
@@ -230,17 +240,15 @@ if __name__ == '__main__':
 
 
     # Main Loop
-    test_env = Env(Max_channel, Total_packet)
-    agent = Agent(Max_channel)
+    test_env = Env(default_config)
+    agent = Agent(default_config)
 
     for test_mode in range(6):
-        print("--------------------------------------------------------")
-        print("For attack mode = ", test_mode)
-        for num in range(Num_episode):
+        for num in range(default_config["max_iteration"]):
             test_env.reset(test_mode)
             done = False
-            for _ in range(Max_num_per_episode):
-                agent.stay_policy()
+            for _ in range(default_config["max_episode_length"]):
+                agent.random_policy()
                 state_new, new_reward, done, info = test_env.step(agent.act_c, agent.act_s)
                 if done:
                     break
