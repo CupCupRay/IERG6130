@@ -1,6 +1,6 @@
 import numpy as np
 import random
-from Environment import Env
+from environment import Env
 
 import torch
 import torch.nn as nn
@@ -24,14 +24,13 @@ default_config = dict(
     decay_rate = 0.99,
     learning_rate = 1e-4,
     batch_size = 10,
-    set_seed = 66,
-    save_freq = 1000,
+    save_freq = 2000,
     log_freq = 10,
 )
 
 
 env = Env(default_config)
-torch.manual_seed(default_config["set_seed"])
+torch.manual_seed(default_config["seed"])
 
 
 
@@ -57,7 +56,17 @@ class Channel_Policy(nn.Module):
         x = Variable(torch.from_numpy(x).float().unsqueeze(0))
         probs = self.forward(x)
         m = Categorical(probs)
-        action = m.sample()
+
+        # eps_greedy
+        random_num = np.random.uniform(0, 1)
+        if random_num < default_config["eps"]:
+            rnd_act_int = np.random.choice(self.num_channels)
+            rnd_act = np.zeros(1)
+            rnd_act[0] = rnd_act_int
+            action = torch.from_numpy(np.array(rnd_act))
+        else:
+            action = m.sample()
+        # print(action)
 
         self.saved_log_probs.append(m.log_prob(action))
         return action
@@ -87,7 +96,17 @@ class Send_Packet_Policy(nn.Module):
         x = Variable(torch.from_numpy(x).float().unsqueeze(0))
         probs = self.forward(x)
         m = Categorical(probs)
-        action = m.sample()
+
+        # eps_greedy
+        random_num = np.random.uniform(0, 1)
+        if random_num < default_config["eps"]:
+            rnd_act_int = np.random.choice(self.send_packets)
+            rnd_act = np.zeros(1)
+            rnd_act[0] = rnd_act_int
+            action = torch.from_numpy(rnd_act)
+        else:
+            action = m.sample()
+        # print(action)
 
         self.saved_log_probs.append(m.log_prob(action))
         return action
@@ -223,7 +242,7 @@ if __name__ == '__main__':
     running_reward = None
     reward_sum = 0
     prev_x = None
-    filename = './data/logs.txt'
+    filename = './data/pg_logs.txt'
 
     for i_episode in range(default_config["max_iteration"]):
         attack_mode = random.randint(0, 6)
@@ -237,9 +256,10 @@ if __name__ == '__main__':
             x = np.zeros(default_config["max_channel"])
             x[agent.cur_channel] = 1
             # Put into the NN
-            action_c = agent.c_policy.select_action(x)
-            action_s = agent.s_policy.select_action(x)
-            state_new, reward, done, info = env.step(agent.act_c, agent.act_s)
+            action_c = agent.c_policy.select_action(x).cpu().detach().numpy()[0]
+            action_s = agent.s_policy.select_action(x).cpu().detach().numpy()[0]
+            # print(int(action_c), " ", int(action_s))
+            state_new, reward, done, info = env.step(int(action_c), int(action_s))
             agent.update_current_channel(state_new)
             reward_sum += reward
 
@@ -251,12 +271,14 @@ if __name__ == '__main__':
                 # tracking log
                 running_reward = reward_sum if running_reward is None else running_reward * 0.99 + reward_sum * 0.01
                 print('REINFORCE ep %03d done. reward: %f. reward running mean: %f' % (i_episode, reward_sum, running_reward))
-                # with open(filename, 'a') as file_object:
-                #     file_object.write('REINFORCE ep %d done. reward: %f. reward running mean: %f\n' % (i_episode, reward_sum, running_reward))
-                #     file_object.close()
+                if i_episode % default_config["log_freq"] == 0:
+                    with open(filename, 'a') as file_object:
+                        file_object.write('REINFORCE ep %d done. reward: %f. reward running mean: %f\n' % (i_episode, reward_sum, running_reward))
+                        file_object.close()
 
                 reward_sum = 0
                 break
+
         print('In Episode %d, The PSR is %f, the PDR is %f.' %(i_episode, info[0], info[1]))
         if i_episode % default_config["log_freq"] == 0:
             with open(filename, 'a') as file_object:
@@ -271,8 +293,8 @@ if __name__ == '__main__':
         # Save model in every 100 episode
         if i_episode % default_config["save_freq"] == 0:
             print('ep %d: model saving...' % (i_episode))
-            torch.save(agent.c_policy.state_dict(), './data/switch_channel_policy.pkl')
-            torch.save(agent.s_policy.state_dict(), './data/send_packet_policy.pkl')
+            torch.save(agent.c_policy.state_dict(), './data/pg_switch_channel.pkl')
+            torch.save(agent.s_policy.state_dict(), './data/pg_send_packet.pkl')
 
     print("-------------------------------------------------------------------------------------------")
     print("Finish Training")
