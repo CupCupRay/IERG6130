@@ -6,7 +6,7 @@
 
 The agent (node 1) wants to send packets to the target (node 2) through a channel, the jammer will occupy and attack some channels <font color=red>(red line)</font>, afterwards the packets sent from the occupied channel will fail, so the agent needs to move to other safe channels <font color=blue>(blue line)</font> to evade the jamming attack. The strategy of the jammer may be various, and the agent needs to handle the attack without knowing the strategy of attacker.
 
-![A simplified jamming attack model](framework_model.PNG)
+![A simplified jamming attack model](./figure/framework_model.PNG)
 
 - States: different channels.
 
@@ -80,7 +80,7 @@ python Env.py
 
 ### Method
 
-**(Maybe)** Model-free based, policy based reinforcement learning (Details to be determined)
+Model-free based, policy gradient without baseline reinforcement learning
 
 
 
