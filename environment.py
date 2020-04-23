@@ -218,6 +218,7 @@ if __name__ == '__main__':
 
         def __init__(self, config):
             super(Agent, self).__init__()
+            self.__current_channel = 0
             self.__action_move_channel = 0
             self.__action_send_packet = 1
             self.__Max_channel = config["max_channel"]
