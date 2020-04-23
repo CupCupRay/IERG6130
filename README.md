@@ -59,7 +59,7 @@ state, reward, done, info = env.step(action)
 Directly test the environment
 
 ```python
-python Env.py
+python environment.py
 ```
 
 
@@ -88,6 +88,16 @@ python Env.py
 
 ***
 
+### Trainning
+
+Start to train agent 
+```python
+python pg-train.py # For policy gradient without baseline
+python pgb-train.py # For policy gradient with baseline
+```
+
+***
+
 ### Performance Metrics
 
 Normal standard in wireless communication.
@@ -101,3 +111,8 @@ During the packets sending, the jamming attack will make the packets send by the
 
 Therefore, one of the challenge of the agent is to find a trade-off of whether send packets or not. If the agent send too much packets in dangerous channel, the **Packet Delivery Ratio (PDR)** will be low because many successfully sent packets are not well received by the receiver, however, if the agent is very cautious in sending the packets, the **Packet Send Ratio (PSR)** will be bad due to the low packets sending rate.
 
+***
+
+### Acknowledgements 
+
+Thanks for the help from RLexample <https://github.com/cuhkrlcourse/RLexample> in CUHK RL course.
