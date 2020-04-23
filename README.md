@@ -80,7 +80,9 @@ python Env.py
 
 ### Method
 
-Model-free based, policy gradient without baseline reinforcement learning
+1. Model-free based, **policy gradient without baseline** reinforcement learning
+
+2. Model-free based, **policy gradient with baseline** reinforcement learning
 
 
 
