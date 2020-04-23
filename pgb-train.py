@@ -34,7 +34,6 @@ torch.manual_seed(default_config["seed"])
 
 
 
-
 class Channel_Baseline(nn.Module):
     def __init__(self, num_channels=100):
         super(Channel_Baseline, self).__init__()
