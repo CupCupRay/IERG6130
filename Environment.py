@@ -43,7 +43,7 @@ class Env(object):
     def reset(self, attack_mode=0):
         print("--------------------------------------------------------")
         print("Test", self.__config["env_name"], "with Attack Mode =", attack_mode)
-        
+
         self.__current_state = 0  # Default current_state is 0
         self.__time = 0  # Reset time
         # print("Current Time is ", self.__time)
@@ -132,7 +132,7 @@ class Env(object):
             self.__sent_packets += 1
             self.__received_ACK += 1
             self.__ACK_sent.append(True)
-        elif self.__channels[current_state] == 1 and flag:  # The channel has been occupied 
+        elif self.__channels[current_state] == 1 and flag:  # The channel has been occupied
             self.__sent_packets += 1
             self.__ACK_sent.append(False)
         else:  # Did not send the packet
