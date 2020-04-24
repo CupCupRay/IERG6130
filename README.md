@@ -158,11 +158,11 @@ Here we show the results that during the 10,000 iterations of training by applyi
 
 - Higher Packet Delivery Ratio (PDR) means **lower packet loss rate** during the wireless communication.
 
-<center class="half">
+<center>
     <img src="./figure/pg.PNG" width="700"/>
 </center>
 
-<center class="half">
+<center>
 <img src="./figure/pgb.PNG" width="700"/>
 </center>
 
@@ -170,7 +170,7 @@ From the figures above we can conclude that both policy gradient with baseline a
 
 Then let's compare these two algorithm with each other,
 
-<center class="half">
+<center>
 <img src="./figure/comparison.PNG" width="700"/>
 </center>
 
