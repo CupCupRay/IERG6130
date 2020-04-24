@@ -6,7 +6,7 @@
 
 The agent (node 1) wants to send packets to the target (node 2) through a channel, the jammer will occupy and attack some channels <font color=red>(red line)</font>, afterwards the packets sent from the occupied channel will fail, so the agent needs to move to other safe channels <font color=blue>(blue line)</font> to evade the jamming attack. The strategy of the jammer may be various, and the agent needs to handle the attack without knowing the strategy of attacker.
 
-![A simplified jamming attack model](./figure/framework_model.PNG)
+<center><img src="./figure/framework_model.PNG" width="80%"></center>
 
 - States: different channels.
 
@@ -37,9 +37,11 @@ def (int) mode: # Attcker's strategy
     0: # No attack
     1: # Constant jammer, focus on several channels to continuously attack
     2: # Constant jammer, continuously randomly choose several channel to attack
-    3: # Random jammer, switch back and forth between sleep and active, when active it focus on several channels to attack
-    4: # Random jammer, switch back and forth between sleep and active, when active it will randomly choose several channels to attack
-    5: # Reactive jammer, which can passively listen and obtain the communication channel used by the agent, and attack
+    3: # Random jammer, switch back and forth between sleep and active, 
+       # when active it focus on several channels to attack
+    4: # Random jammer, switch back and forth between sleep and active, 
+       # when active it will randomly choose several channels to attack
+    5: # Reactive jammer, which can passively listen and obtain the communication channel used by agent, and attack
 ```
 
 Reset the environment
@@ -158,21 +160,15 @@ Here we show the results that during the 10,000 iterations of training by applyi
 
 - Higher Packet Delivery Ratio (PDR) means **lower packet loss rate** during the wireless communication.
 
-<center>
-    <img src="./figure/pg.PNG" width="700"/>
-</center>
+<center><img src="./figure/pg.PNG" width="100%"/></center>
 
-<center>
-<img src="./figure/pgb.PNG" width="700"/>
-</center>
+<center><img src="./figure/pgb.PNG" width="100%"/></center>
 
 From the figures above we can conclude that both policy gradient with baseline and without baseline is evidently effective in stably increasing the Higher Packet Send Ratio (PSR). Meanwhile, the Higher Packet Delivery Ratio (PDR) is in a relatively stable state, which is not bad news since the agent improves the packet transmission rate as well as keep the packet loss rate in an acceptable range. So overall, the quality of wireless communications has been improved even in the presence of jamming attacks.
 
 Then let's compare these two algorithm with each other,
 
-<center>
-<img src="./figure/comparison.PNG" width="700"/>
-</center>
+<center><img src="./figure/comparison.PNG" width="100%"/></center>
 
 From the figure above we can conclude that, compare to the policy gradient without baseline, the policy gradient with baseline has better performance in training the agent in terms of the Higher Packet Send Ratio (PSR).
 
