@@ -93,8 +93,8 @@ These are the packets that we used in the IERG6130 Reinforcement Learning course
 ### Challenge
 
 - **Huge action space**, the agent need to decide not only which channel to go, but also when to send the packet.
-- **Dynamic environment**, the attacked channels may switch due to the attacker's strategy, meanwhile, the attacker's strategy may also change from time to from.
-- **Delayed reward**, the agent will receive the ACK signal from the target after sending another packet.
+- **Dynamic environment**, the attacked channels may switch due to the attacker's strategy, meanwhile, the attacker's strategy may also change from time to time.
+- **Delayed reward**, the agent will receive the ACK signal from the target after sending another packets.
 
 
 
@@ -116,7 +116,7 @@ These are the packets that we used in the IERG6130 Reinforcement Learning course
 
 ***
 
-### Trainning
+### Training
 
 Start to train agent 
 ```python
@@ -149,7 +149,6 @@ Therefore, one of the challenge of the agent is to find a trade-off of whether s
 
 
 
-
 ***
 
 ### Result 
@@ -172,7 +171,7 @@ Then let's compare these two algorithm with each other,
 
 From the figure above we can conclude that, compare to the policy gradient without baseline, the policy gradient with baseline has better performance in training the agent in terms of the Higher Packet Send Ratio (PSR).
 
-The final agent packets together with the training log files are in the `./data` floder, the agent packets are named as `"xx_send_packet.pkl"` and `"xx_switch_channel.pkl"`, in which the `"xx"` are related to the algorithm we have applied.
+The final agent packets together with the training log files are in the `./data` folder, the agent packets are named as `"xx_send_packet.pkl"` and `"xx_switch_channel.pkl"`, in which the `"xx"` are related to the algorithm we have applied.
 
 Due to the limitation of time, we did not perform more iteration training. In future work, we will find the convergence point of these algorithms and conduct more analysis and make further improvements.
 
