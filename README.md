@@ -120,8 +120,8 @@ These are the packets that we used in the IERG6130 Reinforcement Learning course
 
 Start to train agent 
 ```python
-python pg-train.py # For policy gradient without baseline
-python pgb-train.py # For policy gradient with baseline
+python pg_train.py # For policy gradient without baseline
+python pgb_train.py # For policy gradient with baseline
 ```
 
 
