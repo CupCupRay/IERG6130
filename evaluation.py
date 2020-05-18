@@ -14,10 +14,12 @@ from torch.distributions import Categorical
 default_config = dict(
     # Environment hyper-parameters
     env_name = "Jamming Attack",
-    max_iteration = 10000,
-    max_episode_length = 10000,
+    max_iteration = 1000,
+    max_episode_length = 1000,
     evaluate_interval = 100,
     max_channel = 100,
+    # Test Sensitivity to Hyper-parameters
+    # max_channel = 200,
     total_packet = 1000,
     # Training hyper-parameters
     gamma = 0.99,
@@ -34,7 +36,7 @@ default_config = dict(
 
 
 env = Env(default_config)
-torch.manual_seed(default_config["seed"])
+# torch.manual_seed(default_config["seed"])
 
 
 # Create the agent
@@ -70,7 +72,7 @@ if __name__ == '__main__':
     running_reward = None
     reward_sum = 0
     prev_x = None
-    filename = './data/pg_logs.txt'
+    filename = './data/evaluation_logs.txt'
 
     for i_episode in range(default_config["max_iteration"]):
         attack_mode = random.randint(0, 6)
