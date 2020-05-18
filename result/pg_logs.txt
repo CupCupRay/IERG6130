@@ -1,0 +1,2000 @@
+REINFORCE ep 0 done. reward: 999.000000. reward running mean: 999.000000
+In Episode 0, The PSR is 0.506000, the PDR is 1.000000.
+REINFORCE ep 10 done. reward: 700.000000. reward running mean: 978.270759
+In Episode 10, The PSR is 0.493000, the PDR is 0.770000.
+REINFORCE ep 20 done. reward: 902.000000. reward running mean: 968.604993
+In Episode 20, The PSR is 0.503000, the PDR is 0.912000.
+REINFORCE ep 30 done. reward: 608.000000. reward running mean: 943.871295
+In Episode 30, The PSR is 0.523000, the PDR is 0.719000.
+REINFORCE ep 40 done. reward: 893.000000. reward running mean: 936.292283
+In Episode 40, The PSR is 0.508000, the PDR is 0.904000.
+REINFORCE ep 50 done. reward: 577.000000. reward running mean: 923.093023
+In Episode 50, The PSR is 0.526000, the PDR is 0.703000.
+REINFORCE ep 60 done. reward: 674.000000. reward running mean: 907.862488
+In Episode 60, The PSR is 0.510000, the PDR is 0.755000.
+REINFORCE ep 70 done. reward: 845.000000. reward running mean: 902.025611
+In Episode 70, The PSR is 0.507000, the PDR is 0.867000.
+REINFORCE ep 80 done. reward: 855.000000. reward running mean: 895.392257
+In Episode 80, The PSR is 0.509000, the PDR is 0.874000.
+REINFORCE ep 90 done. reward: 666.000000. reward running mean: 874.466115
+In Episode 90, The PSR is 0.501000, the PDR is 0.750000.
+REINFORCE ep 100 done. reward: 999.000000. reward running mean: 869.817802
+In Episode 100, The PSR is 0.515000, the PDR is 1.000000.
+REINFORCE ep 110 done. reward: 884.000000. reward running mean: 853.366584
+In Episode 110, The PSR is 0.538000, the PDR is 0.897000.
+REINFORCE ep 120 done. reward: 652.000000. reward running mean: 842.196783
+In Episode 120, The PSR is 0.502000, the PDR is 0.742000.
+REINFORCE ep 130 done. reward: 896.000000. reward running mean: 838.401028
+In Episode 130, The PSR is 0.544000, the PDR is 0.907000.
+REINFORCE ep 140 done. reward: 839.000000. reward running mean: 832.693756
+In Episode 140, The PSR is 0.515000, the PDR is 0.862000.
+REINFORCE ep 150 done. reward: 592.000000. reward running mean: 819.707120
+In Episode 150, The PSR is 0.529000, the PDR is 0.711000.
+REINFORCE ep 160 done. reward: 999.000000. reward running mean: 811.311554
+In Episode 160, The PSR is 0.549000, the PDR is 1.000000.
+REINFORCE ep 170 done. reward: 999.000000. reward running mean: 817.513908
+In Episode 170, The PSR is 0.539000, the PDR is 1.000000.
+REINFORCE ep 180 done. reward: 665.000000. reward running mean: 819.905122
+In Episode 180, The PSR is 0.517000, the PDR is 0.750000.
+REINFORCE ep 190 done. reward: 656.000000. reward running mean: 816.559910
+In Episode 190, The PSR is 0.527000, the PDR is 0.745000.
+REINFORCE ep 200 done. reward: 856.000000. reward running mean: 818.865760
+In Episode 200, The PSR is 0.532000, the PDR is 0.875000.
+REINFORCE ep 210 done. reward: 644.000000. reward running mean: 805.383524
+In Episode 210, The PSR is 0.543000, the PDR is 0.738000.
+REINFORCE ep 220 done. reward: 868.000000. reward running mean: 804.634649
+In Episode 220, The PSR is 0.534000, the PDR is 0.884000.
+REINFORCE ep 230 done. reward: 847.000000. reward running mean: 803.283697
+In Episode 230, The PSR is 0.518000, the PDR is 0.868000.
+REINFORCE ep 240 done. reward: 854.000000. reward running mean: 795.690596
+In Episode 240, The PSR is 0.535000, the PDR is 0.873000.
+REINFORCE ep 250 done. reward: 847.000000. reward running mean: 787.016357
+In Episode 250, The PSR is 0.530000, the PDR is 0.868000.
+REINFORCE ep 260 done. reward: 868.000000. reward running mean: 787.781445
+In Episode 260, The PSR is 0.519000, the PDR is 0.884000.
+REINFORCE ep 270 done. reward: 907.000000. reward running mean: 781.892571
+In Episode 270, The PSR is 0.531000, the PDR is 0.916000.
+REINFORCE ep 280 done. reward: 891.000000. reward running mean: 780.407706
+In Episode 280, The PSR is 0.528000, the PDR is 0.903000.
+REINFORCE ep 290 done. reward: 681.000000. reward running mean: 780.904933
+In Episode 290, The PSR is 0.541000, the PDR is 0.759000.
+REINFORCE ep 300 done. reward: 888.000000. reward running mean: 783.118683
+In Episode 300, The PSR is 0.525000, the PDR is 0.900000.
+REINFORCE ep 310 done. reward: 890.000000. reward running mean: 789.166428
+In Episode 310, The PSR is 0.529000, the PDR is 0.902000.
+REINFORCE ep 320 done. reward: 673.000000. reward running mean: 784.050922
+In Episode 320, The PSR is 0.531000, the PDR is 0.754000.
+REINFORCE ep 330 done. reward: 850.000000. reward running mean: 785.782982
+In Episode 330, The PSR is 0.543000, the PDR is 0.870000.
+REINFORCE ep 340 done. reward: 677.000000. reward running mean: 783.464623
+In Episode 340, The PSR is 0.548000, the PDR is 0.756000.
+REINFORCE ep 350 done. reward: 885.000000. reward running mean: 788.244302
+In Episode 350, The PSR is 0.550000, the PDR is 0.898000.
+REINFORCE ep 360 done. reward: 596.000000. reward running mean: 778.772692
+In Episode 360, The PSR is 0.537000, the PDR is 0.713000.
+REINFORCE ep 370 done. reward: 885.000000. reward running mean: 788.968993
+In Episode 370, The PSR is 0.541000, the PDR is 0.898000.
+REINFORCE ep 380 done. reward: 857.000000. reward running mean: 788.793320
+In Episode 380, The PSR is 0.565000, the PDR is 0.876000.
+REINFORCE ep 390 done. reward: 666.000000. reward running mean: 788.577401
+In Episode 390, The PSR is 0.543000, the PDR is 0.750000.
+REINFORCE ep 400 done. reward: 999.000000. reward running mean: 788.583892
+In Episode 400, The PSR is 0.519000, the PDR is 1.000000.
+REINFORCE ep 410 done. reward: 861.000000. reward running mean: 783.008865
+In Episode 410, The PSR is 0.541000, the PDR is 0.879000.
+REINFORCE ep 420 done. reward: 875.000000. reward running mean: 786.795078
+In Episode 420, The PSR is 0.544000, the PDR is 0.890000.
+REINFORCE ep 430 done. reward: 841.000000. reward running mean: 783.549529
+In Episode 430, The PSR is 0.559000, the PDR is 0.864000.
+REINFORCE ep 440 done. reward: 855.000000. reward running mean: 777.641880
+In Episode 440, The PSR is 0.547000, the PDR is 0.874000.
+REINFORCE ep 450 done. reward: 999.000000. reward running mean: 775.239543
+In Episode 450, The PSR is 0.542000, the PDR is 1.000000.
+REINFORCE ep 460 done. reward: 658.000000. reward running mean: 779.134971
+In Episode 460, The PSR is 0.528000, the PDR is 0.746000.
+REINFORCE ep 470 done. reward: 674.000000. reward running mean: 773.265923
+In Episode 470, The PSR is 0.549000, the PDR is 0.755000.
+REINFORCE ep 480 done. reward: 712.000000. reward running mean: 770.892106
+In Episode 480, The PSR is 0.557000, the PDR is 0.777000.
+REINFORCE ep 490 done. reward: 695.000000. reward running mean: 766.026608
+In Episode 490, The PSR is 0.545000, the PDR is 0.767000.
+REINFORCE ep 500 done. reward: 803.000000. reward running mean: 767.370300
+In Episode 500, The PSR is 0.545000, the PDR is 0.836000.
+REINFORCE ep 510 done. reward: 664.000000. reward running mean: 761.111385
+In Episode 510, The PSR is 0.568000, the PDR is 0.749000.
+REINFORCE ep 520 done. reward: 849.000000. reward running mean: 762.222740
+In Episode 520, The PSR is 0.562000, the PDR is 0.870000.
+REINFORCE ep 530 done. reward: 549.000000. reward running mean: 759.412217
+In Episode 530, The PSR is 0.547000, the PDR is 0.690000.
+REINFORCE ep 540 done. reward: 837.000000. reward running mean: 768.245476
+In Episode 540, The PSR is 0.540000, the PDR is 0.861000.
+REINFORCE ep 550 done. reward: 854.000000. reward running mean: 762.282839
+In Episode 550, The PSR is 0.562000, the PDR is 0.873000.
+REINFORCE ep 560 done. reward: 648.000000. reward running mean: 755.296162
+In Episode 560, The PSR is 0.559000, the PDR is 0.740000.
+REINFORCE ep 570 done. reward: 857.000000. reward running mean: 750.064130
+In Episode 570, The PSR is 0.558000, the PDR is 0.876000.
+REINFORCE ep 580 done. reward: 632.000000. reward running mean: 748.075360
+In Episode 580, The PSR is 0.553000, the PDR is 0.732000.
+REINFORCE ep 590 done. reward: 539.000000. reward running mean: 742.625047
+In Episode 590, The PSR is 0.554000, the PDR is 0.685000.
+REINFORCE ep 600 done. reward: 850.000000. reward running mean: 736.747885
+In Episode 600, The PSR is 0.555000, the PDR is 0.870000.
+REINFORCE ep 610 done. reward: 643.000000. reward running mean: 744.058964
+In Episode 610, The PSR is 0.555000, the PDR is 0.737000.
+REINFORCE ep 620 done. reward: 841.000000. reward running mean: 744.242767
+In Episode 620, The PSR is 0.562000, the PDR is 0.864000.
+REINFORCE ep 630 done. reward: 866.000000. reward running mean: 757.468498
+In Episode 630, The PSR is 0.551000, the PDR is 0.883000.
+REINFORCE ep 640 done. reward: 849.000000. reward running mean: 754.246953
+In Episode 640, The PSR is 0.547000, the PDR is 0.870000.
+REINFORCE ep 650 done. reward: 671.000000. reward running mean: 758.051464
+In Episode 650, The PSR is 0.557000, the PDR is 0.753000.
+REINFORCE ep 660 done. reward: 854.000000. reward running mean: 760.186193
+In Episode 660, The PSR is 0.546000, the PDR is 0.873000.
+REINFORCE ep 670 done. reward: 889.000000. reward running mean: 755.939467
+In Episode 670, The PSR is 0.557000, the PDR is 0.901000.
+REINFORCE ep 680 done. reward: 999.000000. reward running mean: 763.767432
+In Episode 680, The PSR is 0.560000, the PDR is 1.000000.
+REINFORCE ep 690 done. reward: 655.000000. reward running mean: 764.105818
+In Episode 690, The PSR is 0.559000, the PDR is 0.744000.
+REINFORCE ep 700 done. reward: 641.000000. reward running mean: 768.365151
+In Episode 700, The PSR is 0.551000, the PDR is 0.736000.
+REINFORCE ep 710 done. reward: 896.000000. reward running mean: 769.612276
+In Episode 710, The PSR is 0.556000, the PDR is 0.907000.
+REINFORCE ep 720 done. reward: 999.000000. reward running mean: 764.639559
+In Episode 720, The PSR is 0.555000, the PDR is 1.000000.
+REINFORCE ep 730 done. reward: 638.000000. reward running mean: 760.000917
+In Episode 730, The PSR is 0.556000, the PDR is 0.735000.
+REINFORCE ep 740 done. reward: 557.000000. reward running mean: 754.339773
+In Episode 740, The PSR is 0.559000, the PDR is 0.693000.
+REINFORCE ep 750 done. reward: 847.000000. reward running mean: 757.523540
+In Episode 750, The PSR is 0.557000, the PDR is 0.868000.
+REINFORCE ep 760 done. reward: 664.000000. reward running mean: 757.606467
+In Episode 760, The PSR is 0.577000, the PDR is 0.749000.
+REINFORCE ep 770 done. reward: 859.000000. reward running mean: 756.347512
+In Episode 770, The PSR is 0.556000, the PDR is 0.877000.
+REINFORCE ep 780 done. reward: 577.000000. reward running mean: 749.715936
+In Episode 780, The PSR is 0.559000, the PDR is 0.703000.
+REINFORCE ep 790 done. reward: 858.000000. reward running mean: 742.034626
+In Episode 790, The PSR is 0.561000, the PDR is 0.876000.
+REINFORCE ep 800 done. reward: 845.000000. reward running mean: 746.644919
+In Episode 800, The PSR is 0.555000, the PDR is 0.867000.
+REINFORCE ep 810 done. reward: 683.000000. reward running mean: 739.678892
+In Episode 810, The PSR is 0.557000, the PDR is 0.760000.
+REINFORCE ep 820 done. reward: 538.000000. reward running mean: 748.410904
+In Episode 820, The PSR is 0.571000, the PDR is 0.684000.
+REINFORCE ep 830 done. reward: 837.000000. reward running mean: 748.744305
+In Episode 830, The PSR is 0.561000, the PDR is 0.861000.
+REINFORCE ep 840 done. reward: 555.000000. reward running mean: 746.331960
+In Episode 840, The PSR is 0.572000, the PDR is 0.693000.
+REINFORCE ep 850 done. reward: 857.000000. reward running mean: 746.248010
+In Episode 850, The PSR is 0.564000, the PDR is 0.876000.
+REINFORCE ep 860 done. reward: 655.000000. reward running mean: 744.532875
+In Episode 860, The PSR is 0.559000, the PDR is 0.744000.
+REINFORCE ep 870 done. reward: 890.000000. reward running mean: 747.839452
+In Episode 870, The PSR is 0.564000, the PDR is 0.902000.
+REINFORCE ep 880 done. reward: 837.000000. reward running mean: 745.115479
+In Episode 880, The PSR is 0.577000, the PDR is 0.861000.
+REINFORCE ep 890 done. reward: 691.000000. reward running mean: 742.125584
+In Episode 890, The PSR is 0.584000, the PDR is 0.765000.
+REINFORCE ep 900 done. reward: 580.000000. reward running mean: 744.038598
+In Episode 900, The PSR is 0.567000, the PDR is 0.705000.
+REINFORCE ep 910 done. reward: 891.000000. reward running mean: 755.864358
+In Episode 910, The PSR is 0.558000, the PDR is 0.903000.
+REINFORCE ep 920 done. reward: 655.000000. reward running mean: 752.983075
+In Episode 920, The PSR is 0.577000, the PDR is 0.744000.
+REINFORCE ep 930 done. reward: 670.000000. reward running mean: 746.139707
+In Episode 930, The PSR is 0.568000, the PDR is 0.752000.
+REINFORCE ep 940 done. reward: 844.000000. reward running mean: 744.548545
+In Episode 940, The PSR is 0.559000, the PDR is 0.866000.
+REINFORCE ep 950 done. reward: 886.000000. reward running mean: 742.683400
+In Episode 950, The PSR is 0.551000, the PDR is 0.898000.
+REINFORCE ep 960 done. reward: 845.000000. reward running mean: 752.474524
+In Episode 960, The PSR is 0.552000, the PDR is 0.867000.
+REINFORCE ep 970 done. reward: 999.000000. reward running mean: 751.668621
+In Episode 970, The PSR is 0.577000, the PDR is 1.000000.
+REINFORCE ep 980 done. reward: 999.000000. reward running mean: 750.448352
+In Episode 980, The PSR is 0.574000, the PDR is 1.000000.
+REINFORCE ep 990 done. reward: 700.000000. reward running mean: 753.661239
+In Episode 990, The PSR is 0.564000, the PDR is 0.770000.
+REINFORCE ep 1000 done. reward: 903.000000. reward running mean: 754.499042
+In Episode 1000, The PSR is 0.561000, the PDR is 0.912000.
+REINFORCE ep 1010 done. reward: 868.000000. reward running mean: 747.366482
+In Episode 1010, The PSR is 0.583000, the PDR is 0.884000.
+REINFORCE ep 1020 done. reward: 640.000000. reward running mean: 744.168432
+In Episode 1020, The PSR is 0.573000, the PDR is 0.736000.
+REINFORCE ep 1030 done. reward: 826.000000. reward running mean: 746.640304
+In Episode 1030, The PSR is 0.604000, the PDR is 0.853000.
+REINFORCE ep 1040 done. reward: 684.000000. reward running mean: 745.058454
+In Episode 1040, The PSR is 0.573000, the PDR is 0.760000.
+REINFORCE ep 1050 done. reward: 686.000000. reward running mean: 747.115861
+In Episode 1050, The PSR is 0.569000, the PDR is 0.762000.
+REINFORCE ep 1060 done. reward: 573.000000. reward running mean: 740.526737
+In Episode 1060, The PSR is 0.567000, the PDR is 0.701000.
+REINFORCE ep 1070 done. reward: 720.000000. reward running mean: 737.148006
+In Episode 1070, The PSR is 0.609000, the PDR is 0.782000.
+REINFORCE ep 1080 done. reward: 889.000000. reward running mean: 738.289357
+In Episode 1080, The PSR is 0.594000, the PDR is 0.901000.
+REINFORCE ep 1090 done. reward: 680.000000. reward running mean: 735.996515
+In Episode 1090, The PSR is 0.577000, the PDR is 0.758000.
+REINFORCE ep 1100 done. reward: 999.000000. reward running mean: 736.376057
+In Episode 1100, The PSR is 0.584000, the PDR is 1.000000.
+REINFORCE ep 1110 done. reward: 593.000000. reward running mean: 745.152337
+In Episode 1110, The PSR is 0.583000, the PDR is 0.711000.
+REINFORCE ep 1120 done. reward: 697.000000. reward running mean: 742.360709
+In Episode 1120, The PSR is 0.564000, the PDR is 0.768000.
+REINFORCE ep 1130 done. reward: 560.000000. reward running mean: 749.802427
+In Episode 1130, The PSR is 0.575000, the PDR is 0.695000.
+REINFORCE ep 1140 done. reward: 849.000000. reward running mean: 752.884129
+In Episode 1140, The PSR is 0.583000, the PDR is 0.870000.
+REINFORCE ep 1150 done. reward: 717.000000. reward running mean: 758.605890
+In Episode 1150, The PSR is 0.587000, the PDR is 0.780000.
+REINFORCE ep 1160 done. reward: 865.000000. reward running mean: 756.673327
+In Episode 1160, The PSR is 0.573000, the PDR is 0.882000.
+REINFORCE ep 1170 done. reward: 630.000000. reward running mean: 760.302368
+In Episode 1170, The PSR is 0.585000, the PDR is 0.730000.
+REINFORCE ep 1180 done. reward: 999.000000. reward running mean: 757.467004
+In Episode 1180, The PSR is 0.565000, the PDR is 1.000000.
+REINFORCE ep 1190 done. reward: 692.000000. reward running mean: 760.751805
+In Episode 1190, The PSR is 0.590000, the PDR is 0.765000.
+REINFORCE ep 1200 done. reward: 999.000000. reward running mean: 764.422037
+In Episode 1200, The PSR is 0.582000, the PDR is 1.000000.
+REINFORCE ep 1210 done. reward: 673.000000. reward running mean: 775.209688
+In Episode 1210, The PSR is 0.594000, the PDR is 0.754000.
+REINFORCE ep 1220 done. reward: 847.000000. reward running mean: 776.190092
+In Episode 1220, The PSR is 0.599000, the PDR is 0.868000.
+REINFORCE ep 1230 done. reward: 897.000000. reward running mean: 780.693477
+In Episode 1230, The PSR is 0.594000, the PDR is 0.907000.
+REINFORCE ep 1240 done. reward: 592.000000. reward running mean: 772.497114
+In Episode 1240, The PSR is 0.591000, the PDR is 0.711000.
+REINFORCE ep 1250 done. reward: 876.000000. reward running mean: 768.117614
+In Episode 1250, The PSR is 0.594000, the PDR is 0.890000.
+REINFORCE ep 1260 done. reward: 999.000000. reward running mean: 768.942463
+In Episode 1260, The PSR is 0.586000, the PDR is 1.000000.
+REINFORCE ep 1270 done. reward: 686.000000. reward running mean: 768.528670
+In Episode 1270, The PSR is 0.594000, the PDR is 0.762000.
+REINFORCE ep 1280 done. reward: 874.000000. reward running mean: 773.716017
+In Episode 1280, The PSR is 0.566000, the PDR is 0.889000.
+REINFORCE ep 1290 done. reward: 693.000000. reward running mean: 776.408283
+In Episode 1290, The PSR is 0.588000, the PDR is 0.766000.
+REINFORCE ep 1300 done. reward: 809.000000. reward running mean: 772.419186
+In Episode 1300, The PSR is 0.589000, the PDR is 0.840000.
+REINFORCE ep 1310 done. reward: 867.000000. reward running mean: 770.186729
+In Episode 1310, The PSR is 0.581000, the PDR is 0.883000.
+REINFORCE ep 1320 done. reward: 862.000000. reward running mean: 775.960477
+In Episode 1320, The PSR is 0.585000, the PDR is 0.880000.
+REINFORCE ep 1330 done. reward: 696.000000. reward running mean: 779.918296
+In Episode 1330, The PSR is 0.593000, the PDR is 0.767000.
+REINFORCE ep 1340 done. reward: 855.000000. reward running mean: 773.612349
+In Episode 1340, The PSR is 0.606000, the PDR is 0.874000.
+REINFORCE ep 1350 done. reward: 604.000000. reward running mean: 766.590326
+In Episode 1350, The PSR is 0.580000, the PDR is 0.717000.
+REINFORCE ep 1360 done. reward: 687.000000. reward running mean: 767.671352
+In Episode 1360, The PSR is 0.594000, the PDR is 0.762000.
+REINFORCE ep 1370 done. reward: 877.000000. reward running mean: 771.208665
+In Episode 1370, The PSR is 0.586000, the PDR is 0.891000.
+REINFORCE ep 1380 done. reward: 598.000000. reward running mean: 770.250075
+In Episode 1380, The PSR is 0.584000, the PDR is 0.714000.
+REINFORCE ep 1390 done. reward: 870.000000. reward running mean: 767.268060
+In Episode 1390, The PSR is 0.598000, the PDR is 0.886000.
+REINFORCE ep 1400 done. reward: 690.000000. reward running mean: 765.611461
+In Episode 1400, The PSR is 0.597000, the PDR is 0.764000.
+REINFORCE ep 1410 done. reward: 857.000000. reward running mean: 771.036204
+In Episode 1410, The PSR is 0.586000, the PDR is 0.876000.
+REINFORCE ep 1420 done. reward: 911.000000. reward running mean: 775.290310
+In Episode 1420, The PSR is 0.598000, the PDR is 0.919000.
+REINFORCE ep 1430 done. reward: 543.000000. reward running mean: 769.880585
+In Episode 1430, The PSR is 0.585000, the PDR is 0.687000.
+REINFORCE ep 1440 done. reward: 562.000000. reward running mean: 769.343960
+In Episode 1440, The PSR is 0.595000, the PDR is 0.696000.
+REINFORCE ep 1450 done. reward: 657.000000. reward running mean: 767.942314
+In Episode 1450, The PSR is 0.599000, the PDR is 0.745000.
+REINFORCE ep 1460 done. reward: 860.000000. reward running mean: 768.092994
+In Episode 1460, The PSR is 0.597000, the PDR is 0.878000.
+REINFORCE ep 1470 done. reward: 577.000000. reward running mean: 765.086790
+In Episode 1470, The PSR is 0.593000, the PDR is 0.703000.
+REINFORCE ep 1480 done. reward: 912.000000. reward running mean: 762.923576
+In Episode 1480, The PSR is 0.575000, the PDR is 0.920000.
+REINFORCE ep 1490 done. reward: 817.000000. reward running mean: 763.031009
+In Episode 1490, The PSR is 0.585000, the PDR is 0.846000.
+REINFORCE ep 1500 done. reward: 672.000000. reward running mean: 764.062980
+In Episode 1500, The PSR is 0.600000, the PDR is 0.754000.
+REINFORCE ep 1510 done. reward: 851.000000. reward running mean: 762.919679
+In Episode 1510, The PSR is 0.602000, the PDR is 0.871000.
+REINFORCE ep 1520 done. reward: 573.000000. reward running mean: 760.306983
+In Episode 1520, The PSR is 0.590000, the PDR is 0.701000.
+REINFORCE ep 1530 done. reward: 883.000000. reward running mean: 755.422426
+In Episode 1530, The PSR is 0.573000, the PDR is 0.896000.
+REINFORCE ep 1540 done. reward: 640.000000. reward running mean: 753.866286
+In Episode 1540, The PSR is 0.592000, the PDR is 0.736000.
+REINFORCE ep 1550 done. reward: 639.000000. reward running mean: 756.263161
+In Episode 1550, The PSR is 0.591000, the PDR is 0.735000.
+REINFORCE ep 1560 done. reward: 883.000000. reward running mean: 768.665244
+In Episode 1560, The PSR is 0.592000, the PDR is 0.896000.
+REINFORCE ep 1570 done. reward: 886.000000. reward running mean: 769.272869
+In Episode 1570, The PSR is 0.590000, the PDR is 0.898000.
+REINFORCE ep 1580 done. reward: 858.000000. reward running mean: 772.843749
+In Episode 1580, The PSR is 0.614000, the PDR is 0.876000.
+REINFORCE ep 1590 done. reward: 669.000000. reward running mean: 771.996444
+In Episode 1590, The PSR is 0.619000, the PDR is 0.752000.
+REINFORCE ep 1600 done. reward: 885.000000. reward running mean: 777.894093
+In Episode 1600, The PSR is 0.597000, the PDR is 0.898000.
+REINFORCE ep 1610 done. reward: 859.000000. reward running mean: 787.079691
+In Episode 1610, The PSR is 0.615000, the PDR is 0.877000.
+REINFORCE ep 1620 done. reward: 878.000000. reward running mean: 790.765687
+In Episode 1620, The PSR is 0.620000, the PDR is 0.892000.
+REINFORCE ep 1630 done. reward: 668.000000. reward running mean: 783.944970
+In Episode 1630, The PSR is 0.631000, the PDR is 0.751000.
+REINFORCE ep 1640 done. reward: 856.000000. reward running mean: 788.586113
+In Episode 1640, The PSR is 0.597000, the PDR is 0.875000.
+REINFORCE ep 1650 done. reward: 867.000000. reward running mean: 778.995963
+In Episode 1650, The PSR is 0.615000, the PDR is 0.883000.
+REINFORCE ep 1660 done. reward: 892.000000. reward running mean: 782.497791
+In Episode 1660, The PSR is 0.605000, the PDR is 0.903000.
+REINFORCE ep 1670 done. reward: 673.000000. reward running mean: 777.491856
+In Episode 1670, The PSR is 0.611000, the PDR is 0.754000.
+REINFORCE ep 1680 done. reward: 858.000000. reward running mean: 776.118799
+In Episode 1680, The PSR is 0.610000, the PDR is 0.876000.
+REINFORCE ep 1690 done. reward: 884.000000. reward running mean: 776.432085
+In Episode 1690, The PSR is 0.600000, the PDR is 0.897000.
+REINFORCE ep 1700 done. reward: 861.000000. reward running mean: 775.351219
+In Episode 1700, The PSR is 0.625000, the PDR is 0.879000.
+REINFORCE ep 1710 done. reward: 680.000000. reward running mean: 770.177450
+In Episode 1710, The PSR is 0.601000, the PDR is 0.758000.
+REINFORCE ep 1720 done. reward: 886.000000. reward running mean: 765.842435
+In Episode 1720, The PSR is 0.600000, the PDR is 0.898000.
+REINFORCE ep 1730 done. reward: 598.000000. reward running mean: 756.493833
+In Episode 1730, The PSR is 0.621000, the PDR is 0.714000.
+REINFORCE ep 1740 done. reward: 891.000000. reward running mean: 762.972744
+In Episode 1740, The PSR is 0.611000, the PDR is 0.903000.
+REINFORCE ep 1750 done. reward: 999.000000. reward running mean: 768.241316
+In Episode 1750, The PSR is 0.596000, the PDR is 1.000000.
+REINFORCE ep 1760 done. reward: 879.000000. reward running mean: 775.135545
+In Episode 1760, The PSR is 0.615000, the PDR is 0.893000.
+REINFORCE ep 1770 done. reward: 865.000000. reward running mean: 770.751048
+In Episode 1770, The PSR is 0.632000, the PDR is 0.882000.
+REINFORCE ep 1780 done. reward: 553.000000. reward running mean: 772.204701
+In Episode 1780, The PSR is 0.615000, the PDR is 0.692000.
+REINFORCE ep 1790 done. reward: 647.000000. reward running mean: 771.007247
+In Episode 1790, The PSR is 0.612000, the PDR is 0.740000.
+REINFORCE ep 1800 done. reward: 563.000000. reward running mean: 761.882569
+In Episode 1800, The PSR is 0.612000, the PDR is 0.696000.
+REINFORCE ep 1810 done. reward: 999.000000. reward running mean: 756.588663
+In Episode 1810, The PSR is 0.620000, the PDR is 1.000000.
+REINFORCE ep 1820 done. reward: 641.000000. reward running mean: 758.039452
+In Episode 1820, The PSR is 0.634000, the PDR is 0.736000.
+REINFORCE ep 1830 done. reward: 758.000000. reward running mean: 756.933469
+In Episode 1830, The PSR is 0.613000, the PDR is 0.806000.
+REINFORCE ep 1840 done. reward: 879.000000. reward running mean: 758.158707
+In Episode 1840, The PSR is 0.623000, the PDR is 0.893000.
+REINFORCE ep 1850 done. reward: 883.000000. reward running mean: 762.808182
+In Episode 1850, The PSR is 0.615000, the PDR is 0.896000.
+REINFORCE ep 1860 done. reward: 743.000000. reward running mean: 764.674439
+In Episode 1860, The PSR is 0.619000, the PDR is 0.796000.
+REINFORCE ep 1870 done. reward: 999.000000. reward running mean: 768.903955
+In Episode 1870, The PSR is 0.615000, the PDR is 1.000000.
+REINFORCE ep 1880 done. reward: 555.000000. reward running mean: 765.097840
+In Episode 1880, The PSR is 0.638000, the PDR is 0.693000.
+REINFORCE ep 1890 done. reward: 684.000000. reward running mean: 768.769814
+In Episode 1890, The PSR is 0.618000, the PDR is 0.760000.
+REINFORCE ep 1900 done. reward: 853.000000. reward running mean: 767.305093
+In Episode 1900, The PSR is 0.628000, the PDR is 0.873000.
+REINFORCE ep 1910 done. reward: 865.000000. reward running mean: 773.878655
+In Episode 1910, The PSR is 0.642000, the PDR is 0.882000.
+REINFORCE ep 1920 done. reward: 557.000000. reward running mean: 766.223631
+In Episode 1920, The PSR is 0.636000, the PDR is 0.693000.
+REINFORCE ep 1930 done. reward: 896.000000. reward running mean: 765.721968
+In Episode 1930, The PSR is 0.608000, the PDR is 0.907000.
+REINFORCE ep 1940 done. reward: 883.000000. reward running mean: 766.799992
+In Episode 1940, The PSR is 0.623000, the PDR is 0.896000.
+REINFORCE ep 1950 done. reward: 898.000000. reward running mean: 767.842037
+In Episode 1950, The PSR is 0.614000, the PDR is 0.908000.
+REINFORCE ep 1960 done. reward: 883.000000. reward running mean: 772.946933
+In Episode 1960, The PSR is 0.623000, the PDR is 0.896000.
+REINFORCE ep 1970 done. reward: 674.000000. reward running mean: 773.140486
+In Episode 1970, The PSR is 0.631000, the PDR is 0.755000.
+REINFORCE ep 1980 done. reward: 610.000000. reward running mean: 761.761620
+In Episode 1980, The PSR is 0.652000, the PDR is 0.720000.
+REINFORCE ep 1990 done. reward: 846.000000. reward running mean: 770.895912
+In Episode 1990, The PSR is 0.632000, the PDR is 0.867000.
+REINFORCE ep 2000 done. reward: 687.000000. reward running mean: 765.345302
+In Episode 2000, The PSR is 0.636000, the PDR is 0.762000.
+REINFORCE ep 2010 done. reward: 681.000000. reward running mean: 767.220877
+In Episode 2010, The PSR is 0.640000, the PDR is 0.759000.
+REINFORCE ep 2020 done. reward: 541.000000. reward running mean: 761.825038
+In Episode 2020, The PSR is 0.635000, the PDR is 0.686000.
+REINFORCE ep 2030 done. reward: 847.000000. reward running mean: 753.072862
+In Episode 2030, The PSR is 0.618000, the PDR is 0.868000.
+REINFORCE ep 2040 done. reward: 999.000000. reward running mean: 757.550528
+In Episode 2040, The PSR is 0.624000, the PDR is 1.000000.
+REINFORCE ep 2050 done. reward: 856.000000. reward running mean: 767.817923
+In Episode 2050, The PSR is 0.624000, the PDR is 0.875000.
+REINFORCE ep 2060 done. reward: 595.000000. reward running mean: 759.468535
+In Episode 2060, The PSR is 0.620000, the PDR is 0.712000.
+REINFORCE ep 2070 done. reward: 884.000000. reward running mean: 762.642524
+In Episode 2070, The PSR is 0.634000, the PDR is 0.897000.
+REINFORCE ep 2080 done. reward: 999.000000. reward running mean: 766.584921
+In Episode 2080, The PSR is 0.623000, the PDR is 1.000000.
+REINFORCE ep 2090 done. reward: 670.000000. reward running mean: 773.515895
+In Episode 2090, The PSR is 0.639000, the PDR is 0.752000.
+REINFORCE ep 2100 done. reward: 858.000000. reward running mean: 773.926020
+In Episode 2100, The PSR is 0.628000, the PDR is 0.876000.
+REINFORCE ep 2110 done. reward: 876.000000. reward running mean: 767.959183
+In Episode 2110, The PSR is 0.611000, the PDR is 0.890000.
+REINFORCE ep 2120 done. reward: 869.000000. reward running mean: 772.102777
+In Episode 2120, The PSR is 0.623000, the PDR is 0.885000.
+REINFORCE ep 2130 done. reward: 537.000000. reward running mean: 770.767540
+In Episode 2130, The PSR is 0.633000, the PDR is 0.684000.
+REINFORCE ep 2140 done. reward: 709.000000. reward running mean: 771.468713
+In Episode 2140, The PSR is 0.640000, the PDR is 0.775000.
+REINFORCE ep 2150 done. reward: 641.000000. reward running mean: 767.339589
+In Episode 2150, The PSR is 0.641000, the PDR is 0.736000.
+REINFORCE ep 2160 done. reward: 651.000000. reward running mean: 777.721196
+In Episode 2160, The PSR is 0.632000, the PDR is 0.742000.
+REINFORCE ep 2170 done. reward: 881.000000. reward running mean: 776.259915
+In Episode 2170, The PSR is 0.643000, the PDR is 0.894000.
+REINFORCE ep 2180 done. reward: 651.000000. reward running mean: 775.216049
+In Episode 2180, The PSR is 0.625000, the PDR is 0.742000.
+REINFORCE ep 2190 done. reward: 839.000000. reward running mean: 763.142188
+In Episode 2190, The PSR is 0.640000, the PDR is 0.862000.
+REINFORCE ep 2200 done. reward: 846.000000. reward running mean: 773.364626
+In Episode 2200, The PSR is 0.635000, the PDR is 0.867000.
+REINFORCE ep 2210 done. reward: 858.000000. reward running mean: 770.653805
+In Episode 2210, The PSR is 0.634000, the PDR is 0.876000.
+REINFORCE ep 2220 done. reward: 537.000000. reward running mean: 769.026876
+In Episode 2220, The PSR is 0.644000, the PDR is 0.684000.
+REINFORCE ep 2230 done. reward: 678.000000. reward running mean: 763.962498
+In Episode 2230, The PSR is 0.634000, the PDR is 0.757000.
+REINFORCE ep 2240 done. reward: 841.000000. reward running mean: 756.757092
+In Episode 2240, The PSR is 0.636000, the PDR is 0.864000.
+REINFORCE ep 2250 done. reward: 869.000000. reward running mean: 771.341197
+In Episode 2250, The PSR is 0.641000, the PDR is 0.885000.
+REINFORCE ep 2260 done. reward: 689.000000. reward running mean: 777.337914
+In Episode 2260, The PSR is 0.626000, the PDR is 0.763000.
+REINFORCE ep 2270 done. reward: 592.000000. reward running mean: 767.780765
+In Episode 2270, The PSR is 0.640000, the PDR is 0.711000.
+REINFORCE ep 2280 done. reward: 845.000000. reward running mean: 756.207835
+In Episode 2280, The PSR is 0.640000, the PDR is 0.867000.
+REINFORCE ep 2290 done. reward: 657.000000. reward running mean: 763.841760
+In Episode 2290, The PSR is 0.638000, the PDR is 0.745000.
+REINFORCE ep 2300 done. reward: 538.000000. reward running mean: 761.260205
+In Episode 2300, The PSR is 0.641000, the PDR is 0.684000.
+REINFORCE ep 2310 done. reward: 898.000000. reward running mean: 767.998068
+In Episode 2310, The PSR is 0.641000, the PDR is 0.908000.
+REINFORCE ep 2320 done. reward: 601.000000. reward running mean: 767.816818
+In Episode 2320, The PSR is 0.633000, the PDR is 0.715000.
+REINFORCE ep 2330 done. reward: 592.000000. reward running mean: 767.415368
+In Episode 2330, The PSR is 0.632000, the PDR is 0.711000.
+REINFORCE ep 2340 done. reward: 844.000000. reward running mean: 777.329595
+In Episode 2340, The PSR is 0.646000, the PDR is 0.866000.
+REINFORCE ep 2350 done. reward: 582.000000. reward running mean: 777.794998
+In Episode 2350, The PSR is 0.641000, the PDR is 0.706000.
+REINFORCE ep 2360 done. reward: 710.000000. reward running mean: 771.440174
+In Episode 2360, The PSR is 0.637000, the PDR is 0.776000.
+REINFORCE ep 2370 done. reward: 999.000000. reward running mean: 787.043839
+In Episode 2370, The PSR is 0.617000, the PDR is 1.000000.
+REINFORCE ep 2380 done. reward: 677.000000. reward running mean: 790.384940
+In Episode 2380, The PSR is 0.645000, the PDR is 0.756000.
+REINFORCE ep 2390 done. reward: 875.000000. reward running mean: 790.246471
+In Episode 2390, The PSR is 0.625000, the PDR is 0.890000.
+REINFORCE ep 2400 done. reward: 851.000000. reward running mean: 786.570641
+In Episode 2400, The PSR is 0.645000, the PDR is 0.871000.
+REINFORCE ep 2410 done. reward: 999.000000. reward running mean: 795.021304
+In Episode 2410, The PSR is 0.670000, the PDR is 1.000000.
+REINFORCE ep 2420 done. reward: 888.000000. reward running mean: 793.451467
+In Episode 2420, The PSR is 0.650000, the PDR is 0.900000.
+REINFORCE ep 2430 done. reward: 541.000000. reward running mean: 792.805905
+In Episode 2430, The PSR is 0.633000, the PDR is 0.686000.
+REINFORCE ep 2440 done. reward: 670.000000. reward running mean: 795.196054
+In Episode 2440, The PSR is 0.630000, the PDR is 0.752000.
+REINFORCE ep 2450 done. reward: 696.000000. reward running mean: 789.473580
+In Episode 2450, The PSR is 0.643000, the PDR is 0.767000.
+REINFORCE ep 2460 done. reward: 684.000000. reward running mean: 797.982887
+In Episode 2460, The PSR is 0.641000, the PDR is 0.760000.
+REINFORCE ep 2470 done. reward: 622.000000. reward running mean: 798.972040
+In Episode 2470, The PSR is 0.656000, the PDR is 0.726000.
+REINFORCE ep 2480 done. reward: 751.000000. reward running mean: 793.698776
+In Episode 2480, The PSR is 0.668000, the PDR is 0.801000.
+REINFORCE ep 2490 done. reward: 887.000000. reward running mean: 791.452168
+In Episode 2490, The PSR is 0.657000, the PDR is 0.899000.
+REINFORCE ep 2500 done. reward: 673.000000. reward running mean: 778.411334
+In Episode 2500, The PSR is 0.658000, the PDR is 0.754000.
+REINFORCE ep 2510 done. reward: 852.000000. reward running mean: 776.125811
+In Episode 2510, The PSR is 0.670000, the PDR is 0.872000.
+REINFORCE ep 2520 done. reward: 600.000000. reward running mean: 771.418273
+In Episode 2520, The PSR is 0.660000, the PDR is 0.715000.
+REINFORCE ep 2530 done. reward: 902.000000. reward running mean: 764.748717
+In Episode 2530, The PSR is 0.671000, the PDR is 0.912000.
+REINFORCE ep 2540 done. reward: 693.000000. reward running mean: 764.564951
+In Episode 2540, The PSR is 0.670000, the PDR is 0.766000.
+REINFORCE ep 2550 done. reward: 855.000000. reward running mean: 773.693105
+In Episode 2550, The PSR is 0.651000, the PDR is 0.874000.
+REINFORCE ep 2560 done. reward: 900.000000. reward running mean: 783.470355
+In Episode 2560, The PSR is 0.650000, the PDR is 0.910000.
+REINFORCE ep 2570 done. reward: 563.000000. reward running mean: 771.958758
+In Episode 2570, The PSR is 0.645000, the PDR is 0.696000.
+REINFORCE ep 2580 done. reward: 999.000000. reward running mean: 781.310055
+In Episode 2580, The PSR is 0.646000, the PDR is 1.000000.
+REINFORCE ep 2590 done. reward: 882.000000. reward running mean: 784.632053
+In Episode 2590, The PSR is 0.672000, the PDR is 0.895000.
+REINFORCE ep 2600 done. reward: 849.000000. reward running mean: 789.259232
+In Episode 2600, The PSR is 0.653000, the PDR is 0.870000.
+REINFORCE ep 2610 done. reward: 735.000000. reward running mean: 790.973052
+In Episode 2610, The PSR is 0.651000, the PDR is 0.791000.
+REINFORCE ep 2620 done. reward: 816.000000. reward running mean: 794.296616
+In Episode 2620, The PSR is 0.658000, the PDR is 0.845000.
+REINFORCE ep 2630 done. reward: 684.000000. reward running mean: 792.801558
+In Episode 2630, The PSR is 0.657000, the PDR is 0.760000.
+REINFORCE ep 2640 done. reward: 680.000000. reward running mean: 790.912759
+In Episode 2640, The PSR is 0.670000, the PDR is 0.758000.
+REINFORCE ep 2650 done. reward: 895.000000. reward running mean: 793.175601
+In Episode 2650, The PSR is 0.643000, the PDR is 0.906000.
+REINFORCE ep 2660 done. reward: 878.000000. reward running mean: 794.474847
+In Episode 2660, The PSR is 0.663000, the PDR is 0.892000.
+REINFORCE ep 2670 done. reward: 535.000000. reward running mean: 786.068616
+In Episode 2670, The PSR is 0.666000, the PDR is 0.683000.
+REINFORCE ep 2680 done. reward: 680.000000. reward running mean: 794.712958
+In Episode 2680, The PSR is 0.662000, the PDR is 0.758000.
+REINFORCE ep 2690 done. reward: 890.000000. reward running mean: 794.329692
+In Episode 2690, The PSR is 0.663000, the PDR is 0.902000.
+REINFORCE ep 2700 done. reward: 862.000000. reward running mean: 793.191929
+In Episode 2700, The PSR is 0.653000, the PDR is 0.880000.
+REINFORCE ep 2710 done. reward: 631.000000. reward running mean: 783.857051
+In Episode 2710, The PSR is 0.661000, the PDR is 0.731000.
+REINFORCE ep 2720 done. reward: 561.000000. reward running mean: 775.514986
+In Episode 2720, The PSR is 0.670000, the PDR is 0.695000.
+REINFORCE ep 2730 done. reward: 628.000000. reward running mean: 766.341965
+In Episode 2730, The PSR is 0.650000, the PDR is 0.729000.
+REINFORCE ep 2740 done. reward: 670.000000. reward running mean: 768.013953
+In Episode 2740, The PSR is 0.685000, the PDR is 0.752000.
+REINFORCE ep 2750 done. reward: 569.000000. reward running mean: 763.462769
+In Episode 2750, The PSR is 0.667000, the PDR is 0.699000.
+REINFORCE ep 2760 done. reward: 686.000000. reward running mean: 757.472431
+In Episode 2760, The PSR is 0.669000, the PDR is 0.762000.
+REINFORCE ep 2770 done. reward: 881.000000. reward running mean: 754.894030
+In Episode 2770, The PSR is 0.643000, the PDR is 0.894000.
+REINFORCE ep 2780 done. reward: 888.000000. reward running mean: 768.784877
+In Episode 2780, The PSR is 0.662000, the PDR is 0.900000.
+REINFORCE ep 2790 done. reward: 565.000000. reward running mean: 768.568704
+In Episode 2790, The PSR is 0.670000, the PDR is 0.697000.
+REINFORCE ep 2800 done. reward: 610.000000. reward running mean: 765.801516
+In Episode 2800, The PSR is 0.653000, the PDR is 0.720000.
+REINFORCE ep 2810 done. reward: 847.000000. reward running mean: 766.705848
+In Episode 2810, The PSR is 0.662000, the PDR is 0.868000.
+REINFORCE ep 2820 done. reward: 836.000000. reward running mean: 769.824631
+In Episode 2820, The PSR is 0.677000, the PDR is 0.860000.
+REINFORCE ep 2830 done. reward: 523.000000. reward running mean: 772.469730
+In Episode 2830, The PSR is 0.663000, the PDR is 0.678000.
+REINFORCE ep 2840 done. reward: 571.000000. reward running mean: 767.861210
+In Episode 2840, The PSR is 0.650000, the PDR is 0.700000.
+REINFORCE ep 2850 done. reward: 576.000000. reward running mean: 768.100305
+In Episode 2850, The PSR is 0.677000, the PDR is 0.703000.
+REINFORCE ep 2860 done. reward: 673.000000. reward running mean: 771.343648
+In Episode 2860, The PSR is 0.659000, the PDR is 0.754000.
+REINFORCE ep 2870 done. reward: 999.000000. reward running mean: 773.193718
+In Episode 2870, The PSR is 0.665000, the PDR is 1.000000.
+REINFORCE ep 2880 done. reward: 869.000000. reward running mean: 774.322187
+In Episode 2880, The PSR is 0.659000, the PDR is 0.885000.
+REINFORCE ep 2890 done. reward: 673.000000. reward running mean: 777.270504
+In Episode 2890, The PSR is 0.669000, the PDR is 0.754000.
+REINFORCE ep 2900 done. reward: 555.000000. reward running mean: 762.702038
+In Episode 2900, The PSR is 0.672000, the PDR is 0.693000.
+REINFORCE ep 2910 done. reward: 745.000000. reward running mean: 766.280411
+In Episode 2910, The PSR is 0.658000, the PDR is 0.797000.
+REINFORCE ep 2920 done. reward: 872.000000. reward running mean: 757.244964
+In Episode 2920, The PSR is 0.674000, the PDR is 0.887000.
+REINFORCE ep 2930 done. reward: 867.000000. reward running mean: 754.223087
+In Episode 2930, The PSR is 0.659000, the PDR is 0.883000.
+REINFORCE ep 2940 done. reward: 639.000000. reward running mean: 752.564417
+In Episode 2940, The PSR is 0.673000, the PDR is 0.735000.
+REINFORCE ep 2950 done. reward: 679.000000. reward running mean: 751.784828
+In Episode 2950, The PSR is 0.664000, the PDR is 0.758000.
+REINFORCE ep 2960 done. reward: 867.000000. reward running mean: 750.789919
+In Episode 2960, The PSR is 0.666000, the PDR is 0.883000.
+REINFORCE ep 2970 done. reward: 895.000000. reward running mean: 769.944909
+In Episode 2970, The PSR is 0.678000, the PDR is 0.906000.
+REINFORCE ep 2980 done. reward: 850.000000. reward running mean: 774.097465
+In Episode 2980, The PSR is 0.655000, the PDR is 0.870000.
+REINFORCE ep 2990 done. reward: 858.000000. reward running mean: 765.227189
+In Episode 2990, The PSR is 0.660000, the PDR is 0.876000.
+REINFORCE ep 3000 done. reward: 855.000000. reward running mean: 773.501056
+In Episode 3000, The PSR is 0.687000, the PDR is 0.874000.
+REINFORCE ep 3010 done. reward: 850.000000. reward running mean: 767.044977
+In Episode 3010, The PSR is 0.648000, the PDR is 0.870000.
+REINFORCE ep 3020 done. reward: 999.000000. reward running mean: 762.411172
+In Episode 3020, The PSR is 0.687000, the PDR is 1.000000.
+REINFORCE ep 3030 done. reward: 856.000000. reward running mean: 764.630809
+In Episode 3030, The PSR is 0.657000, the PDR is 0.875000.
+REINFORCE ep 3040 done. reward: 652.000000. reward running mean: 766.208267
+In Episode 3040, The PSR is 0.665000, the PDR is 0.742000.
+REINFORCE ep 3050 done. reward: 861.000000. reward running mean: 770.219879
+In Episode 3050, The PSR is 0.672000, the PDR is 0.879000.
+REINFORCE ep 3060 done. reward: 646.000000. reward running mean: 765.231527
+In Episode 3060, The PSR is 0.682000, the PDR is 0.739000.
+REINFORCE ep 3070 done. reward: 860.000000. reward running mean: 775.762067
+In Episode 3070, The PSR is 0.665000, the PDR is 0.878000.
+REINFORCE ep 3080 done. reward: 671.000000. reward running mean: 773.621687
+In Episode 3080, The PSR is 0.691000, the PDR is 0.753000.
+REINFORCE ep 3090 done. reward: 897.000000. reward running mean: 779.832710
+In Episode 3090, The PSR is 0.663000, the PDR is 0.907000.
+REINFORCE ep 3100 done. reward: 902.000000. reward running mean: 781.682886
+In Episode 3100, The PSR is 0.692000, the PDR is 0.912000.
+REINFORCE ep 3110 done. reward: 863.000000. reward running mean: 782.377733
+In Episode 3110, The PSR is 0.672000, the PDR is 0.880000.
+REINFORCE ep 3120 done. reward: 842.000000. reward running mean: 782.869511
+In Episode 3120, The PSR is 0.715000, the PDR is 0.864000.
+REINFORCE ep 3130 done. reward: 848.000000. reward running mean: 782.450069
+In Episode 3130, The PSR is 0.679000, the PDR is 0.869000.
+REINFORCE ep 3140 done. reward: 861.000000. reward running mean: 792.032972
+In Episode 3140, The PSR is 0.668000, the PDR is 0.879000.
+REINFORCE ep 3150 done. reward: 854.000000. reward running mean: 792.995859
+In Episode 3150, The PSR is 0.694000, the PDR is 0.873000.
+REINFORCE ep 3160 done. reward: 878.000000. reward running mean: 797.261502
+In Episode 3160, The PSR is 0.681000, the PDR is 0.892000.
+REINFORCE ep 3170 done. reward: 849.000000. reward running mean: 798.445960
+In Episode 3170, The PSR is 0.685000, the PDR is 0.870000.
+REINFORCE ep 3180 done. reward: 669.000000. reward running mean: 792.708972
+In Episode 3180, The PSR is 0.678000, the PDR is 0.752000.
+REINFORCE ep 3190 done. reward: 534.000000. reward running mean: 785.860996
+In Episode 3190, The PSR is 0.690000, the PDR is 0.683000.
+REINFORCE ep 3200 done. reward: 669.000000. reward running mean: 787.328309
+In Episode 3200, The PSR is 0.692000, the PDR is 0.752000.
+REINFORCE ep 3210 done. reward: 653.000000. reward running mean: 789.926173
+In Episode 3210, The PSR is 0.682000, the PDR is 0.743000.
+REINFORCE ep 3220 done. reward: 876.000000. reward running mean: 790.941257
+In Episode 3220, The PSR is 0.697000, the PDR is 0.890000.
+REINFORCE ep 3230 done. reward: 666.000000. reward running mean: 789.975057
+In Episode 3230, The PSR is 0.696000, the PDR is 0.750000.
+REINFORCE ep 3240 done. reward: 843.000000. reward running mean: 779.746217
+In Episode 3240, The PSR is 0.677000, the PDR is 0.865000.
+REINFORCE ep 3250 done. reward: 564.000000. reward running mean: 786.181446
+In Episode 3250, The PSR is 0.685000, the PDR is 0.697000.
+REINFORCE ep 3260 done. reward: 783.000000. reward running mean: 788.041766
+In Episode 3260, The PSR is 0.698000, the PDR is 0.822000.
+REINFORCE ep 3270 done. reward: 607.000000. reward running mean: 781.701204
+In Episode 3270, The PSR is 0.695000, the PDR is 0.718000.
+REINFORCE ep 3280 done. reward: 840.000000. reward running mean: 777.533628
+In Episode 3280, The PSR is 0.688000, the PDR is 0.863000.
+REINFORCE ep 3290 done. reward: 612.000000. reward running mean: 770.024860
+In Episode 3290, The PSR is 0.677000, the PDR is 0.721000.
+REINFORCE ep 3300 done. reward: 853.000000. reward running mean: 770.757349
+In Episode 3300, The PSR is 0.704000, the PDR is 0.873000.
+REINFORCE ep 3310 done. reward: 875.000000. reward running mean: 773.992718
+In Episode 3310, The PSR is 0.699000, the PDR is 0.890000.
+REINFORCE ep 3320 done. reward: 895.000000. reward running mean: 775.357677
+In Episode 3320, The PSR is 0.694000, the PDR is 0.906000.
+REINFORCE ep 3330 done. reward: 891.000000. reward running mean: 776.154936
+In Episode 3330, The PSR is 0.702000, the PDR is 0.903000.
+REINFORCE ep 3340 done. reward: 613.000000. reward running mean: 777.538102
+In Episode 3340, The PSR is 0.700000, the PDR is 0.722000.
+REINFORCE ep 3350 done. reward: 657.000000. reward running mean: 779.019806
+In Episode 3350, The PSR is 0.681000, the PDR is 0.745000.
+REINFORCE ep 3360 done. reward: 703.000000. reward running mean: 779.044719
+In Episode 3360, The PSR is 0.699000, the PDR is 0.772000.
+REINFORCE ep 3370 done. reward: 697.000000. reward running mean: 773.080957
+In Episode 3370, The PSR is 0.694000, the PDR is 0.768000.
+REINFORCE ep 3380 done. reward: 869.000000. reward running mean: 773.562681
+In Episode 3380, The PSR is 0.706000, the PDR is 0.885000.
+REINFORCE ep 3390 done. reward: 864.000000. reward running mean: 774.788948
+In Episode 3390, The PSR is 0.688000, the PDR is 0.881000.
+REINFORCE ep 3400 done. reward: 695.000000. reward running mean: 772.166877
+In Episode 3400, The PSR is 0.724000, the PDR is 0.767000.
+REINFORCE ep 3410 done. reward: 551.000000. reward running mean: 771.206374
+In Episode 3410, The PSR is 0.694000, the PDR is 0.691000.
+REINFORCE ep 3420 done. reward: 577.000000. reward running mean: 765.086737
+In Episode 3420, The PSR is 0.685000, the PDR is 0.703000.
+REINFORCE ep 3430 done. reward: 720.000000. reward running mean: 769.090862
+In Episode 3430, The PSR is 0.697000, the PDR is 0.782000.
+REINFORCE ep 3440 done. reward: 674.000000. reward running mean: 767.442152
+In Episode 3440, The PSR is 0.706000, the PDR is 0.755000.
+REINFORCE ep 3450 done. reward: 844.000000. reward running mean: 767.476262
+In Episode 3450, The PSR is 0.708000, the PDR is 0.866000.
+REINFORCE ep 3460 done. reward: 843.000000. reward running mean: 775.991450
+In Episode 3460, The PSR is 0.682000, the PDR is 0.865000.
+REINFORCE ep 3470 done. reward: 666.000000. reward running mean: 769.599477
+In Episode 3470, The PSR is 0.713000, the PDR is 0.750000.
+REINFORCE ep 3480 done. reward: 859.000000. reward running mean: 765.750460
+In Episode 3480, The PSR is 0.680000, the PDR is 0.877000.
+REINFORCE ep 3490 done. reward: 899.000000. reward running mean: 774.448011
+In Episode 3490, The PSR is 0.705000, the PDR is 0.909000.
+REINFORCE ep 3500 done. reward: 863.000000. reward running mean: 778.836867
+In Episode 3500, The PSR is 0.703000, the PDR is 0.880000.
+REINFORCE ep 3510 done. reward: 891.000000. reward running mean: 782.475499
+In Episode 3510, The PSR is 0.694000, the PDR is 0.903000.
+REINFORCE ep 3520 done. reward: 843.000000. reward running mean: 787.815995
+In Episode 3520, The PSR is 0.692000, the PDR is 0.865000.
+REINFORCE ep 3530 done. reward: 871.000000. reward running mean: 788.828111
+In Episode 3530, The PSR is 0.712000, the PDR is 0.887000.
+REINFORCE ep 3540 done. reward: 999.000000. reward running mean: 787.636747
+In Episode 3540, The PSR is 0.713000, the PDR is 1.000000.
+REINFORCE ep 3550 done. reward: 852.000000. reward running mean: 789.644241
+In Episode 3550, The PSR is 0.687000, the PDR is 0.872000.
+REINFORCE ep 3560 done. reward: 870.000000. reward running mean: 782.368692
+In Episode 3560, The PSR is 0.691000, the PDR is 0.886000.
+REINFORCE ep 3570 done. reward: 999.000000. reward running mean: 788.109063
+In Episode 3570, The PSR is 0.690000, the PDR is 1.000000.
+REINFORCE ep 3580 done. reward: 849.000000. reward running mean: 790.530847
+In Episode 3580, The PSR is 0.699000, the PDR is 0.870000.
+REINFORCE ep 3590 done. reward: 569.000000. reward running mean: 784.819840
+In Episode 3590, The PSR is 0.718000, the PDR is 0.699000.
+REINFORCE ep 3600 done. reward: 886.000000. reward running mean: 784.816422
+In Episode 3600, The PSR is 0.716000, the PDR is 0.898000.
+REINFORCE ep 3610 done. reward: 882.000000. reward running mean: 785.501420
+In Episode 3610, The PSR is 0.687000, the PDR is 0.895000.
+REINFORCE ep 3620 done. reward: 560.000000. reward running mean: 788.393992
+In Episode 3620, The PSR is 0.709000, the PDR is 0.695000.
+REINFORCE ep 3630 done. reward: 890.000000. reward running mean: 797.760645
+In Episode 3630, The PSR is 0.687000, the PDR is 0.902000.
+REINFORCE ep 3640 done. reward: 860.000000. reward running mean: 800.356596
+In Episode 3640, The PSR is 0.700000, the PDR is 0.878000.
+REINFORCE ep 3650 done. reward: 615.000000. reward running mean: 801.256927
+In Episode 3650, The PSR is 0.689000, the PDR is 0.723000.
+REINFORCE ep 3660 done. reward: 586.000000. reward running mean: 795.594338
+In Episode 3660, The PSR is 0.695000, the PDR is 0.708000.
+REINFORCE ep 3670 done. reward: 615.000000. reward running mean: 785.615214
+In Episode 3670, The PSR is 0.687000, the PDR is 0.723000.
+REINFORCE ep 3680 done. reward: 667.000000. reward running mean: 782.885414
+In Episode 3680, The PSR is 0.707000, the PDR is 0.751000.
+REINFORCE ep 3690 done. reward: 999.000000. reward running mean: 792.147284
+In Episode 3690, The PSR is 0.730000, the PDR is 1.000000.
+REINFORCE ep 3700 done. reward: 553.000000. reward running mean: 779.855928
+In Episode 3700, The PSR is 0.703000, the PDR is 0.692000.
+REINFORCE ep 3710 done. reward: 680.000000. reward running mean: 776.876449
+In Episode 3710, The PSR is 0.714000, the PDR is 0.758000.
+REINFORCE ep 3720 done. reward: 792.000000. reward running mean: 774.296595
+In Episode 3720, The PSR is 0.699000, the PDR is 0.829000.
+REINFORCE ep 3730 done. reward: 678.000000. reward running mean: 770.213749
+In Episode 3730, The PSR is 0.727000, the PDR is 0.757000.
+REINFORCE ep 3740 done. reward: 577.000000. reward running mean: 763.882627
+In Episode 3740, The PSR is 0.701000, the PDR is 0.703000.
+REINFORCE ep 3750 done. reward: 582.000000. reward running mean: 762.722511
+In Episode 3750, The PSR is 0.711000, the PDR is 0.706000.
+REINFORCE ep 3760 done. reward: 999.000000. reward running mean: 768.569994
+In Episode 3760, The PSR is 0.698000, the PDR is 1.000000.
+REINFORCE ep 3770 done. reward: 856.000000. reward running mean: 778.671301
+In Episode 3770, The PSR is 0.706000, the PDR is 0.875000.
+REINFORCE ep 3780 done. reward: 887.000000. reward running mean: 778.237834
+In Episode 3780, The PSR is 0.702000, the PDR is 0.899000.
+REINFORCE ep 3790 done. reward: 667.000000. reward running mean: 782.338279
+In Episode 3790, The PSR is 0.713000, the PDR is 0.751000.
+REINFORCE ep 3800 done. reward: 669.000000. reward running mean: 775.980010
+In Episode 3800, The PSR is 0.713000, the PDR is 0.752000.
+REINFORCE ep 3810 done. reward: 686.000000. reward running mean: 769.592541
+In Episode 3810, The PSR is 0.716000, the PDR is 0.762000.
+REINFORCE ep 3820 done. reward: 883.000000. reward running mean: 770.492602
+In Episode 3820, The PSR is 0.713000, the PDR is 0.896000.
+REINFORCE ep 3830 done. reward: 870.000000. reward running mean: 771.505434
+In Episode 3830, The PSR is 0.711000, the PDR is 0.886000.
+REINFORCE ep 3840 done. reward: 679.000000. reward running mean: 766.374610
+In Episode 3840, The PSR is 0.719000, the PDR is 0.758000.
+REINFORCE ep 3850 done. reward: 883.000000. reward running mean: 770.419506
+In Episode 3850, The PSR is 0.707000, the PDR is 0.896000.
+REINFORCE ep 3860 done. reward: 917.000000. reward running mean: 782.069773
+In Episode 3860, The PSR is 0.708000, the PDR is 0.924000.
+REINFORCE ep 3870 done. reward: 866.000000. reward running mean: 782.519217
+In Episode 3870, The PSR is 0.715000, the PDR is 0.883000.
+REINFORCE ep 3880 done. reward: 802.000000. reward running mean: 782.612104
+In Episode 3880, The PSR is 0.714000, the PDR is 0.835000.
+REINFORCE ep 3890 done. reward: 888.000000. reward running mean: 780.527623
+In Episode 3890, The PSR is 0.722000, the PDR is 0.900000.
+REINFORCE ep 3900 done. reward: 894.000000. reward running mean: 784.412941
+In Episode 3900, The PSR is 0.725000, the PDR is 0.905000.
+REINFORCE ep 3910 done. reward: 662.000000. reward running mean: 781.279615
+In Episode 3910, The PSR is 0.715000, the PDR is 0.748000.
+REINFORCE ep 3920 done. reward: 541.000000. reward running mean: 778.142933
+In Episode 3920, The PSR is 0.734000, the PDR is 0.686000.
+REINFORCE ep 3930 done. reward: 999.000000. reward running mean: 777.698361
+In Episode 3930, The PSR is 0.720000, the PDR is 1.000000.
+REINFORCE ep 3940 done. reward: 887.000000. reward running mean: 781.792659
+In Episode 3940, The PSR is 0.714000, the PDR is 0.899000.
+REINFORCE ep 3950 done. reward: 999.000000. reward running mean: 789.965774
+In Episode 3950, The PSR is 0.726000, the PDR is 1.000000.
+REINFORCE ep 3960 done. reward: 876.000000. reward running mean: 787.964707
+In Episode 3960, The PSR is 0.712000, the PDR is 0.890000.
+REINFORCE ep 3970 done. reward: 610.000000. reward running mean: 790.924575
+In Episode 3970, The PSR is 0.720000, the PDR is 0.720000.
+REINFORCE ep 3980 done. reward: 572.000000. reward running mean: 784.439703
+In Episode 3980, The PSR is 0.720000, the PDR is 0.701000.
+REINFORCE ep 3990 done. reward: 890.000000. reward running mean: 793.636955
+In Episode 3990, The PSR is 0.704000, the PDR is 0.902000.
+REINFORCE ep 4000 done. reward: 557.000000. reward running mean: 792.366483
+In Episode 4000, The PSR is 0.707000, the PDR is 0.693000.
+REINFORCE ep 4010 done. reward: 596.000000. reward running mean: 779.718367
+In Episode 4010, The PSR is 0.722000, the PDR is 0.713000.
+REINFORCE ep 4020 done. reward: 710.000000. reward running mean: 777.126904
+In Episode 4020, The PSR is 0.716000, the PDR is 0.776000.
+REINFORCE ep 4030 done. reward: 603.000000. reward running mean: 785.098682
+In Episode 4030, The PSR is 0.710000, the PDR is 0.716000.
+REINFORCE ep 4040 done. reward: 664.000000. reward running mean: 776.788824
+In Episode 4040, The PSR is 0.719000, the PDR is 0.749000.
+REINFORCE ep 4050 done. reward: 658.000000. reward running mean: 780.002634
+In Episode 4050, The PSR is 0.725000, the PDR is 0.746000.
+REINFORCE ep 4060 done. reward: 887.000000. reward running mean: 784.394204
+In Episode 4060, The PSR is 0.720000, the PDR is 0.899000.
+REINFORCE ep 4070 done. reward: 554.000000. reward running mean: 788.879280
+In Episode 4070, The PSR is 0.745000, the PDR is 0.692000.
+REINFORCE ep 4080 done. reward: 668.000000. reward running mean: 793.598987
+In Episode 4080, The PSR is 0.731000, the PDR is 0.751000.
+REINFORCE ep 4090 done. reward: 644.000000. reward running mean: 784.998318
+In Episode 4090, The PSR is 0.726000, the PDR is 0.738000.
+REINFORCE ep 4100 done. reward: 849.000000. reward running mean: 784.828833
+In Episode 4100, The PSR is 0.715000, the PDR is 0.870000.
+REINFORCE ep 4110 done. reward: 862.000000. reward running mean: 785.555929
+In Episode 4110, The PSR is 0.737000, the PDR is 0.880000.
+REINFORCE ep 4120 done. reward: 877.000000. reward running mean: 786.999508
+In Episode 4120, The PSR is 0.723000, the PDR is 0.891000.
+REINFORCE ep 4130 done. reward: 999.000000. reward running mean: 799.048479
+In Episode 4130, The PSR is 0.738000, the PDR is 1.000000.
+REINFORCE ep 4140 done. reward: 874.000000. reward running mean: 800.127454
+In Episode 4140, The PSR is 0.711000, the PDR is 0.889000.
+REINFORCE ep 4150 done. reward: 872.000000. reward running mean: 799.215619
+In Episode 4150, The PSR is 0.744000, the PDR is 0.887000.
+REINFORCE ep 4160 done. reward: 864.000000. reward running mean: 799.137793
+In Episode 4160, The PSR is 0.722000, the PDR is 0.881000.
+REINFORCE ep 4170 done. reward: 831.000000. reward running mean: 790.766184
+In Episode 4170, The PSR is 0.748000, the PDR is 0.856000.
+REINFORCE ep 4180 done. reward: 693.000000. reward running mean: 786.056016
+In Episode 4180, The PSR is 0.735000, the PDR is 0.766000.
+REINFORCE ep 4190 done. reward: 540.000000. reward running mean: 776.583059
+In Episode 4190, The PSR is 0.731000, the PDR is 0.685000.
+REINFORCE ep 4200 done. reward: 888.000000. reward running mean: 775.943851
+In Episode 4200, The PSR is 0.763000, the PDR is 0.900000.
+REINFORCE ep 4210 done. reward: 569.000000. reward running mean: 773.531668
+In Episode 4210, The PSR is 0.719000, the PDR is 0.699000.
+REINFORCE ep 4220 done. reward: 642.000000. reward running mean: 766.618353
+In Episode 4220, The PSR is 0.734000, the PDR is 0.737000.
+REINFORCE ep 4230 done. reward: 670.000000. reward running mean: 768.749041
+In Episode 4230, The PSR is 0.742000, the PDR is 0.752000.
+REINFORCE ep 4240 done. reward: 705.000000. reward running mean: 769.581707
+In Episode 4240, The PSR is 0.737000, the PDR is 0.773000.
+REINFORCE ep 4250 done. reward: 876.000000. reward running mean: 784.891086
+In Episode 4250, The PSR is 0.743000, the PDR is 0.890000.
+REINFORCE ep 4260 done. reward: 896.000000. reward running mean: 781.609582
+In Episode 4260, The PSR is 0.732000, the PDR is 0.907000.
+REINFORCE ep 4270 done. reward: 766.000000. reward running mean: 773.931652
+In Episode 4270, The PSR is 0.726000, the PDR is 0.811000.
+REINFORCE ep 4280 done. reward: 597.000000. reward running mean: 765.937767
+In Episode 4280, The PSR is 0.734000, the PDR is 0.713000.
+REINFORCE ep 4290 done. reward: 696.000000. reward running mean: 763.751111
+In Episode 4290, The PSR is 0.716000, the PDR is 0.767000.
+REINFORCE ep 4300 done. reward: 865.000000. reward running mean: 762.988152
+In Episode 4300, The PSR is 0.727000, the PDR is 0.882000.
+REINFORCE ep 4310 done. reward: 858.000000. reward running mean: 760.534642
+In Episode 4310, The PSR is 0.743000, the PDR is 0.876000.
+REINFORCE ep 4320 done. reward: 714.000000. reward running mean: 762.163163
+In Episode 4320, The PSR is 0.728000, the PDR is 0.778000.
+REINFORCE ep 4330 done. reward: 851.000000. reward running mean: 764.437732
+In Episode 4330, The PSR is 0.726000, the PDR is 0.871000.
+REINFORCE ep 4340 done. reward: 842.000000. reward running mean: 764.278483
+In Episode 4340, The PSR is 0.718000, the PDR is 0.864000.
+REINFORCE ep 4350 done. reward: 560.000000. reward running mean: 761.821545
+In Episode 4350, The PSR is 0.730000, the PDR is 0.695000.
+REINFORCE ep 4360 done. reward: 871.000000. reward running mean: 759.511829
+In Episode 4360, The PSR is 0.753000, the PDR is 0.887000.
+REINFORCE ep 4370 done. reward: 629.000000. reward running mean: 766.262767
+In Episode 4370, The PSR is 0.721000, the PDR is 0.730000.
+REINFORCE ep 4380 done. reward: 509.000000. reward running mean: 752.491073
+In Episode 4380, The PSR is 0.730000, the PDR is 0.671000.
+REINFORCE ep 4390 done. reward: 842.000000. reward running mean: 754.130170
+In Episode 4390, The PSR is 0.735000, the PDR is 0.864000.
+REINFORCE ep 4400 done. reward: 856.000000. reward running mean: 747.628051
+In Episode 4400, The PSR is 0.755000, the PDR is 0.875000.
+REINFORCE ep 4410 done. reward: 541.000000. reward running mean: 761.446152
+In Episode 4410, The PSR is 0.736000, the PDR is 0.686000.
+REINFORCE ep 4420 done. reward: 890.000000. reward running mean: 764.471938
+In Episode 4420, The PSR is 0.714000, the PDR is 0.902000.
+REINFORCE ep 4430 done. reward: 890.000000. reward running mean: 767.308671
+In Episode 4430, The PSR is 0.734000, the PDR is 0.902000.
+REINFORCE ep 4440 done. reward: 840.000000. reward running mean: 767.814115
+In Episode 4440, The PSR is 0.737000, the PDR is 0.863000.
+REINFORCE ep 4450 done. reward: 848.000000. reward running mean: 771.011414
+In Episode 4450, The PSR is 0.745000, the PDR is 0.869000.
+REINFORCE ep 4460 done. reward: 837.000000. reward running mean: 773.586602
+In Episode 4460, The PSR is 0.748000, the PDR is 0.861000.
+REINFORCE ep 4470 done. reward: 544.000000. reward running mean: 770.497438
+In Episode 4470, The PSR is 0.740000, the PDR is 0.687000.
+REINFORCE ep 4480 done. reward: 856.000000. reward running mean: 768.856567
+In Episode 4480, The PSR is 0.733000, the PDR is 0.875000.
+REINFORCE ep 4490 done. reward: 876.000000. reward running mean: 776.583328
+In Episode 4490, The PSR is 0.736000, the PDR is 0.890000.
+REINFORCE ep 4500 done. reward: 900.000000. reward running mean: 777.950302
+In Episode 4500, The PSR is 0.740000, the PDR is 0.910000.
+REINFORCE ep 4510 done. reward: 660.000000. reward running mean: 776.173459
+In Episode 4510, The PSR is 0.732000, the PDR is 0.747000.
+REINFORCE ep 4520 done. reward: 868.000000. reward running mean: 771.436766
+In Episode 4520, The PSR is 0.727000, the PDR is 0.884000.
+REINFORCE ep 4530 done. reward: 650.000000. reward running mean: 774.194677
+In Episode 4530, The PSR is 0.745000, the PDR is 0.741000.
+REINFORCE ep 4540 done. reward: 654.000000. reward running mean: 769.839864
+In Episode 4540, The PSR is 0.726000, the PDR is 0.743000.
+REINFORCE ep 4550 done. reward: 862.000000. reward running mean: 769.863666
+In Episode 4550, The PSR is 0.752000, the PDR is 0.880000.
+REINFORCE ep 4560 done. reward: 859.000000. reward running mean: 766.391828
+In Episode 4560, The PSR is 0.765000, the PDR is 0.877000.
+REINFORCE ep 4570 done. reward: 881.000000. reward running mean: 769.764332
+In Episode 4570, The PSR is 0.743000, the PDR is 0.894000.
+REINFORCE ep 4580 done. reward: 864.000000. reward running mean: 772.630546
+In Episode 4580, The PSR is 0.739000, the PDR is 0.881000.
+REINFORCE ep 4590 done. reward: 880.000000. reward running mean: 774.374741
+In Episode 4590, The PSR is 0.761000, the PDR is 0.894000.
+REINFORCE ep 4600 done. reward: 551.000000. reward running mean: 778.758629
+In Episode 4600, The PSR is 0.756000, the PDR is 0.691000.
+REINFORCE ep 4610 done. reward: 848.000000. reward running mean: 780.337333
+In Episode 4610, The PSR is 0.743000, the PDR is 0.869000.
+REINFORCE ep 4620 done. reward: 896.000000. reward running mean: 782.991015
+In Episode 4620, The PSR is 0.731000, the PDR is 0.907000.
+REINFORCE ep 4630 done. reward: 682.000000. reward running mean: 773.140894
+In Episode 4630, The PSR is 0.719000, the PDR is 0.759000.
+REINFORCE ep 4640 done. reward: 637.000000. reward running mean: 769.508281
+In Episode 4640, The PSR is 0.746000, the PDR is 0.734000.
+REINFORCE ep 4650 done. reward: 525.000000. reward running mean: 765.682557
+In Episode 4650, The PSR is 0.742000, the PDR is 0.678000.
+REINFORCE ep 4660 done. reward: 999.000000. reward running mean: 768.370499
+In Episode 4660, The PSR is 0.732000, the PDR is 1.000000.
+REINFORCE ep 4670 done. reward: 872.000000. reward running mean: 773.264703
+In Episode 4670, The PSR is 0.744000, the PDR is 0.887000.
+REINFORCE ep 4680 done. reward: 896.000000. reward running mean: 790.522352
+In Episode 4680, The PSR is 0.747000, the PDR is 0.907000.
+REINFORCE ep 4690 done. reward: 908.000000. reward running mean: 787.547932
+In Episode 4690, The PSR is 0.759000, the PDR is 0.917000.
+REINFORCE ep 4700 done. reward: 854.000000. reward running mean: 779.469202
+In Episode 4700, The PSR is 0.758000, the PDR is 0.873000.
+REINFORCE ep 4710 done. reward: 903.000000. reward running mean: 780.359763
+In Episode 4710, The PSR is 0.747000, the PDR is 0.912000.
+REINFORCE ep 4720 done. reward: 765.000000. reward running mean: 778.330636
+In Episode 4720, The PSR is 0.738000, the PDR is 0.810000.
+REINFORCE ep 4730 done. reward: 837.000000. reward running mean: 783.253781
+In Episode 4730, The PSR is 0.748000, the PDR is 0.861000.
+REINFORCE ep 4740 done. reward: 648.000000. reward running mean: 772.353612
+In Episode 4740, The PSR is 0.744000, the PDR is 0.740000.
+REINFORCE ep 4750 done. reward: 833.000000. reward running mean: 773.661559
+In Episode 4750, The PSR is 0.750000, the PDR is 0.858000.
+REINFORCE ep 4760 done. reward: 674.000000. reward running mean: 771.499778
+In Episode 4760, The PSR is 0.744000, the PDR is 0.755000.
+REINFORCE ep 4770 done. reward: 850.000000. reward running mean: 769.142577
+In Episode 4770, The PSR is 0.750000, the PDR is 0.870000.
+REINFORCE ep 4780 done. reward: 938.000000. reward running mean: 776.255506
+In Episode 4780, The PSR is 0.762000, the PDR is 0.943000.
+REINFORCE ep 4790 done. reward: 706.000000. reward running mean: 771.480581
+In Episode 4790, The PSR is 0.750000, the PDR is 0.773000.
+REINFORCE ep 4800 done. reward: 571.000000. reward running mean: 770.302046
+In Episode 4800, The PSR is 0.746000, the PDR is 0.700000.
+REINFORCE ep 4810 done. reward: 846.000000. reward running mean: 768.432801
+In Episode 4810, The PSR is 0.773000, the PDR is 0.867000.
+REINFORCE ep 4820 done. reward: 848.000000. reward running mean: 774.730808
+In Episode 4820, The PSR is 0.735000, the PDR is 0.869000.
+REINFORCE ep 4830 done. reward: 620.000000. reward running mean: 772.009784
+In Episode 4830, The PSR is 0.747000, the PDR is 0.725000.
+REINFORCE ep 4840 done. reward: 885.000000. reward running mean: 770.754101
+In Episode 4840, The PSR is 0.737000, the PDR is 0.898000.
+REINFORCE ep 4850 done. reward: 866.000000. reward running mean: 772.724257
+In Episode 4850, The PSR is 0.754000, the PDR is 0.883000.
+REINFORCE ep 4860 done. reward: 883.000000. reward running mean: 773.566608
+In Episode 4860, The PSR is 0.765000, the PDR is 0.896000.
+REINFORCE ep 4870 done. reward: 556.000000. reward running mean: 775.835574
+In Episode 4870, The PSR is 0.759000, the PDR is 0.693000.
+REINFORCE ep 4880 done. reward: 876.000000. reward running mean: 773.076326
+In Episode 4880, The PSR is 0.754000, the PDR is 0.890000.
+REINFORCE ep 4890 done. reward: 843.000000. reward running mean: 771.609684
+In Episode 4890, The PSR is 0.739000, the PDR is 0.865000.
+REINFORCE ep 4900 done. reward: 829.000000. reward running mean: 777.107985
+In Episode 4900, The PSR is 0.763000, the PDR is 0.855000.
+REINFORCE ep 4910 done. reward: 862.000000. reward running mean: 778.150658
+In Episode 4910, The PSR is 0.780000, the PDR is 0.880000.
+REINFORCE ep 4920 done. reward: 859.000000. reward running mean: 774.274560
+In Episode 4920, The PSR is 0.752000, the PDR is 0.877000.
+REINFORCE ep 4930 done. reward: 847.000000. reward running mean: 777.382556
+In Episode 4930, The PSR is 0.772000, the PDR is 0.868000.
+REINFORCE ep 4940 done. reward: 856.000000. reward running mean: 778.638154
+In Episode 4940, The PSR is 0.740000, the PDR is 0.875000.
+REINFORCE ep 4950 done. reward: 882.000000. reward running mean: 775.775193
+In Episode 4950, The PSR is 0.771000, the PDR is 0.895000.
+REINFORCE ep 4960 done. reward: 548.000000. reward running mean: 777.324520
+In Episode 4960, The PSR is 0.770000, the PDR is 0.689000.
+REINFORCE ep 4970 done. reward: 999.000000. reward running mean: 770.814440
+In Episode 4970, The PSR is 0.769000, the PDR is 1.000000.
+REINFORCE ep 4980 done. reward: 900.000000. reward running mean: 775.462184
+In Episode 4980, The PSR is 0.753000, the PDR is 0.910000.
+REINFORCE ep 4990 done. reward: 891.000000. reward running mean: 765.050840
+In Episode 4990, The PSR is 0.751000, the PDR is 0.903000.
+REINFORCE ep 5000 done. reward: 628.000000. reward running mean: 770.498055
+In Episode 5000, The PSR is 0.753000, the PDR is 0.729000.
+REINFORCE ep 5010 done. reward: 692.000000. reward running mean: 767.406287
+In Episode 5010, The PSR is 0.761000, the PDR is 0.765000.
+REINFORCE ep 5020 done. reward: 893.000000. reward running mean: 775.990395
+In Episode 5020, The PSR is 0.773000, the PDR is 0.904000.
+REINFORCE ep 5030 done. reward: 545.000000. reward running mean: 767.577501
+In Episode 5030, The PSR is 0.754000, the PDR is 0.688000.
+REINFORCE ep 5040 done. reward: 690.000000. reward running mean: 772.607994
+In Episode 5040, The PSR is 0.763000, the PDR is 0.764000.
+REINFORCE ep 5050 done. reward: 671.000000. reward running mean: 774.027071
+In Episode 5050, The PSR is 0.758000, the PDR is 0.753000.
+REINFORCE ep 5060 done. reward: 874.000000. reward running mean: 783.867080
+In Episode 5060, The PSR is 0.763000, the PDR is 0.889000.
+REINFORCE ep 5070 done. reward: 843.000000. reward running mean: 789.427565
+In Episode 5070, The PSR is 0.765000, the PDR is 0.865000.
+REINFORCE ep 5080 done. reward: 670.000000. reward running mean: 783.711194
+In Episode 5080, The PSR is 0.753000, the PDR is 0.752000.
+REINFORCE ep 5090 done. reward: 653.000000. reward running mean: 784.395000
+In Episode 5090, The PSR is 0.774000, the PDR is 0.743000.
+REINFORCE ep 5100 done. reward: 856.000000. reward running mean: 775.805008
+In Episode 5100, The PSR is 0.768000, the PDR is 0.875000.
+REINFORCE ep 5110 done. reward: 904.000000. reward running mean: 782.066896
+In Episode 5110, The PSR is 0.747000, the PDR is 0.913000.
+REINFORCE ep 5120 done. reward: 663.000000. reward running mean: 779.266944
+In Episode 5120, The PSR is 0.760000, the PDR is 0.749000.
+REINFORCE ep 5130 done. reward: 999.000000. reward running mean: 773.302367
+In Episode 5130, The PSR is 0.791000, the PDR is 1.000000.
+REINFORCE ep 5140 done. reward: 894.000000. reward running mean: 769.513072
+In Episode 5140, The PSR is 0.779000, the PDR is 0.905000.
+REINFORCE ep 5150 done. reward: 664.000000. reward running mean: 771.824195
+In Episode 5150, The PSR is 0.777000, the PDR is 0.749000.
+REINFORCE ep 5160 done. reward: 646.000000. reward running mean: 771.522452
+In Episode 5160, The PSR is 0.786000, the PDR is 0.739000.
+REINFORCE ep 5170 done. reward: 590.000000. reward running mean: 773.191906
+In Episode 5170, The PSR is 0.758000, the PDR is 0.710000.
+REINFORCE ep 5180 done. reward: 672.000000. reward running mean: 765.542789
+In Episode 5180, The PSR is 0.771000, the PDR is 0.754000.
+REINFORCE ep 5190 done. reward: 649.000000. reward running mean: 759.187638
+In Episode 5190, The PSR is 0.767000, the PDR is 0.741000.
+REINFORCE ep 5200 done. reward: 999.000000. reward running mean: 764.540848
+In Episode 5200, The PSR is 0.778000, the PDR is 1.000000.
+REINFORCE ep 5210 done. reward: 685.000000. reward running mean: 768.062350
+In Episode 5210, The PSR is 0.762000, the PDR is 0.761000.
+REINFORCE ep 5220 done. reward: 610.000000. reward running mean: 766.698735
+In Episode 5220, The PSR is 0.774000, the PDR is 0.720000.
+REINFORCE ep 5230 done. reward: 604.000000. reward running mean: 768.170203
+In Episode 5230, The PSR is 0.769000, the PDR is 0.717000.
+REINFORCE ep 5240 done. reward: 873.000000. reward running mean: 772.460152
+In Episode 5240, The PSR is 0.795000, the PDR is 0.888000.
+REINFORCE ep 5250 done. reward: 999.000000. reward running mean: 786.396350
+In Episode 5250, The PSR is 0.764000, the PDR is 1.000000.
+REINFORCE ep 5260 done. reward: 549.000000. reward running mean: 784.969251
+In Episode 5260, The PSR is 0.760000, the PDR is 0.690000.
+REINFORCE ep 5270 done. reward: 889.000000. reward running mean: 793.913997
+In Episode 5270, The PSR is 0.772000, the PDR is 0.901000.
+REINFORCE ep 5280 done. reward: 571.000000. reward running mean: 795.891272
+In Episode 5280, The PSR is 0.754000, the PDR is 0.700000.
+REINFORCE ep 5290 done. reward: 781.000000. reward running mean: 790.360513
+In Episode 5290, The PSR is 0.770000, the PDR is 0.821000.
+REINFORCE ep 5300 done. reward: 848.000000. reward running mean: 790.288209
+In Episode 5300, The PSR is 0.773000, the PDR is 0.869000.
+REINFORCE ep 5310 done. reward: 890.000000. reward running mean: 786.395719
+In Episode 5310, The PSR is 0.764000, the PDR is 0.902000.
+REINFORCE ep 5320 done. reward: 685.000000. reward running mean: 777.534615
+In Episode 5320, The PSR is 0.774000, the PDR is 0.761000.
+REINFORCE ep 5330 done. reward: 597.000000. reward running mean: 775.695932
+In Episode 5330, The PSR is 0.762000, the PDR is 0.713000.
+REINFORCE ep 5340 done. reward: 650.000000. reward running mean: 768.649346
+In Episode 5340, The PSR is 0.780000, the PDR is 0.741000.
+REINFORCE ep 5350 done. reward: 836.000000. reward running mean: 767.688950
+In Episode 5350, The PSR is 0.766000, the PDR is 0.860000.
+REINFORCE ep 5360 done. reward: 611.000000. reward running mean: 755.859923
+In Episode 5360, The PSR is 0.769000, the PDR is 0.720000.
+REINFORCE ep 5370 done. reward: 897.000000. reward running mean: 761.509772
+In Episode 5370, The PSR is 0.778000, the PDR is 0.907000.
+REINFORCE ep 5380 done. reward: 906.000000. reward running mean: 759.904850
+In Episode 5380, The PSR is 0.782000, the PDR is 0.915000.
+REINFORCE ep 5390 done. reward: 865.000000. reward running mean: 766.280983
+In Episode 5390, The PSR is 0.769000, the PDR is 0.882000.
+REINFORCE ep 5400 done. reward: 621.000000. reward running mean: 773.775302
+In Episode 5400, The PSR is 0.796000, the PDR is 0.726000.
+REINFORCE ep 5410 done. reward: 679.000000. reward running mean: 779.787139
+In Episode 5410, The PSR is 0.756000, the PDR is 0.758000.
+REINFORCE ep 5420 done. reward: 682.000000. reward running mean: 778.635460
+In Episode 5420, The PSR is 0.782000, the PDR is 0.759000.
+REINFORCE ep 5430 done. reward: 688.000000. reward running mean: 765.548018
+In Episode 5430, The PSR is 0.763000, the PDR is 0.763000.
+REINFORCE ep 5440 done. reward: 857.000000. reward running mean: 769.980764
+In Episode 5440, The PSR is 0.761000, the PDR is 0.876000.
+REINFORCE ep 5450 done. reward: 666.000000. reward running mean: 771.807920
+In Episode 5450, The PSR is 0.777000, the PDR is 0.750000.
+REINFORCE ep 5460 done. reward: 683.000000. reward running mean: 772.389323
+In Episode 5460, The PSR is 0.771000, the PDR is 0.760000.
+REINFORCE ep 5470 done. reward: 857.000000. reward running mean: 768.265662
+In Episode 5470, The PSR is 0.790000, the PDR is 0.876000.
+REINFORCE ep 5480 done. reward: 657.000000. reward running mean: 762.728307
+In Episode 5480, The PSR is 0.794000, the PDR is 0.745000.
+REINFORCE ep 5490 done. reward: 807.000000. reward running mean: 762.320114
+In Episode 5490, The PSR is 0.780000, the PDR is 0.839000.
+REINFORCE ep 5500 done. reward: 717.000000. reward running mean: 767.758109
+In Episode 5500, The PSR is 0.787000, the PDR is 0.780000.
+REINFORCE ep 5510 done. reward: 575.000000. reward running mean: 767.908080
+In Episode 5510, The PSR is 0.755000, the PDR is 0.702000.
+REINFORCE ep 5520 done. reward: 870.000000. reward running mean: 770.613614
+In Episode 5520, The PSR is 0.792000, the PDR is 0.886000.
+REINFORCE ep 5530 done. reward: 857.000000. reward running mean: 781.505707
+In Episode 5530, The PSR is 0.785000, the PDR is 0.876000.
+REINFORCE ep 5540 done. reward: 684.000000. reward running mean: 784.098780
+In Episode 5540, The PSR is 0.785000, the PDR is 0.760000.
+REINFORCE ep 5550 done. reward: 869.000000. reward running mean: 779.955450
+In Episode 5550, The PSR is 0.785000, the PDR is 0.885000.
+REINFORCE ep 5560 done. reward: 645.000000. reward running mean: 774.976349
+In Episode 5560, The PSR is 0.772000, the PDR is 0.739000.
+REINFORCE ep 5570 done. reward: 897.000000. reward running mean: 776.881764
+In Episode 5570, The PSR is 0.782000, the PDR is 0.907000.
+REINFORCE ep 5580 done. reward: 670.000000. reward running mean: 777.227375
+In Episode 5580, The PSR is 0.778000, the PDR is 0.752000.
+REINFORCE ep 5590 done. reward: 850.000000. reward running mean: 774.693983
+In Episode 5590, The PSR is 0.758000, the PDR is 0.870000.
+REINFORCE ep 5600 done. reward: 848.000000. reward running mean: 771.802450
+In Episode 5600, The PSR is 0.800000, the PDR is 0.869000.
+REINFORCE ep 5610 done. reward: 859.000000. reward running mean: 773.052202
+In Episode 5610, The PSR is 0.797000, the PDR is 0.877000.
+REINFORCE ep 5620 done. reward: 852.000000. reward running mean: 763.029429
+In Episode 5620, The PSR is 0.772000, the PDR is 0.872000.
+REINFORCE ep 5630 done. reward: 535.000000. reward running mean: 760.378370
+In Episode 5630, The PSR is 0.785000, the PDR is 0.683000.
+REINFORCE ep 5640 done. reward: 883.000000. reward running mean: 761.839558
+In Episode 5640, The PSR is 0.793000, the PDR is 0.896000.
+REINFORCE ep 5650 done. reward: 864.000000. reward running mean: 758.344612
+In Episode 5650, The PSR is 0.790000, the PDR is 0.881000.
+REINFORCE ep 5660 done. reward: 681.000000. reward running mean: 764.979060
+In Episode 5660, The PSR is 0.768000, the PDR is 0.759000.
+REINFORCE ep 5670 done. reward: 658.000000. reward running mean: 772.491612
+In Episode 5670, The PSR is 0.779000, the PDR is 0.746000.
+REINFORCE ep 5680 done. reward: 891.000000. reward running mean: 772.486562
+In Episode 5680, The PSR is 0.778000, the PDR is 0.903000.
+REINFORCE ep 5690 done. reward: 999.000000. reward running mean: 768.234277
+In Episode 5690, The PSR is 0.763000, the PDR is 1.000000.
+REINFORCE ep 5700 done. reward: 675.000000. reward running mean: 773.707583
+In Episode 5700, The PSR is 0.797000, the PDR is 0.755000.
+REINFORCE ep 5710 done. reward: 667.000000. reward running mean: 769.264614
+In Episode 5710, The PSR is 0.774000, the PDR is 0.751000.
+REINFORCE ep 5720 done. reward: 669.000000. reward running mean: 764.000551
+In Episode 5720, The PSR is 0.788000, the PDR is 0.752000.
+REINFORCE ep 5730 done. reward: 856.000000. reward running mean: 762.299210
+In Episode 5730, The PSR is 0.775000, the PDR is 0.875000.
+REINFORCE ep 5740 done. reward: 895.000000. reward running mean: 763.724321
+In Episode 5740, The PSR is 0.785000, the PDR is 0.906000.
+REINFORCE ep 5750 done. reward: 860.000000. reward running mean: 771.609444
+In Episode 5750, The PSR is 0.774000, the PDR is 0.878000.
+REINFORCE ep 5760 done. reward: 890.000000. reward running mean: 769.414033
+In Episode 5760, The PSR is 0.790000, the PDR is 0.902000.
+REINFORCE ep 5770 done. reward: 840.000000. reward running mean: 771.392711
+In Episode 5770, The PSR is 0.775000, the PDR is 0.863000.
+REINFORCE ep 5780 done. reward: 755.000000. reward running mean: 775.768073
+In Episode 5780, The PSR is 0.762000, the PDR is 0.804000.
+REINFORCE ep 5790 done. reward: 864.000000. reward running mean: 776.635389
+In Episode 5790, The PSR is 0.774000, the PDR is 0.881000.
+REINFORCE ep 5800 done. reward: 612.000000. reward running mean: 775.448089
+In Episode 5800, The PSR is 0.779000, the PDR is 0.721000.
+REINFORCE ep 5810 done. reward: 888.000000. reward running mean: 771.654189
+In Episode 5810, The PSR is 0.771000, the PDR is 0.900000.
+REINFORCE ep 5820 done. reward: 650.000000. reward running mean: 769.344190
+In Episode 5820, The PSR is 0.785000, the PDR is 0.741000.
+REINFORCE ep 5830 done. reward: 671.000000. reward running mean: 764.138511
+In Episode 5830, The PSR is 0.790000, the PDR is 0.753000.
+REINFORCE ep 5840 done. reward: 873.000000. reward running mean: 770.360602
+In Episode 5840, The PSR is 0.772000, the PDR is 0.888000.
+REINFORCE ep 5850 done. reward: 555.000000. reward running mean: 772.079146
+In Episode 5850, The PSR is 0.790000, the PDR is 0.693000.
+REINFORCE ep 5860 done. reward: 698.000000. reward running mean: 772.528097
+In Episode 5860, The PSR is 0.771000, the PDR is 0.769000.
+REINFORCE ep 5870 done. reward: 858.000000. reward running mean: 771.767320
+In Episode 5870, The PSR is 0.780000, the PDR is 0.876000.
+REINFORCE ep 5880 done. reward: 844.000000. reward running mean: 771.497787
+In Episode 5880, The PSR is 0.788000, the PDR is 0.866000.
+REINFORCE ep 5890 done. reward: 684.000000. reward running mean: 769.987303
+In Episode 5890, The PSR is 0.786000, the PDR is 0.760000.
+REINFORCE ep 5900 done. reward: 891.000000. reward running mean: 769.922186
+In Episode 5900, The PSR is 0.800000, the PDR is 0.903000.
+REINFORCE ep 5910 done. reward: 885.000000. reward running mean: 778.693939
+In Episode 5910, The PSR is 0.801000, the PDR is 0.898000.
+REINFORCE ep 5920 done. reward: 860.000000. reward running mean: 784.400752
+In Episode 5920, The PSR is 0.782000, the PDR is 0.878000.
+REINFORCE ep 5930 done. reward: 892.000000. reward running mean: 783.637391
+In Episode 5930, The PSR is 0.796000, the PDR is 0.903000.
+REINFORCE ep 5940 done. reward: 858.000000. reward running mean: 784.668880
+In Episode 5940, The PSR is 0.802000, the PDR is 0.876000.
+REINFORCE ep 5950 done. reward: 867.000000. reward running mean: 775.858364
+In Episode 5950, The PSR is 0.816000, the PDR is 0.883000.
+REINFORCE ep 5960 done. reward: 575.000000. reward running mean: 778.108785
+In Episode 5960, The PSR is 0.784000, the PDR is 0.702000.
+REINFORCE ep 5970 done. reward: 999.000000. reward running mean: 781.630496
+In Episode 5970, The PSR is 0.790000, the PDR is 1.000000.
+REINFORCE ep 5980 done. reward: 883.000000. reward running mean: 785.467002
+In Episode 5980, The PSR is 0.783000, the PDR is 0.896000.
+REINFORCE ep 5990 done. reward: 848.000000. reward running mean: 791.964632
+In Episode 5990, The PSR is 0.794000, the PDR is 0.869000.
+REINFORCE ep 6000 done. reward: 880.000000. reward running mean: 800.351336
+In Episode 6000, The PSR is 0.785000, the PDR is 0.894000.
+REINFORCE ep 6010 done. reward: 629.000000. reward running mean: 799.165041
+In Episode 6010, The PSR is 0.784000, the PDR is 0.730000.
+REINFORCE ep 6020 done. reward: 571.000000. reward running mean: 787.112579
+In Episode 6020, The PSR is 0.789000, the PDR is 0.700000.
+REINFORCE ep 6030 done. reward: 858.000000. reward running mean: 790.105696
+In Episode 6030, The PSR is 0.806000, the PDR is 0.876000.
+REINFORCE ep 6040 done. reward: 565.000000. reward running mean: 780.016624
+In Episode 6040, The PSR is 0.805000, the PDR is 0.697000.
+REINFORCE ep 6050 done. reward: 844.000000. reward running mean: 785.117424
+In Episode 6050, The PSR is 0.788000, the PDR is 0.866000.
+REINFORCE ep 6060 done. reward: 856.000000. reward running mean: 790.803696
+In Episode 6060, The PSR is 0.792000, the PDR is 0.875000.
+REINFORCE ep 6070 done. reward: 999.000000. reward running mean: 788.527063
+In Episode 6070, The PSR is 0.803000, the PDR is 1.000000.
+REINFORCE ep 6080 done. reward: 895.000000. reward running mean: 792.889273
+In Episode 6080, The PSR is 0.815000, the PDR is 0.906000.
+REINFORCE ep 6090 done. reward: 659.000000. reward running mean: 799.417933
+In Episode 6090, The PSR is 0.789000, the PDR is 0.746000.
+REINFORCE ep 6100 done. reward: 551.000000. reward running mean: 798.787306
+In Episode 6100, The PSR is 0.818000, the PDR is 0.691000.
+REINFORCE ep 6110 done. reward: 859.000000. reward running mean: 785.017337
+In Episode 6110, The PSR is 0.798000, the PDR is 0.877000.
+REINFORCE ep 6120 done. reward: 909.000000. reward running mean: 790.505835
+In Episode 6120, The PSR is 0.822000, the PDR is 0.917000.
+REINFORCE ep 6130 done. reward: 883.000000. reward running mean: 793.036336
+In Episode 6130, The PSR is 0.790000, the PDR is 0.896000.
+REINFORCE ep 6140 done. reward: 847.000000. reward running mean: 790.358854
+In Episode 6140, The PSR is 0.790000, the PDR is 0.868000.
+REINFORCE ep 6150 done. reward: 691.000000. reward running mean: 791.053747
+In Episode 6150, The PSR is 0.785000, the PDR is 0.765000.
+REINFORCE ep 6160 done. reward: 888.000000. reward running mean: 787.111281
+In Episode 6160, The PSR is 0.791000, the PDR is 0.900000.
+REINFORCE ep 6170 done. reward: 883.000000. reward running mean: 787.738744
+In Episode 6170, The PSR is 0.799000, the PDR is 0.896000.
+REINFORCE ep 6180 done. reward: 879.000000. reward running mean: 789.077881
+In Episode 6180, The PSR is 0.781000, the PDR is 0.893000.
+REINFORCE ep 6190 done. reward: 862.000000. reward running mean: 784.528853
+In Episode 6190, The PSR is 0.795000, the PDR is 0.880000.
+REINFORCE ep 6200 done. reward: 646.000000. reward running mean: 773.977431
+In Episode 6200, The PSR is 0.785000, the PDR is 0.739000.
+REINFORCE ep 6210 done. reward: 671.000000. reward running mean: 780.274181
+In Episode 6210, The PSR is 0.794000, the PDR is 0.753000.
+REINFORCE ep 6220 done. reward: 627.000000. reward running mean: 783.285932
+In Episode 6220, The PSR is 0.785000, the PDR is 0.729000.
+REINFORCE ep 6230 done. reward: 859.000000. reward running mean: 784.171460
+In Episode 6230, The PSR is 0.784000, the PDR is 0.877000.
+REINFORCE ep 6240 done. reward: 864.000000. reward running mean: 782.725296
+In Episode 6240, The PSR is 0.781000, the PDR is 0.881000.
+REINFORCE ep 6250 done. reward: 870.000000. reward running mean: 784.704516
+In Episode 6250, The PSR is 0.807000, the PDR is 0.886000.
+REINFORCE ep 6260 done. reward: 848.000000. reward running mean: 784.438972
+In Episode 6260, The PSR is 0.800000, the PDR is 0.869000.
+REINFORCE ep 6270 done. reward: 999.000000. reward running mean: 784.133181
+In Episode 6270, The PSR is 0.793000, the PDR is 1.000000.
+REINFORCE ep 6280 done. reward: 881.000000. reward running mean: 778.578706
+In Episode 6280, The PSR is 0.811000, the PDR is 0.894000.
+REINFORCE ep 6290 done. reward: 999.000000. reward running mean: 784.979711
+In Episode 6290, The PSR is 0.786000, the PDR is 1.000000.
+REINFORCE ep 6300 done. reward: 863.000000. reward running mean: 785.046860
+In Episode 6300, The PSR is 0.813000, the PDR is 0.880000.
+REINFORCE ep 6310 done. reward: 684.000000. reward running mean: 781.492365
+In Episode 6310, The PSR is 0.807000, the PDR is 0.760000.
+REINFORCE ep 6320 done. reward: 676.000000. reward running mean: 778.037882
+In Episode 6320, The PSR is 0.798000, the PDR is 0.756000.
+REINFORCE ep 6330 done. reward: 587.000000. reward running mean: 766.937652
+In Episode 6330, The PSR is 0.785000, the PDR is 0.708000.
+REINFORCE ep 6340 done. reward: 896.000000. reward running mean: 770.904206
+In Episode 6340, The PSR is 0.791000, the PDR is 0.907000.
+REINFORCE ep 6350 done. reward: 999.000000. reward running mean: 778.398460
+In Episode 6350, The PSR is 0.803000, the PDR is 1.000000.
+REINFORCE ep 6360 done. reward: 835.000000. reward running mean: 780.613504
+In Episode 6360, The PSR is 0.810000, the PDR is 0.859000.
+REINFORCE ep 6370 done. reward: 871.000000. reward running mean: 782.329227
+In Episode 6370, The PSR is 0.794000, the PDR is 0.887000.
+REINFORCE ep 6380 done. reward: 852.000000. reward running mean: 787.386961
+In Episode 6380, The PSR is 0.803000, the PDR is 0.872000.
+REINFORCE ep 6390 done. reward: 999.000000. reward running mean: 795.397020
+In Episode 6390, The PSR is 0.795000, the PDR is 1.000000.
+REINFORCE ep 6400 done. reward: 593.000000. reward running mean: 794.484865
+In Episode 6400, The PSR is 0.800000, the PDR is 0.711000.
+REINFORCE ep 6410 done. reward: 688.000000. reward running mean: 798.418891
+In Episode 6410, The PSR is 0.796000, the PDR is 0.763000.
+REINFORCE ep 6420 done. reward: 590.000000. reward running mean: 799.647796
+In Episode 6420, The PSR is 0.808000, the PDR is 0.710000.
+REINFORCE ep 6430 done. reward: 643.000000. reward running mean: 796.034140
+In Episode 6430, The PSR is 0.787000, the PDR is 0.737000.
+REINFORCE ep 6440 done. reward: 856.000000. reward running mean: 795.479286
+In Episode 6440, The PSR is 0.790000, the PDR is 0.875000.
+REINFORCE ep 6450 done. reward: 999.000000. reward running mean: 802.613640
+In Episode 6450, The PSR is 0.818000, the PDR is 1.000000.
+REINFORCE ep 6460 done. reward: 873.000000. reward running mean: 806.783094
+In Episode 6460, The PSR is 0.797000, the PDR is 0.888000.
+REINFORCE ep 6470 done. reward: 576.000000. reward running mean: 803.615568
+In Episode 6470, The PSR is 0.796000, the PDR is 0.703000.
+REINFORCE ep 6480 done. reward: 645.000000. reward running mean: 796.360088
+In Episode 6480, The PSR is 0.816000, the PDR is 0.739000.
+REINFORCE ep 6490 done. reward: 851.000000. reward running mean: 792.238377
+In Episode 6490, The PSR is 0.809000, the PDR is 0.871000.
+REINFORCE ep 6500 done. reward: 863.000000. reward running mean: 779.451114
+In Episode 6500, The PSR is 0.818000, the PDR is 0.880000.
+REINFORCE ep 6510 done. reward: 911.000000. reward running mean: 789.353997
+In Episode 6510, The PSR is 0.804000, the PDR is 0.919000.
+REINFORCE ep 6520 done. reward: 586.000000. reward running mean: 782.520612
+In Episode 6520, The PSR is 0.805000, the PDR is 0.708000.
+REINFORCE ep 6530 done. reward: 999.000000. reward running mean: 783.533423
+In Episode 6530, The PSR is 0.805000, the PDR is 1.000000.
+REINFORCE ep 6540 done. reward: 588.000000. reward running mean: 791.828697
+In Episode 6540, The PSR is 0.791000, the PDR is 0.709000.
+REINFORCE ep 6550 done. reward: 691.000000. reward running mean: 791.493829
+In Episode 6550, The PSR is 0.786000, the PDR is 0.765000.
+REINFORCE ep 6560 done. reward: 870.000000. reward running mean: 799.939829
+In Episode 6560, The PSR is 0.807000, the PDR is 0.886000.
+REINFORCE ep 6570 done. reward: 892.000000. reward running mean: 797.705326
+In Episode 6570, The PSR is 0.807000, the PDR is 0.903000.
+REINFORCE ep 6580 done. reward: 879.000000. reward running mean: 798.431475
+In Episode 6580, The PSR is 0.793000, the PDR is 0.893000.
+REINFORCE ep 6590 done. reward: 686.000000. reward running mean: 801.623756
+In Episode 6590, The PSR is 0.809000, the PDR is 0.762000.
+REINFORCE ep 6600 done. reward: 872.000000. reward running mean: 796.691513
+In Episode 6600, The PSR is 0.796000, the PDR is 0.887000.
+REINFORCE ep 6610 done. reward: 917.000000. reward running mean: 801.157369
+In Episode 6610, The PSR is 0.796000, the PDR is 0.924000.
+REINFORCE ep 6620 done. reward: 853.000000. reward running mean: 796.597053
+In Episode 6620, The PSR is 0.791000, the PDR is 0.873000.
+REINFORCE ep 6630 done. reward: 856.000000. reward running mean: 792.488313
+In Episode 6630, The PSR is 0.822000, the PDR is 0.875000.
+REINFORCE ep 6640 done. reward: 846.000000. reward running mean: 790.923581
+In Episode 6640, The PSR is 0.827000, the PDR is 0.867000.
+REINFORCE ep 6650 done. reward: 902.000000. reward running mean: 794.111479
+In Episode 6650, The PSR is 0.807000, the PDR is 0.912000.
+REINFORCE ep 6660 done. reward: 849.000000. reward running mean: 784.527042
+In Episode 6660, The PSR is 0.788000, the PDR is 0.870000.
+REINFORCE ep 6670 done. reward: 864.000000. reward running mean: 782.899330
+In Episode 6670, The PSR is 0.798000, the PDR is 0.881000.
+REINFORCE ep 6680 done. reward: 902.000000. reward running mean: 788.624756
+In Episode 6680, The PSR is 0.791000, the PDR is 0.912000.
+REINFORCE ep 6690 done. reward: 667.000000. reward running mean: 790.890792
+In Episode 6690, The PSR is 0.800000, the PDR is 0.751000.
+REINFORCE ep 6700 done. reward: 890.000000. reward running mean: 794.206620
+In Episode 6700, The PSR is 0.814000, the PDR is 0.902000.
+REINFORCE ep 6710 done. reward: 693.000000. reward running mean: 801.955230
+In Episode 6710, The PSR is 0.808000, the PDR is 0.766000.
+REINFORCE ep 6720 done. reward: 875.000000. reward running mean: 806.696517
+In Episode 6720, The PSR is 0.805000, the PDR is 0.890000.
+REINFORCE ep 6730 done. reward: 848.000000. reward running mean: 808.584436
+In Episode 6730, The PSR is 0.820000, the PDR is 0.869000.
+REINFORCE ep 6740 done. reward: 575.000000. reward running mean: 799.370824
+In Episode 6740, The PSR is 0.808000, the PDR is 0.702000.
+REINFORCE ep 6750 done. reward: 884.000000. reward running mean: 794.853564
+In Episode 6750, The PSR is 0.790000, the PDR is 0.897000.
+REINFORCE ep 6760 done. reward: 859.000000. reward running mean: 796.082652
+In Episode 6760, The PSR is 0.816000, the PDR is 0.877000.
+REINFORCE ep 6770 done. reward: 575.000000. reward running mean: 790.722078
+In Episode 6770, The PSR is 0.809000, the PDR is 0.702000.
+REINFORCE ep 6780 done. reward: 568.000000. reward running mean: 777.415966
+In Episode 6780, The PSR is 0.814000, the PDR is 0.699000.
+REINFORCE ep 6790 done. reward: 554.000000. reward running mean: 765.381239
+In Episode 6790, The PSR is 0.799000, the PDR is 0.692000.
+REINFORCE ep 6800 done. reward: 863.000000. reward running mean: 773.063273
+In Episode 6800, The PSR is 0.816000, the PDR is 0.880000.
+REINFORCE ep 6810 done. reward: 580.000000. reward running mean: 772.121364
+In Episode 6810, The PSR is 0.812000, the PDR is 0.705000.
+REINFORCE ep 6820 done. reward: 871.000000. reward running mean: 768.672130
+In Episode 6820, The PSR is 0.816000, the PDR is 0.887000.
+REINFORCE ep 6830 done. reward: 655.000000. reward running mean: 777.630091
+In Episode 6830, The PSR is 0.799000, the PDR is 0.744000.
+REINFORCE ep 6840 done. reward: 667.000000. reward running mean: 783.054282
+In Episode 6840, The PSR is 0.808000, the PDR is 0.751000.
+REINFORCE ep 6850 done. reward: 553.000000. reward running mean: 778.288617
+In Episode 6850, The PSR is 0.806000, the PDR is 0.692000.
+REINFORCE ep 6860 done. reward: 574.000000. reward running mean: 777.403643
+In Episode 6860, The PSR is 0.809000, the PDR is 0.702000.
+REINFORCE ep 6870 done. reward: 586.000000. reward running mean: 772.153491
+In Episode 6870, The PSR is 0.792000, the PDR is 0.708000.
+REINFORCE ep 6880 done. reward: 654.000000. reward running mean: 768.178663
+In Episode 6880, The PSR is 0.820000, the PDR is 0.743000.
+REINFORCE ep 6890 done. reward: 671.000000. reward running mean: 763.039404
+In Episode 6890, The PSR is 0.828000, the PDR is 0.753000.
+REINFORCE ep 6900 done. reward: 584.000000. reward running mean: 753.481068
+In Episode 6900, The PSR is 0.823000, the PDR is 0.707000.
+REINFORCE ep 6910 done. reward: 999.000000. reward running mean: 753.951250
+In Episode 6910, The PSR is 0.817000, the PDR is 1.000000.
+REINFORCE ep 6920 done. reward: 660.000000. reward running mean: 760.036748
+In Episode 6920, The PSR is 0.794000, the PDR is 0.747000.
+REINFORCE ep 6930 done. reward: 864.000000. reward running mean: 757.631996
+In Episode 6930, The PSR is 0.824000, the PDR is 0.881000.
+REINFORCE ep 6940 done. reward: 910.000000. reward running mean: 766.985643
+In Episode 6940, The PSR is 0.847000, the PDR is 0.918000.
+REINFORCE ep 6950 done. reward: 856.000000. reward running mean: 766.945777
+In Episode 6950, The PSR is 0.824000, the PDR is 0.875000.
+REINFORCE ep 6960 done. reward: 730.000000. reward running mean: 777.074158
+In Episode 6960, The PSR is 0.807000, the PDR is 0.788000.
+REINFORCE ep 6970 done. reward: 855.000000. reward running mean: 778.415062
+In Episode 6970, The PSR is 0.817000, the PDR is 0.874000.
+REINFORCE ep 6980 done. reward: 652.000000. reward running mean: 772.246818
+In Episode 6980, The PSR is 0.812000, the PDR is 0.742000.
+REINFORCE ep 6990 done. reward: 661.000000. reward running mean: 772.696946
+In Episode 6990, The PSR is 0.817000, the PDR is 0.747000.
+REINFORCE ep 7000 done. reward: 685.000000. reward running mean: 771.175995
+In Episode 7000, The PSR is 0.817000, the PDR is 0.761000.
+REINFORCE ep 7010 done. reward: 688.000000. reward running mean: 768.596391
+In Episode 7010, The PSR is 0.804000, the PDR is 0.763000.
+REINFORCE ep 7020 done. reward: 878.000000. reward running mean: 768.986642
+In Episode 7020, The PSR is 0.816000, the PDR is 0.892000.
+REINFORCE ep 7030 done. reward: 859.000000. reward running mean: 767.819793
+In Episode 7030, The PSR is 0.820000, the PDR is 0.877000.
+REINFORCE ep 7040 done. reward: 999.000000. reward running mean: 777.105596
+In Episode 7040, The PSR is 0.817000, the PDR is 1.000000.
+REINFORCE ep 7050 done. reward: 999.000000. reward running mean: 784.459451
+In Episode 7050, The PSR is 0.806000, the PDR is 1.000000.
+REINFORCE ep 7060 done. reward: 687.000000. reward running mean: 784.770171
+In Episode 7060, The PSR is 0.809000, the PDR is 0.762000.
+REINFORCE ep 7070 done. reward: 536.000000. reward running mean: 786.936089
+In Episode 7070, The PSR is 0.806000, the PDR is 0.684000.
+REINFORCE ep 7080 done. reward: 999.000000. reward running mean: 788.593876
+In Episode 7080, The PSR is 0.816000, the PDR is 1.000000.
+REINFORCE ep 7090 done. reward: 652.000000. reward running mean: 783.529953
+In Episode 7090, The PSR is 0.815000, the PDR is 0.742000.
+REINFORCE ep 7100 done. reward: 849.000000. reward running mean: 789.303382
+In Episode 7100, The PSR is 0.820000, the PDR is 0.870000.
+REINFORCE ep 7110 done. reward: 999.000000. reward running mean: 793.293716
+In Episode 7110, The PSR is 0.817000, the PDR is 1.000000.
+REINFORCE ep 7120 done. reward: 601.000000. reward running mean: 793.895334
+In Episode 7120, The PSR is 0.800000, the PDR is 0.715000.
+REINFORCE ep 7130 done. reward: 896.000000. reward running mean: 785.436125
+In Episode 7130, The PSR is 0.826000, the PDR is 0.907000.
+REINFORCE ep 7140 done. reward: 885.000000. reward running mean: 785.787894
+In Episode 7140, The PSR is 0.824000, the PDR is 0.898000.
+REINFORCE ep 7150 done. reward: 584.000000. reward running mean: 781.405335
+In Episode 7150, The PSR is 0.827000, the PDR is 0.707000.
+REINFORCE ep 7160 done. reward: 547.000000. reward running mean: 779.465798
+In Episode 7160, The PSR is 0.802000, the PDR is 0.689000.
+REINFORCE ep 7170 done. reward: 848.000000. reward running mean: 784.169872
+In Episode 7170, The PSR is 0.815000, the PDR is 0.869000.
+REINFORCE ep 7180 done. reward: 870.000000. reward running mean: 788.194891
+In Episode 7180, The PSR is 0.811000, the PDR is 0.886000.
+REINFORCE ep 7190 done. reward: 855.000000. reward running mean: 792.434028
+In Episode 7190, The PSR is 0.824000, the PDR is 0.874000.
+REINFORCE ep 7200 done. reward: 662.000000. reward running mean: 791.755610
+In Episode 7200, The PSR is 0.818000, the PDR is 0.748000.
+REINFORCE ep 7210 done. reward: 851.000000. reward running mean: 790.789796
+In Episode 7210, The PSR is 0.807000, the PDR is 0.871000.
+REINFORCE ep 7220 done. reward: 673.000000. reward running mean: 792.618089
+In Episode 7220, The PSR is 0.831000, the PDR is 0.754000.
+REINFORCE ep 7230 done. reward: 690.000000. reward running mean: 789.414807
+In Episode 7230, The PSR is 0.830000, the PDR is 0.764000.
+REINFORCE ep 7240 done. reward: 676.000000. reward running mean: 789.384606
+In Episode 7240, The PSR is 0.815000, the PDR is 0.756000.
+REINFORCE ep 7250 done. reward: 863.000000. reward running mean: 792.041150
+In Episode 7250, The PSR is 0.798000, the PDR is 0.880000.
+REINFORCE ep 7260 done. reward: 869.000000. reward running mean: 783.322140
+In Episode 7260, The PSR is 0.819000, the PDR is 0.885000.
+REINFORCE ep 7270 done. reward: 550.000000. reward running mean: 787.418886
+In Episode 7270, The PSR is 0.825000, the PDR is 0.690000.
+REINFORCE ep 7280 done. reward: 642.000000. reward running mean: 786.897437
+In Episode 7280, The PSR is 0.793000, the PDR is 0.737000.
+REINFORCE ep 7290 done. reward: 854.000000. reward running mean: 788.191668
+In Episode 7290, The PSR is 0.818000, the PDR is 0.873000.
+REINFORCE ep 7300 done. reward: 662.000000. reward running mean: 782.830368
+In Episode 7300, The PSR is 0.837000, the PDR is 0.748000.
+REINFORCE ep 7310 done. reward: 646.000000. reward running mean: 771.628765
+In Episode 7310, The PSR is 0.836000, the PDR is 0.739000.
+REINFORCE ep 7320 done. reward: 898.000000. reward running mean: 773.389954
+In Episode 7320, The PSR is 0.844000, the PDR is 0.908000.
+REINFORCE ep 7330 done. reward: 663.000000. reward running mean: 767.094780
+In Episode 7330, The PSR is 0.843000, the PDR is 0.749000.
+REINFORCE ep 7340 done. reward: 649.000000. reward running mean: 763.364839
+In Episode 7340, The PSR is 0.831000, the PDR is 0.741000.
+REINFORCE ep 7350 done. reward: 845.000000. reward running mean: 764.683610
+In Episode 7350, The PSR is 0.818000, the PDR is 0.867000.
+REINFORCE ep 7360 done. reward: 661.000000. reward running mean: 752.149954
+In Episode 7360, The PSR is 0.835000, the PDR is 0.747000.
+REINFORCE ep 7370 done. reward: 999.000000. reward running mean: 760.913906
+In Episode 7370, The PSR is 0.809000, the PDR is 1.000000.
+REINFORCE ep 7380 done. reward: 890.000000. reward running mean: 765.822077
+In Episode 7380, The PSR is 0.806000, the PDR is 0.902000.
+REINFORCE ep 7390 done. reward: 665.000000. reward running mean: 767.802190
+In Episode 7390, The PSR is 0.817000, the PDR is 0.750000.
+REINFORCE ep 7400 done. reward: 999.000000. reward running mean: 767.739494
+In Episode 7400, The PSR is 0.801000, the PDR is 1.000000.
+REINFORCE ep 7410 done. reward: 685.000000. reward running mean: 775.748734
+In Episode 7410, The PSR is 0.818000, the PDR is 0.761000.
+REINFORCE ep 7420 done. reward: 850.000000. reward running mean: 776.869362
+In Episode 7420, The PSR is 0.809000, the PDR is 0.870000.
+REINFORCE ep 7430 done. reward: 866.000000. reward running mean: 775.396809
+In Episode 7430, The PSR is 0.802000, the PDR is 0.883000.
+REINFORCE ep 7440 done. reward: 861.000000. reward running mean: 783.994571
+In Episode 7440, The PSR is 0.829000, the PDR is 0.879000.
+REINFORCE ep 7450 done. reward: 642.000000. reward running mean: 790.680850
+In Episode 7450, The PSR is 0.820000, the PDR is 0.737000.
+REINFORCE ep 7460 done. reward: 705.000000. reward running mean: 792.826616
+In Episode 7460, The PSR is 0.838000, the PDR is 0.773000.
+REINFORCE ep 7470 done. reward: 658.000000. reward running mean: 781.025891
+In Episode 7470, The PSR is 0.815000, the PDR is 0.746000.
+REINFORCE ep 7480 done. reward: 898.000000. reward running mean: 786.540651
+In Episode 7480, The PSR is 0.814000, the PDR is 0.908000.
+REINFORCE ep 7490 done. reward: 780.000000. reward running mean: 779.295765
+In Episode 7490, The PSR is 0.832000, the PDR is 0.820000.
+REINFORCE ep 7500 done. reward: 882.000000. reward running mean: 779.197809
+In Episode 7500, The PSR is 0.833000, the PDR is 0.895000.
+REINFORCE ep 7510 done. reward: 685.000000. reward running mean: 777.980797
+In Episode 7510, The PSR is 0.826000, the PDR is 0.761000.
+REINFORCE ep 7520 done. reward: 883.000000. reward running mean: 777.710090
+In Episode 7520, The PSR is 0.826000, the PDR is 0.896000.
+REINFORCE ep 7530 done. reward: 862.000000. reward running mean: 782.253790
+In Episode 7530, The PSR is 0.829000, the PDR is 0.880000.
+REINFORCE ep 7540 done. reward: 856.000000. reward running mean: 777.028755
+In Episode 7540, The PSR is 0.818000, the PDR is 0.875000.
+REINFORCE ep 7550 done. reward: 570.000000. reward running mean: 774.981108
+In Episode 7550, The PSR is 0.826000, the PDR is 0.700000.
+REINFORCE ep 7560 done. reward: 543.000000. reward running mean: 778.152186
+In Episode 7560, The PSR is 0.827000, the PDR is 0.687000.
+REINFORCE ep 7570 done. reward: 560.000000. reward running mean: 781.450044
+In Episode 7570, The PSR is 0.810000, the PDR is 0.695000.
+REINFORCE ep 7580 done. reward: 898.000000. reward running mean: 774.799792
+In Episode 7580, The PSR is 0.820000, the PDR is 0.908000.
+REINFORCE ep 7590 done. reward: 691.000000. reward running mean: 779.526242
+In Episode 7590, The PSR is 0.820000, the PDR is 0.765000.
+REINFORCE ep 7600 done. reward: 682.000000. reward running mean: 782.075084
+In Episode 7600, The PSR is 0.843000, the PDR is 0.759000.
+REINFORCE ep 7610 done. reward: 879.000000. reward running mean: 773.641433
+In Episode 7610, The PSR is 0.818000, the PDR is 0.893000.
+REINFORCE ep 7620 done. reward: 848.000000. reward running mean: 768.729212
+In Episode 7620, The PSR is 0.816000, the PDR is 0.869000.
+REINFORCE ep 7630 done. reward: 868.000000. reward running mean: 765.331274
+In Episode 7630, The PSR is 0.824000, the PDR is 0.884000.
+REINFORCE ep 7640 done. reward: 855.000000. reward running mean: 771.086272
+In Episode 7640, The PSR is 0.844000, the PDR is 0.874000.
+REINFORCE ep 7650 done. reward: 669.000000. reward running mean: 784.333236
+In Episode 7650, The PSR is 0.826000, the PDR is 0.752000.
+REINFORCE ep 7660 done. reward: 873.000000. reward running mean: 782.975436
+In Episode 7660, The PSR is 0.823000, the PDR is 0.888000.
+REINFORCE ep 7670 done. reward: 881.000000. reward running mean: 785.950846
+In Episode 7670, The PSR is 0.840000, the PDR is 0.894000.
+REINFORCE ep 7680 done. reward: 579.000000. reward running mean: 778.306718
+In Episode 7680, The PSR is 0.819000, the PDR is 0.704000.
+REINFORCE ep 7690 done. reward: 617.000000. reward running mean: 769.455400
+In Episode 7690, The PSR is 0.822000, the PDR is 0.724000.
+REINFORCE ep 7700 done. reward: 724.000000. reward running mean: 761.400240
+In Episode 7700, The PSR is 0.824000, the PDR is 0.784000.
+REINFORCE ep 7710 done. reward: 521.000000. reward running mean: 761.060266
+In Episode 7710, The PSR is 0.828000, the PDR is 0.677000.
+REINFORCE ep 7720 done. reward: 878.000000. reward running mean: 774.114042
+In Episode 7720, The PSR is 0.825000, the PDR is 0.892000.
+REINFORCE ep 7730 done. reward: 562.000000. reward running mean: 775.492298
+In Episode 7730, The PSR is 0.833000, the PDR is 0.696000.
+REINFORCE ep 7740 done. reward: 653.000000. reward running mean: 771.521392
+In Episode 7740, The PSR is 0.821000, the PDR is 0.743000.
+REINFORCE ep 7750 done. reward: 845.000000. reward running mean: 772.269547
+In Episode 7750, The PSR is 0.834000, the PDR is 0.867000.
+REINFORCE ep 7760 done. reward: 886.000000. reward running mean: 778.393678
+In Episode 7760, The PSR is 0.829000, the PDR is 0.898000.
+REINFORCE ep 7770 done. reward: 999.000000. reward running mean: 780.606291
+In Episode 7770, The PSR is 0.814000, the PDR is 1.000000.
+REINFORCE ep 7780 done. reward: 618.000000. reward running mean: 771.643928
+In Episode 7780, The PSR is 0.839000, the PDR is 0.724000.
+REINFORCE ep 7790 done. reward: 888.000000. reward running mean: 774.073544
+In Episode 7790, The PSR is 0.832000, the PDR is 0.900000.
+REINFORCE ep 7800 done. reward: 851.000000. reward running mean: 772.302297
+In Episode 7800, The PSR is 0.819000, the PDR is 0.871000.
+REINFORCE ep 7810 done. reward: 563.000000. reward running mean: 771.460783
+In Episode 7810, The PSR is 0.833000, the PDR is 0.696000.
+REINFORCE ep 7820 done. reward: 653.000000. reward running mean: 772.640110
+In Episode 7820, The PSR is 0.838000, the PDR is 0.743000.
+REINFORCE ep 7830 done. reward: 693.000000. reward running mean: 767.309954
+In Episode 7830, The PSR is 0.828000, the PDR is 0.766000.
+REINFORCE ep 7840 done. reward: 844.000000. reward running mean: 767.100800
+In Episode 7840, The PSR is 0.811000, the PDR is 0.866000.
+REINFORCE ep 7850 done. reward: 557.000000. reward running mean: 763.132288
+In Episode 7850, The PSR is 0.830000, the PDR is 0.693000.
+REINFORCE ep 7860 done. reward: 660.000000. reward running mean: 753.854850
+In Episode 7860, The PSR is 0.844000, the PDR is 0.747000.
+REINFORCE ep 7870 done. reward: 999.000000. reward running mean: 769.303920
+In Episode 7870, The PSR is 0.825000, the PDR is 1.000000.
+REINFORCE ep 7880 done. reward: 847.000000. reward running mean: 766.491015
+In Episode 7880, The PSR is 0.818000, the PDR is 0.868000.
+REINFORCE ep 7890 done. reward: 686.000000. reward running mean: 775.557632
+In Episode 7890, The PSR is 0.821000, the PDR is 0.762000.
+REINFORCE ep 7900 done. reward: 870.000000. reward running mean: 784.149209
+In Episode 7900, The PSR is 0.815000, the PDR is 0.886000.
+REINFORCE ep 7910 done. reward: 843.000000. reward running mean: 789.423931
+In Episode 7910, The PSR is 0.836000, the PDR is 0.865000.
+REINFORCE ep 7920 done. reward: 653.000000. reward running mean: 788.011047
+In Episode 7920, The PSR is 0.819000, the PDR is 0.743000.
+REINFORCE ep 7930 done. reward: 665.000000. reward running mean: 777.212356
+In Episode 7930, The PSR is 0.827000, the PDR is 0.750000.
+REINFORCE ep 7940 done. reward: 855.000000. reward running mean: 780.469110
+In Episode 7940, The PSR is 0.844000, the PDR is 0.874000.
+REINFORCE ep 7950 done. reward: 999.000000. reward running mean: 792.580873
+In Episode 7950, The PSR is 0.813000, the PDR is 1.000000.
+REINFORCE ep 7960 done. reward: 858.000000. reward running mean: 794.139230
+In Episode 7960, The PSR is 0.829000, the PDR is 0.876000.
+REINFORCE ep 7970 done. reward: 674.000000. reward running mean: 792.118243
+In Episode 7970, The PSR is 0.839000, the PDR is 0.755000.
+REINFORCE ep 7980 done. reward: 999.000000. reward running mean: 800.943459
+In Episode 7980, The PSR is 0.834000, the PDR is 1.000000.
+REINFORCE ep 7990 done. reward: 666.000000. reward running mean: 797.492216
+In Episode 7990, The PSR is 0.838000, the PDR is 0.750000.
+REINFORCE ep 8000 done. reward: 648.000000. reward running mean: 796.310957
+In Episode 8000, The PSR is 0.839000, the PDR is 0.740000.
+REINFORCE ep 8010 done. reward: 908.000000. reward running mean: 790.528673
+In Episode 8010, The PSR is 0.849000, the PDR is 0.917000.
+REINFORCE ep 8020 done. reward: 668.000000. reward running mean: 780.616065
+In Episode 8020, The PSR is 0.831000, the PDR is 0.751000.
+REINFORCE ep 8030 done. reward: 565.000000. reward running mean: 770.283697
+In Episode 8030, The PSR is 0.831000, the PDR is 0.697000.
+REINFORCE ep 8040 done. reward: 851.000000. reward running mean: 774.619230
+In Episode 8040, The PSR is 0.819000, the PDR is 0.871000.
+REINFORCE ep 8050 done. reward: 999.000000. reward running mean: 775.715704
+In Episode 8050, The PSR is 0.831000, the PDR is 1.000000.
+REINFORCE ep 8060 done. reward: 658.000000. reward running mean: 769.651181
+In Episode 8060, The PSR is 0.844000, the PDR is 0.746000.
+REINFORCE ep 8070 done. reward: 572.000000. reward running mean: 776.192621
+In Episode 8070, The PSR is 0.832000, the PDR is 0.701000.
+REINFORCE ep 8080 done. reward: 675.000000. reward running mean: 768.202690
+In Episode 8080, The PSR is 0.828000, the PDR is 0.755000.
+REINFORCE ep 8090 done. reward: 671.000000. reward running mean: 762.116767
+In Episode 8090, The PSR is 0.822000, the PDR is 0.753000.
+REINFORCE ep 8100 done. reward: 842.000000. reward running mean: 755.498462
+In Episode 8100, The PSR is 0.826000, the PDR is 0.864000.
+REINFORCE ep 8110 done. reward: 882.000000. reward running mean: 757.504432
+In Episode 8110, The PSR is 0.826000, the PDR is 0.895000.
+REINFORCE ep 8120 done. reward: 888.000000. reward running mean: 769.544885
+In Episode 8120, The PSR is 0.847000, the PDR is 0.900000.
+REINFORCE ep 8130 done. reward: 885.000000. reward running mean: 773.892480
+In Episode 8130, The PSR is 0.840000, the PDR is 0.898000.
+REINFORCE ep 8140 done. reward: 849.000000. reward running mean: 768.485804
+In Episode 8140, The PSR is 0.835000, the PDR is 0.870000.
+REINFORCE ep 8150 done. reward: 778.000000. reward running mean: 769.439960
+In Episode 8150, The PSR is 0.824000, the PDR is 0.819000.
+REINFORCE ep 8160 done. reward: 658.000000. reward running mean: 763.268453
+In Episode 8160, The PSR is 0.833000, the PDR is 0.746000.
+REINFORCE ep 8170 done. reward: 557.000000. reward running mean: 763.170953
+In Episode 8170, The PSR is 0.834000, the PDR is 0.693000.
+REINFORCE ep 8180 done. reward: 550.000000. reward running mean: 762.902720
+In Episode 8180, The PSR is 0.834000, the PDR is 0.690000.
+REINFORCE ep 8190 done. reward: 681.000000. reward running mean: 766.963131
+In Episode 8190, The PSR is 0.837000, the PDR is 0.759000.
+REINFORCE ep 8200 done. reward: 867.000000. reward running mean: 776.569410
+In Episode 8200, The PSR is 0.823000, the PDR is 0.883000.
+REINFORCE ep 8210 done. reward: 693.000000. reward running mean: 785.096703
+In Episode 8210, The PSR is 0.820000, the PDR is 0.766000.
+REINFORCE ep 8220 done. reward: 909.000000. reward running mean: 788.115940
+In Episode 8220, The PSR is 0.821000, the PDR is 0.917000.
+REINFORCE ep 8230 done. reward: 692.000000. reward running mean: 783.735844
+In Episode 8230, The PSR is 0.831000, the PDR is 0.765000.
+REINFORCE ep 8240 done. reward: 905.000000. reward running mean: 775.564126
+In Episode 8240, The PSR is 0.838000, the PDR is 0.914000.
+REINFORCE ep 8250 done. reward: 683.000000. reward running mean: 765.842691
+In Episode 8250, The PSR is 0.816000, the PDR is 0.760000.
+REINFORCE ep 8260 done. reward: 849.000000. reward running mean: 764.843289
+In Episode 8260, The PSR is 0.824000, the PDR is 0.870000.
+REINFORCE ep 8270 done. reward: 585.000000. reward running mean: 756.235626
+In Episode 8270, The PSR is 0.831000, the PDR is 0.707000.
+REINFORCE ep 8280 done. reward: 865.000000. reward running mean: 759.245416
+In Episode 8280, The PSR is 0.821000, the PDR is 0.882000.
+REINFORCE ep 8290 done. reward: 562.000000. reward running mean: 754.643980
+In Episode 8290, The PSR is 0.824000, the PDR is 0.696000.
+REINFORCE ep 8300 done. reward: 899.000000. reward running mean: 761.721710
+In Episode 8300, The PSR is 0.804000, the PDR is 0.909000.
+REINFORCE ep 8310 done. reward: 886.000000. reward running mean: 762.537257
+In Episode 8310, The PSR is 0.818000, the PDR is 0.898000.
+REINFORCE ep 8320 done. reward: 653.000000. reward running mean: 766.404132
+In Episode 8320, The PSR is 0.831000, the PDR is 0.743000.
+REINFORCE ep 8330 done. reward: 999.000000. reward running mean: 773.103804
+In Episode 8330, The PSR is 0.833000, the PDR is 1.000000.
+REINFORCE ep 8340 done. reward: 837.000000. reward running mean: 768.624532
+In Episode 8340, The PSR is 0.830000, the PDR is 0.861000.
+REINFORCE ep 8350 done. reward: 844.000000. reward running mean: 765.812957
+In Episode 8350, The PSR is 0.830000, the PDR is 0.866000.
+REINFORCE ep 8360 done. reward: 864.000000. reward running mean: 768.185417
+In Episode 8360, The PSR is 0.825000, the PDR is 0.881000.
+REINFORCE ep 8370 done. reward: 999.000000. reward running mean: 771.903725
+In Episode 8370, The PSR is 0.831000, the PDR is 1.000000.
+REINFORCE ep 8380 done. reward: 897.000000. reward running mean: 776.165127
+In Episode 8380, The PSR is 0.837000, the PDR is 0.907000.
+REINFORCE ep 8390 done. reward: 894.000000. reward running mean: 783.305837
+In Episode 8390, The PSR is 0.831000, the PDR is 0.905000.
+REINFORCE ep 8400 done. reward: 586.000000. reward running mean: 778.933723
+In Episode 8400, The PSR is 0.854000, the PDR is 0.708000.
+REINFORCE ep 8410 done. reward: 664.000000. reward running mean: 775.359579
+In Episode 8410, The PSR is 0.831000, the PDR is 0.749000.
+REINFORCE ep 8420 done. reward: 860.000000. reward running mean: 774.506133
+In Episode 8420, The PSR is 0.839000, the PDR is 0.878000.
+REINFORCE ep 8430 done. reward: 847.000000. reward running mean: 764.940921
+In Episode 8430, The PSR is 0.825000, the PDR is 0.868000.
+REINFORCE ep 8440 done. reward: 876.000000. reward running mean: 769.319791
+In Episode 8440, The PSR is 0.830000, the PDR is 0.890000.
+REINFORCE ep 8450 done. reward: 681.000000. reward running mean: 766.833130
+In Episode 8450, The PSR is 0.856000, the PDR is 0.759000.
+REINFORCE ep 8460 done. reward: 583.000000. reward running mean: 765.138039
+In Episode 8460, The PSR is 0.854000, the PDR is 0.706000.
+REINFORCE ep 8470 done. reward: 849.000000. reward running mean: 763.779719
+In Episode 8470, The PSR is 0.838000, the PDR is 0.870000.
+REINFORCE ep 8480 done. reward: 892.000000. reward running mean: 764.550657
+In Episode 8480, The PSR is 0.840000, the PDR is 0.903000.
+REINFORCE ep 8490 done. reward: 863.000000. reward running mean: 764.472296
+In Episode 8490, The PSR is 0.834000, the PDR is 0.880000.
+REINFORCE ep 8500 done. reward: 902.000000. reward running mean: 768.884434
+In Episode 8500, The PSR is 0.832000, the PDR is 0.912000.
+REINFORCE ep 8510 done. reward: 605.000000. reward running mean: 771.653718
+In Episode 8510, The PSR is 0.833000, the PDR is 0.717000.
+REINFORCE ep 8520 done. reward: 862.000000. reward running mean: 776.653423
+In Episode 8520, The PSR is 0.837000, the PDR is 0.880000.
+REINFORCE ep 8530 done. reward: 871.000000. reward running mean: 778.097495
+In Episode 8530, The PSR is 0.837000, the PDR is 0.887000.
+REINFORCE ep 8540 done. reward: 654.000000. reward running mean: 775.551965
+In Episode 8540, The PSR is 0.826000, the PDR is 0.743000.
+REINFORCE ep 8550 done. reward: 700.000000. reward running mean: 777.714163
+In Episode 8550, The PSR is 0.826000, the PDR is 0.770000.
+REINFORCE ep 8560 done. reward: 999.000000. reward running mean: 789.633975
+In Episode 8560, The PSR is 0.842000, the PDR is 1.000000.
+REINFORCE ep 8570 done. reward: 858.000000. reward running mean: 786.717373
+In Episode 8570, The PSR is 0.840000, the PDR is 0.876000.
+REINFORCE ep 8580 done. reward: 895.000000. reward running mean: 793.298977
+In Episode 8580, The PSR is 0.840000, the PDR is 0.906000.
+REINFORCE ep 8590 done. reward: 859.000000. reward running mean: 781.880746
+In Episode 8590, The PSR is 0.852000, the PDR is 0.877000.
+REINFORCE ep 8600 done. reward: 852.000000. reward running mean: 786.646704
+In Episode 8600, The PSR is 0.824000, the PDR is 0.872000.
+REINFORCE ep 8610 done. reward: 562.000000. reward running mean: 776.212487
+In Episode 8610, The PSR is 0.824000, the PDR is 0.696000.
+REINFORCE ep 8620 done. reward: 884.000000. reward running mean: 766.739566
+In Episode 8620, The PSR is 0.844000, the PDR is 0.897000.
+REINFORCE ep 8630 done. reward: 648.000000. reward running mean: 774.589154
+In Episode 8630, The PSR is 0.846000, the PDR is 0.740000.
+REINFORCE ep 8640 done. reward: 842.000000. reward running mean: 771.121513
+In Episode 8640, The PSR is 0.835000, the PDR is 0.864000.
+REINFORCE ep 8650 done. reward: 898.000000. reward running mean: 767.424041
+In Episode 8650, The PSR is 0.819000, the PDR is 0.908000.
+REINFORCE ep 8660 done. reward: 873.000000. reward running mean: 760.909638
+In Episode 8660, The PSR is 0.827000, the PDR is 0.888000.
+REINFORCE ep 8670 done. reward: 844.000000. reward running mean: 759.184030
+In Episode 8670, The PSR is 0.838000, the PDR is 0.866000.
+REINFORCE ep 8680 done. reward: 999.000000. reward running mean: 763.371104
+In Episode 8680, The PSR is 0.853000, the PDR is 1.000000.
+REINFORCE ep 8690 done. reward: 851.000000. reward running mean: 757.899184
+In Episode 8690, The PSR is 0.825000, the PDR is 0.871000.
+REINFORCE ep 8700 done. reward: 911.000000. reward running mean: 757.093464
+In Episode 8700, The PSR is 0.849000, the PDR is 0.919000.
+REINFORCE ep 8710 done. reward: 629.000000. reward running mean: 756.971732
+In Episode 8710, The PSR is 0.845000, the PDR is 0.730000.
+REINFORCE ep 8720 done. reward: 515.000000. reward running mean: 759.095177
+In Episode 8720, The PSR is 0.832000, the PDR is 0.674000.
+REINFORCE ep 8730 done. reward: 678.000000. reward running mean: 754.812670
+In Episode 8730, The PSR is 0.828000, the PDR is 0.757000.
+REINFORCE ep 8740 done. reward: 894.000000. reward running mean: 761.851717
+In Episode 8740, The PSR is 0.844000, the PDR is 0.905000.
+REINFORCE ep 8750 done. reward: 652.000000. reward running mean: 753.731803
+In Episode 8750, The PSR is 0.841000, the PDR is 0.742000.
+REINFORCE ep 8760 done. reward: 881.000000. reward running mean: 758.019904
+In Episode 8760, The PSR is 0.830000, the PDR is 0.894000.
+REINFORCE ep 8770 done. reward: 868.000000. reward running mean: 762.738277
+In Episode 8770, The PSR is 0.822000, the PDR is 0.884000.
+REINFORCE ep 8780 done. reward: 902.000000. reward running mean: 769.813815
+In Episode 8780, The PSR is 0.854000, the PDR is 0.912000.
+REINFORCE ep 8790 done. reward: 864.000000. reward running mean: 773.695936
+In Episode 8790, The PSR is 0.845000, the PDR is 0.881000.
+REINFORCE ep 8800 done. reward: 999.000000. reward running mean: 774.635625
+In Episode 8800, The PSR is 0.840000, the PDR is 1.000000.
+REINFORCE ep 8810 done. reward: 845.000000. reward running mean: 773.499593
+In Episode 8810, The PSR is 0.823000, the PDR is 0.867000.
+REINFORCE ep 8820 done. reward: 829.000000. reward running mean: 776.096603
+In Episode 8820, The PSR is 0.832000, the PDR is 0.855000.
+REINFORCE ep 8830 done. reward: 876.000000. reward running mean: 771.078818
+In Episode 8830, The PSR is 0.826000, the PDR is 0.890000.
+REINFORCE ep 8840 done. reward: 884.000000. reward running mean: 767.965629
+In Episode 8840, The PSR is 0.828000, the PDR is 0.897000.
+REINFORCE ep 8850 done. reward: 636.000000. reward running mean: 762.647592
+In Episode 8850, The PSR is 0.834000, the PDR is 0.734000.
+REINFORCE ep 8860 done. reward: 864.000000. reward running mean: 770.369273
+In Episode 8860, The PSR is 0.850000, the PDR is 0.881000.
+REINFORCE ep 8870 done. reward: 852.000000. reward running mean: 771.195221
+In Episode 8870, The PSR is 0.846000, the PDR is 0.872000.
+REINFORCE ep 8880 done. reward: 850.000000. reward running mean: 771.696959
+In Episode 8880, The PSR is 0.836000, the PDR is 0.870000.
+REINFORCE ep 8890 done. reward: 891.000000. reward running mean: 779.585680
+In Episode 8890, The PSR is 0.836000, the PDR is 0.903000.
+REINFORCE ep 8900 done. reward: 915.000000. reward running mean: 781.280104
+In Episode 8900, The PSR is 0.831000, the PDR is 0.923000.
+REINFORCE ep 8910 done. reward: 585.000000. reward running mean: 781.223683
+In Episode 8910, The PSR is 0.843000, the PDR is 0.707000.
+REINFORCE ep 8920 done. reward: 860.000000. reward running mean: 777.396424
+In Episode 8920, The PSR is 0.850000, the PDR is 0.878000.
+REINFORCE ep 8930 done. reward: 869.000000. reward running mean: 774.382790
+In Episode 8930, The PSR is 0.830000, the PDR is 0.885000.
+REINFORCE ep 8940 done. reward: 839.000000. reward running mean: 772.264572
+In Episode 8940, The PSR is 0.850000, the PDR is 0.862000.
+REINFORCE ep 8950 done. reward: 909.000000. reward running mean: 781.659589
+In Episode 8950, The PSR is 0.840000, the PDR is 0.917000.
+REINFORCE ep 8960 done. reward: 879.000000. reward running mean: 782.642114
+In Episode 8960, The PSR is 0.840000, the PDR is 0.893000.
+REINFORCE ep 8970 done. reward: 889.000000. reward running mean: 782.166469
+In Episode 8970, The PSR is 0.837000, the PDR is 0.901000.
+REINFORCE ep 8980 done. reward: 866.000000. reward running mean: 773.320241
+In Episode 8980, The PSR is 0.834000, the PDR is 0.883000.
+REINFORCE ep 8990 done. reward: 999.000000. reward running mean: 780.348228
+In Episode 8990, The PSR is 0.850000, the PDR is 1.000000.
+REINFORCE ep 9000 done. reward: 897.000000. reward running mean: 782.934609
+In Episode 9000, The PSR is 0.834000, the PDR is 0.907000.
+REINFORCE ep 9010 done. reward: 859.000000. reward running mean: 783.183138
+In Episode 9010, The PSR is 0.848000, the PDR is 0.877000.
+REINFORCE ep 9020 done. reward: 565.000000. reward running mean: 779.025789
+In Episode 9020, The PSR is 0.847000, the PDR is 0.697000.
+REINFORCE ep 9030 done. reward: 860.000000. reward running mean: 774.333271
+In Episode 9030, The PSR is 0.847000, the PDR is 0.878000.
+REINFORCE ep 9040 done. reward: 899.000000. reward running mean: 782.760197
+In Episode 9040, The PSR is 0.863000, the PDR is 0.909000.
+REINFORCE ep 9050 done. reward: 902.000000. reward running mean: 786.559544
+In Episode 9050, The PSR is 0.846000, the PDR is 0.912000.
+REINFORCE ep 9060 done. reward: 615.000000. reward running mean: 780.262965
+In Episode 9060, The PSR is 0.839000, the PDR is 0.723000.
+REINFORCE ep 9070 done. reward: 603.000000. reward running mean: 776.361314
+In Episode 9070, The PSR is 0.857000, the PDR is 0.716000.
+REINFORCE ep 9080 done. reward: 840.000000. reward running mean: 773.264697
+In Episode 9080, The PSR is 0.849000, the PDR is 0.863000.
+REINFORCE ep 9090 done. reward: 680.000000. reward running mean: 772.456956
+In Episode 9090, The PSR is 0.821000, the PDR is 0.758000.
+REINFORCE ep 9100 done. reward: 859.000000. reward running mean: 771.593702
+In Episode 9100, The PSR is 0.830000, the PDR is 0.877000.
+REINFORCE ep 9110 done. reward: 862.000000. reward running mean: 770.108307
+In Episode 9110, The PSR is 0.828000, the PDR is 0.880000.
+REINFORCE ep 9120 done. reward: 899.000000. reward running mean: 773.847683
+In Episode 9120, The PSR is 0.829000, the PDR is 0.909000.
+REINFORCE ep 9130 done. reward: 686.000000. reward running mean: 767.539927
+In Episode 9130, The PSR is 0.837000, the PDR is 0.762000.
+REINFORCE ep 9140 done. reward: 999.000000. reward running mean: 776.439580
+In Episode 9140, The PSR is 0.849000, the PDR is 1.000000.
+REINFORCE ep 9150 done. reward: 999.000000. reward running mean: 785.349345
+In Episode 9150, The PSR is 0.850000, the PDR is 1.000000.
+REINFORCE ep 9160 done. reward: 650.000000. reward running mean: 783.932145
+In Episode 9160, The PSR is 0.857000, the PDR is 0.741000.
+REINFORCE ep 9170 done. reward: 664.000000. reward running mean: 784.373821
+In Episode 9170, The PSR is 0.842000, the PDR is 0.749000.
+REINFORCE ep 9180 done. reward: 857.000000. reward running mean: 791.717705
+In Episode 9180, The PSR is 0.843000, the PDR is 0.876000.
+REINFORCE ep 9190 done. reward: 909.000000. reward running mean: 795.599629
+In Episode 9190, The PSR is 0.838000, the PDR is 0.917000.
+REINFORCE ep 9200 done. reward: 665.000000. reward running mean: 788.539639
+In Episode 9200, The PSR is 0.843000, the PDR is 0.750000.
+REINFORCE ep 9210 done. reward: 658.000000. reward running mean: 792.467598
+In Episode 9210, The PSR is 0.831000, the PDR is 0.746000.
+REINFORCE ep 9220 done. reward: 863.000000. reward running mean: 798.229997
+In Episode 9220, The PSR is 0.836000, the PDR is 0.880000.
+REINFORCE ep 9230 done. reward: 869.000000. reward running mean: 796.759958
+In Episode 9230, The PSR is 0.833000, the PDR is 0.885000.
+REINFORCE ep 9240 done. reward: 999.000000. reward running mean: 793.627634
+In Episode 9240, The PSR is 0.853000, the PDR is 1.000000.
+REINFORCE ep 9250 done. reward: 857.000000. reward running mean: 800.695653
+In Episode 9250, The PSR is 0.834000, the PDR is 0.876000.
+REINFORCE ep 9260 done. reward: 859.000000. reward running mean: 797.519069
+In Episode 9260, The PSR is 0.851000, the PDR is 0.877000.
+REINFORCE ep 9270 done. reward: 999.000000. reward running mean: 797.391286
+In Episode 9270, The PSR is 0.847000, the PDR is 1.000000.
+REINFORCE ep 9280 done. reward: 691.000000. reward running mean: 795.987789
+In Episode 9280, The PSR is 0.837000, the PDR is 0.765000.
+REINFORCE ep 9290 done. reward: 576.000000. reward running mean: 792.466325
+In Episode 9290, The PSR is 0.845000, the PDR is 0.703000.
+REINFORCE ep 9300 done. reward: 656.000000. reward running mean: 787.572961
+In Episode 9300, The PSR is 0.846000, the PDR is 0.745000.
+REINFORCE ep 9310 done. reward: 545.000000. reward running mean: 789.380299
+In Episode 9310, The PSR is 0.837000, the PDR is 0.688000.
+REINFORCE ep 9320 done. reward: 889.000000. reward running mean: 787.825538
+In Episode 9320, The PSR is 0.835000, the PDR is 0.901000.
+REINFORCE ep 9330 done. reward: 999.000000. reward running mean: 794.565489
+In Episode 9330, The PSR is 0.842000, the PDR is 1.000000.
+REINFORCE ep 9340 done. reward: 888.000000. reward running mean: 806.291492
+In Episode 9340, The PSR is 0.850000, the PDR is 0.900000.
+REINFORCE ep 9350 done. reward: 681.000000. reward running mean: 807.756804
+In Episode 9350, The PSR is 0.831000, the PDR is 0.759000.
+REINFORCE ep 9360 done. reward: 886.000000. reward running mean: 804.292357
+In Episode 9360, The PSR is 0.826000, the PDR is 0.898000.
+REINFORCE ep 9370 done. reward: 876.000000. reward running mean: 799.333206
+In Episode 9370, The PSR is 0.837000, the PDR is 0.890000.
+REINFORCE ep 9380 done. reward: 563.000000. reward running mean: 798.512993
+In Episode 9380, The PSR is 0.844000, the PDR is 0.696000.
+REINFORCE ep 9390 done. reward: 541.000000. reward running mean: 792.127462
+In Episode 9390, The PSR is 0.850000, the PDR is 0.686000.
+REINFORCE ep 9400 done. reward: 669.000000. reward running mean: 784.089524
+In Episode 9400, The PSR is 0.842000, the PDR is 0.752000.
+REINFORCE ep 9410 done. reward: 849.000000. reward running mean: 786.410318
+In Episode 9410, The PSR is 0.821000, the PDR is 0.870000.
+REINFORCE ep 9420 done. reward: 999.000000. reward running mean: 790.564507
+In Episode 9420, The PSR is 0.831000, the PDR is 1.000000.
+REINFORCE ep 9430 done. reward: 891.000000. reward running mean: 791.381536
+In Episode 9430, The PSR is 0.830000, the PDR is 0.903000.
+REINFORCE ep 9440 done. reward: 999.000000. reward running mean: 796.656710
+In Episode 9440, The PSR is 0.819000, the PDR is 1.000000.
+REINFORCE ep 9450 done. reward: 871.000000. reward running mean: 796.781367
+In Episode 9450, The PSR is 0.844000, the PDR is 0.887000.
+REINFORCE ep 9460 done. reward: 890.000000. reward running mean: 802.100728
+In Episode 9460, The PSR is 0.849000, the PDR is 0.902000.
+REINFORCE ep 9470 done. reward: 664.000000. reward running mean: 796.161434
+In Episode 9470, The PSR is 0.838000, the PDR is 0.749000.
+REINFORCE ep 9480 done. reward: 575.000000. reward running mean: 797.921650
+In Episode 9480, The PSR is 0.836000, the PDR is 0.702000.
+REINFORCE ep 9490 done. reward: 833.000000. reward running mean: 793.146822
+In Episode 9490, The PSR is 0.853000, the PDR is 0.858000.
+REINFORCE ep 9500 done. reward: 886.000000. reward running mean: 788.493311
+In Episode 9500, The PSR is 0.832000, the PDR is 0.898000.
+REINFORCE ep 9510 done. reward: 999.000000. reward running mean: 793.504008
+In Episode 9510, The PSR is 0.836000, the PDR is 1.000000.
+REINFORCE ep 9520 done. reward: 864.000000. reward running mean: 794.961290
+In Episode 9520, The PSR is 0.843000, the PDR is 0.881000.
+REINFORCE ep 9530 done. reward: 839.000000. reward running mean: 792.767525
+In Episode 9530, The PSR is 0.845000, the PDR is 0.862000.
+REINFORCE ep 9540 done. reward: 895.000000. reward running mean: 799.802031
+In Episode 9540, The PSR is 0.850000, the PDR is 0.906000.
+REINFORCE ep 9550 done. reward: 659.000000. reward running mean: 790.894310
+In Episode 9550, The PSR is 0.847000, the PDR is 0.746000.
+REINFORCE ep 9560 done. reward: 659.000000. reward running mean: 789.714772
+In Episode 9560, The PSR is 0.838000, the PDR is 0.746000.
+REINFORCE ep 9570 done. reward: 650.000000. reward running mean: 787.891592
+In Episode 9570, The PSR is 0.837000, the PDR is 0.741000.
+REINFORCE ep 9580 done. reward: 674.000000. reward running mean: 788.558840
+In Episode 9580, The PSR is 0.846000, the PDR is 0.755000.
+REINFORCE ep 9590 done. reward: 850.000000. reward running mean: 785.197578
+In Episode 9590, The PSR is 0.826000, the PDR is 0.870000.
+REINFORCE ep 9600 done. reward: 845.000000. reward running mean: 786.256384
+In Episode 9600, The PSR is 0.853000, the PDR is 0.867000.
+REINFORCE ep 9610 done. reward: 691.000000. reward running mean: 780.939033
+In Episode 9610, The PSR is 0.849000, the PDR is 0.765000.
+REINFORCE ep 9620 done. reward: 866.000000. reward running mean: 780.591828
+In Episode 9620, The PSR is 0.859000, the PDR is 0.883000.
+REINFORCE ep 9630 done. reward: 833.000000. reward running mean: 775.796605
+In Episode 9630, The PSR is 0.825000, the PDR is 0.858000.
+REINFORCE ep 9640 done. reward: 556.000000. reward running mean: 771.437551
+In Episode 9640, The PSR is 0.846000, the PDR is 0.693000.
+REINFORCE ep 9650 done. reward: 862.000000. reward running mean: 773.140818
+In Episode 9650, The PSR is 0.842000, the PDR is 0.880000.
+REINFORCE ep 9660 done. reward: 683.000000. reward running mean: 760.097633
+In Episode 9660, The PSR is 0.855000, the PDR is 0.760000.
+REINFORCE ep 9670 done. reward: 544.000000. reward running mean: 755.964345
+In Episode 9670, The PSR is 0.834000, the PDR is 0.687000.
+REINFORCE ep 9680 done. reward: 849.000000. reward running mean: 768.390204
+In Episode 9680, The PSR is 0.849000, the PDR is 0.870000.
+REINFORCE ep 9690 done. reward: 858.000000. reward running mean: 769.792555
+In Episode 9690, The PSR is 0.838000, the PDR is 0.876000.
+REINFORCE ep 9700 done. reward: 854.000000. reward running mean: 773.369535
+In Episode 9700, The PSR is 0.845000, the PDR is 0.873000.
+REINFORCE ep 9710 done. reward: 673.000000. reward running mean: 768.049417
+In Episode 9710, The PSR is 0.831000, the PDR is 0.754000.
+REINFORCE ep 9720 done. reward: 917.000000. reward running mean: 778.350052
+In Episode 9720, The PSR is 0.838000, the PDR is 0.924000.
+REINFORCE ep 9730 done. reward: 669.000000. reward running mean: 770.930585
+In Episode 9730, The PSR is 0.841000, the PDR is 0.752000.
+REINFORCE ep 9740 done. reward: 888.000000. reward running mean: 766.886554
+In Episode 9740, The PSR is 0.848000, the PDR is 0.900000.
+REINFORCE ep 9750 done. reward: 999.000000. reward running mean: 773.383561
+In Episode 9750, The PSR is 0.840000, the PDR is 1.000000.
+REINFORCE ep 9760 done. reward: 850.000000. reward running mean: 771.911360
+In Episode 9760, The PSR is 0.828000, the PDR is 0.870000.
+REINFORCE ep 9770 done. reward: 852.000000. reward running mean: 776.057550
+In Episode 9770, The PSR is 0.850000, the PDR is 0.872000.
+REINFORCE ep 9780 done. reward: 884.000000. reward running mean: 777.498606
+In Episode 9780, The PSR is 0.856000, the PDR is 0.897000.
+REINFORCE ep 9790 done. reward: 646.000000. reward running mean: 778.417725
+In Episode 9790, The PSR is 0.847000, the PDR is 0.739000.
+REINFORCE ep 9800 done. reward: 665.000000. reward running mean: 785.953415
+In Episode 9800, The PSR is 0.840000, the PDR is 0.750000.
+REINFORCE ep 9810 done. reward: 831.000000. reward running mean: 782.963420
+In Episode 9810, The PSR is 0.843000, the PDR is 0.856000.
+REINFORCE ep 9820 done. reward: 643.000000. reward running mean: 779.853504
+In Episode 9820, The PSR is 0.842000, the PDR is 0.737000.
+REINFORCE ep 9830 done. reward: 697.000000. reward running mean: 784.106815
+In Episode 9830, The PSR is 0.842000, the PDR is 0.768000.
+REINFORCE ep 9840 done. reward: 866.000000. reward running mean: 792.841902
+In Episode 9840, The PSR is 0.857000, the PDR is 0.883000.
+REINFORCE ep 9850 done. reward: 895.000000. reward running mean: 788.443617
+In Episode 9850, The PSR is 0.841000, the PDR is 0.906000.
+REINFORCE ep 9860 done. reward: 732.000000. reward running mean: 779.865134
+In Episode 9860, The PSR is 0.854000, the PDR is 0.789000.
+REINFORCE ep 9870 done. reward: 863.000000. reward running mean: 782.617528
+In Episode 9870, The PSR is 0.841000, the PDR is 0.880000.
+REINFORCE ep 9880 done. reward: 841.000000. reward running mean: 780.488996
+In Episode 9880, The PSR is 0.853000, the PDR is 0.864000.
+REINFORCE ep 9890 done. reward: 583.000000. reward running mean: 777.255526
+In Episode 9890, The PSR is 0.826000, the PDR is 0.706000.
+REINFORCE ep 9900 done. reward: 673.000000. reward running mean: 776.899436
+In Episode 9900, The PSR is 0.843000, the PDR is 0.754000.
+REINFORCE ep 9910 done. reward: 853.000000. reward running mean: 778.276738
+In Episode 9910, The PSR is 0.852000, the PDR is 0.873000.
+REINFORCE ep 9920 done. reward: 690.000000. reward running mean: 777.732603
+In Episode 9920, The PSR is 0.849000, the PDR is 0.764000.
+REINFORCE ep 9930 done. reward: 855.000000. reward running mean: 778.960783
+In Episode 9930, The PSR is 0.845000, the PDR is 0.874000.
+REINFORCE ep 9940 done. reward: 862.000000. reward running mean: 777.104081
+In Episode 9940, The PSR is 0.852000, the PDR is 0.880000.
+REINFORCE ep 9950 done. reward: 893.000000. reward running mean: 783.286412
+In Episode 9950, The PSR is 0.845000, the PDR is 0.904000.
+REINFORCE ep 9960 done. reward: 843.000000. reward running mean: 787.817033
+In Episode 9960, The PSR is 0.844000, the PDR is 0.865000.
+REINFORCE ep 9970 done. reward: 898.000000. reward running mean: 791.592819
+In Episode 9970, The PSR is 0.844000, the PDR is 0.908000.
+REINFORCE ep 9980 done. reward: 683.000000. reward running mean: 789.362142
+In Episode 9980, The PSR is 0.839000, the PDR is 0.760000.
+REINFORCE ep 9990 done. reward: 671.000000. reward running mean: 792.317762
+In Episode 9990, The PSR is 0.858000, the PDR is 0.753000.
